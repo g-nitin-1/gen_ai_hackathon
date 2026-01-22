@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018870785_1_v1_pg1",
+  "fields": {
+    "dealer_name": "SAI OM TRACTORS",
+    "model_name": "Escorts 760 FMX Tractors",
+    "horse_power": 55,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        899.1219482421875,
+        1487.7943115234375,
+        994.5963134765625,
+        1528.9512939453125
+      ],
+      "conf": 0.6025211811065674
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        812.4275512695312,
+        1459.550537109375,
+        1017.7742309570312,
+        1552.4443359375
+      ],
+      "conf": 0.6958968639373779
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.298; VLM logprob=-0.123; please verify",
+  "vlm_conf_logprob": -0.12333569405844785
+}

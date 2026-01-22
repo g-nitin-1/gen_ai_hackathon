@@ -1,0 +1,22 @@
+{
+  "doc_id": "173484083_3_pg2",
+  "fields": {
+    "dealer_name": "M/s Shivnath Tractors",
+    "model_name": "MAHINDRA 575 YUVD DI TECH+4WD",
+    "horse_power": 47,
+    "asset_cost": 845000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.000; VLM logprob=-0.066; please verify",
+  "vlm_conf_logprob": -0.0658578556681521
+}

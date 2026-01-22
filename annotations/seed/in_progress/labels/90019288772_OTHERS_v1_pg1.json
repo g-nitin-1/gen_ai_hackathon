@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019288772_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SRI GURU MOTORS",
+    "model_name": "MAHINDRA 225 EVO-2 WD",
+    "horse_power": 20,
+    "asset_cost": 550000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        836.0013427734375,
+        1455.5140380859375,
+        1118.108154296875,
+        1616.1885986328125
+      ],
+      "conf": 0.5035098195075989
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        821.19873046875,
+        1452.8404541015625,
+        1037.7496337890625,
+        1652.0841064453125
+      ],
+      "conf": 0.772716760635376
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.276; VLM logprob=-0.065; please verify",
+  "vlm_conf_logprob": -0.06510485615061531
+}

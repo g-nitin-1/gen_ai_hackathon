@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018882696_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Renuka Motors",
+    "model_name": "Eicher 548",
+    "horse_power": 48,
+    "asset_cost": 860000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        830.3402709960938,
+        1283.116943359375,
+        928.287353515625,
+        1362.3759765625
+      ],
+      "conf": 0.5595652461051941
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        816.912109375,
+        1260.67138671875,
+        1021.359130859375,
+        1391.6796875
+      ],
+      "conf": 0.712957501411438
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.273; VLM logprob=-0.016; please verify",
+  "vlm_conf_logprob": -0.01599050478275891
+}

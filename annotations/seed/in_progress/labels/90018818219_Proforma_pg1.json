@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018818219_Proforma_pg1",
+  "fields": {
+    "dealer_name": "MK.MOTORS",
+    "model_name": "DI-785 II EX POWER PLUS",
+    "horse_power": 67,
+    "asset_cost": 880000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        725.5238037109375,
+        985.2660522460938,
+        791.4699096679688,
+        1021.9780883789062
+      ],
+      "conf": 0.43326830863952637
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        707.8048095703125,
+        972.4782104492188,
+        785.3612060546875,
+        1050.723388671875
+      ],
+      "conf": 0.8826659321784973
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.316; VLM logprob=-0.180; please verify",
+  "vlm_conf_logprob": -0.18028757032640857
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173598485_4_pg17",
+  "fields": {
+    "dealer_name": "THE ODISHA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "POWERTRAC EURO 45 EE",
+    "horse_power": 47,
+    "asset_cost": 927453,
+    "signature": {
+      "present": true,
+      "bbox": [
+        890.7001342773438,
+        1179.32763671875,
+        1124.3572998046875,
+        1292.0570068359375
+      ],
+      "conf": 0.6066343188285828
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        48.16901779174805,
+        837.0948486328125,
+        288.4869384765625,
+        966.0298461914062
+      ],
+      "conf": 0.43992823362350464
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.047; VLM logprob=-0.030; please verify",
+  "vlm_conf_logprob": -0.0301948293178629
+}

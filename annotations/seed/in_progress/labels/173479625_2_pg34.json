@@ -1,0 +1,32 @@
+{
+  "doc_id": "173479625_2_pg34",
+  "fields": {
+    "dealer_name": "Chandra Tractors",
+    "model_name": "EICHER TRACTORS Model 188, 242, 312, 333, 368, 380, 480 485, 548, 551, 557, 650",
+    "horse_power": 36,
+    "asset_cost": 620000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        495.70758056640625,
+        399.5747985839844,
+        676.4447021484375,
+        466.6299743652344
+      ],
+      "conf": 0.4189343750476837
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        815.1520385742188,
+        1355.0672607421875,
+        1022.1126708984375,
+        1448.337158203125
+      ],
+      "conf": 0.813152551651001
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.232; VLM logprob=-0.019; please verify",
+  "vlm_conf_logprob": -0.018894095408137558
+}

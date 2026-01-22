@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019073224_1_v1_pg1",
+  "fields": {
+    "dealer_name": "RAM SINGH & SONS",
+    "model_name": "SONALIKA DI 60 4WD",
+    "horse_power": 45,
+    "asset_cost": 915000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        736.8311157226562,
+        1396.2115478515625,
+        920.6210327148438,
+        1472.5069580078125
+      ],
+      "conf": 0.7693561911582947
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.769; VLM logprob=-0.027; please verify",
+  "vlm_conf_logprob": -0.026990167097433276
+}

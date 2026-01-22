@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019757162_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/S. JAGALUR MAHALINGAPPA ENTERPRISES",
+    "model_name": "MF 1035 DI J Mahashakthi, Disck Brake PS",
+    "horse_power": 39,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        960.357421875,
+        1264.2159423828125,
+        1082.8409423828125,
+        1341.25634765625
+      ],
+      "conf": 0.831405758857727
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.831; VLM logprob=-0.024; please verify",
+  "vlm_conf_logprob": -0.023570920596770604
+}

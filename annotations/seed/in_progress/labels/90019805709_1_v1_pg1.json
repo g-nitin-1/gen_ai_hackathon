@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019805709_1_v1_pg1",
+  "fields": {
+    "dealer_name": "MK.MOTORS",
+    "model_name": "Sonalika DI-74511 Power Plus 01B PS 2WD",
+    "horse_power": 50,
+    "asset_cost": 850000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        875.53662109375,
+        1245.6119384765625,
+        1057.8043212890625,
+        1414.583740234375
+      ],
+      "conf": 0.9358858466148376
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.936; VLM logprob=-0.064; please verify",
+  "vlm_conf_logprob": -0.06383333200855296
+}

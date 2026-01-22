@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019676275_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Gurukrupa Tractors",
+    "model_name": "PY 32 Bagban",
+    "horse_power": 32,
+    "asset_cost": 595000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        833.3731689453125,
+        1611.830078125,
+        1002.6801147460938,
+        1736.5233154296875
+      ],
+      "conf": 0.4859810769557953
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        786.0850830078125,
+        1544.51416015625,
+        1041.9180908203125,
+        1769.0
+      ],
+      "conf": 0.8696924448013306
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.356; VLM logprob=-0.044; please verify",
+  "vlm_conf_logprob": -0.04356618311917175
+}

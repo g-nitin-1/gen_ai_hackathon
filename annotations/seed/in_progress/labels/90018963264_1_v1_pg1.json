@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018963264_1_v1_pg1",
+  "fields": {
+    "dealer_name": "M/S RIDHI SIDHI MOTORS",
+    "model_name": "FT CHAMPION XP 41",
+    "horse_power": 45,
+    "asset_cost": 545000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1193.09228515625,
+        1821.16064453125,
+        1462.2899169921875,
+        1968.4686279296875
+      ],
+      "conf": 0.44217127561569214
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1147.7943115234375,
+        1825.425537109375,
+        1486.74560546875,
+        1989.10302734375
+      ],
+      "conf": 0.8139334321022034
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.256; VLM logprob=-0.035; please verify",
+  "vlm_conf_logprob": -0.03543376587151442
+}

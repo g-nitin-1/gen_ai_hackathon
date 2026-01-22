@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018591220_None_v1_pg1",
+  "fields": {
+    "dealer_name": "M/s. JASMAN TRACTORS",
+    "model_name": "945 DI NBP",
+    "horse_power": 39,
+    "asset_cost": 738000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        892.4588623046875,
+        1379.655517578125,
+        1019.4253540039062,
+        1476.9530029296875
+      ],
+      "conf": 0.6820106506347656
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        875.7135009765625,
+        1375.384521484375,
+        1036.806884765625,
+        1531.8828125
+      ],
+      "conf": 0.9176068902015686
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.600; VLM logprob=-0.032; please verify",
+  "vlm_conf_logprob": -0.03188542380059781
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "90019566523_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "GS AUTOMOBILE",
+    "model_name": "SONALIKA DI-745 III",
+    "horse_power": 50,
+    "asset_cost": 620000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.000; VLM logprob=-0.039; please verify",
+  "vlm_conf_logprob": -0.03928453558584977
+}

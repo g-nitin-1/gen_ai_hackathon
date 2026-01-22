@@ -1,0 +1,32 @@
+{
+  "doc_id": "172427893_3_pg11",
+  "fields": {
+    "dealer_name": "The Odisha Agro Industries Corporation Ltd.",
+    "model_name": "SWARAJ 744 FE",
+    "horse_power": 48,
+    "asset_cost": 801815,
+    "signature": {
+      "present": true,
+      "bbox": [
+        874.2967529296875,
+        1437.1402587890625,
+        1012.4668579101562,
+        1486.9588623046875
+      ],
+      "conf": 0.7616602182388306
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        771.9423217773438,
+        1444.5806884765625,
+        1115.093017578125,
+        1556.4324951171875
+      ],
+      "conf": 0.3208944499492645
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.083; VLM logprob=-0.009; please verify",
+  "vlm_conf_logprob": -0.009292754230964605
+}

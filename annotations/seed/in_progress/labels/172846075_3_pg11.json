@@ -1,0 +1,32 @@
+{
+  "doc_id": "172846075_3_pg11",
+  "fields": {
+    "dealer_name": "Shree Bajrang Tractors",
+    "model_name": "Sonalika 55 Tiger",
+    "horse_power": 35,
+    "asset_cost": 1300000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        849.0474243164062,
+        1230.26220703125,
+        1117.5931396484375,
+        1333.752197265625
+      ],
+      "conf": 0.6412727236747742
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        791.3109741210938,
+        1204.323486328125,
+        1116.6173095703125,
+        1334.8309326171875
+      ],
+      "conf": 0.8269233107566833
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.468; VLM logprob=-0.078; please verify",
+  "vlm_conf_logprob": -0.07777036384652074
+}

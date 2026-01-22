@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018503974_175272915_1_pg15",
+  "fields": {
+    "dealer_name": "NATIONAL MOTORS",
+    "model_name": "MF 841 DI",
+    "horse_power": 48,
+    "asset_cost": 639000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        919.5609130859375,
+        1379.2255859375,
+        1203.268798828125,
+        1466.1986083984375
+      ],
+      "conf": 0.6670915484428406
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        975.91064453125,
+        1325.5679931640625,
+        1148.63134765625,
+        1498.2537841796875
+      ],
+      "conf": 0.9263263940811157
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.593; VLM logprob=-0.035; please verify",
+  "vlm_conf_logprob": -0.03480370433956967
+}

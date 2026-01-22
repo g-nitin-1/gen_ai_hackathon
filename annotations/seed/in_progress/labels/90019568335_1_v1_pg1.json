@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019568335_1_v1_pg1",
+  "fields": {
+    "dealer_name": "M. VIKAS AGENCY",
+    "model_name": "SONALIKA 760 TDI",
+    "horse_power": 48,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        2185.98974609375,
+        3003.96142578125,
+        2477.884765625,
+        3247.2119140625
+      ],
+      "conf": 0.4683215916156769
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        2012.9510498046875,
+        2884.44921875,
+        2356.333984375,
+        3259.002197265625
+      ],
+      "conf": 0.8575606942176819
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.326; VLM logprob=-0.141; please verify",
+  "vlm_conf_logprob": -0.140957427008193
+}

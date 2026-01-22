@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019493117_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Shiv Shakti Tractors",
+    "model_name": "MESLI FERGUSON MF 1035 DI NABUSSKTI",
+    "horse_power": 39,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        905.0458984375,
+        1330.816650390625,
+        1179.5191650390625,
+        1429.4122314453125
+      ],
+      "conf": 0.7108033895492554
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        932.9891357421875,
+        1276.6373291015625,
+        1109.658935546875,
+        1449.3863525390625
+      ],
+      "conf": 0.9281479716300964
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.639; VLM logprob=-0.197; please verify",
+  "vlm_conf_logprob": -0.19727595888511285
+}

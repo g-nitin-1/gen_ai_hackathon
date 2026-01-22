@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019078880_1_v1_pg1",
+  "fields": {
+    "dealer_name": "ASHWAMEGH MOTORS",
+    "model_name": "1035 DI",
+    "horse_power": 39,
+    "asset_cost": 685260,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1286.572998046875,
+        1842.17431640625,
+        1485.766845703125,
+        1976.1827392578125
+      ],
+      "conf": 0.5146885514259338
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1300.1361083984375,
+        1769.8597412109375,
+        1535.2633056640625,
+        2007.0333251953125
+      ],
+      "conf": 0.9370594620704651
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.452; VLM logprob=-0.077; please verify",
+  "vlm_conf_logprob": -0.0767258851690077
+}

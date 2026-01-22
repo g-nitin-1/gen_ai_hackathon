@@ -1,0 +1,32 @@
+{
+  "doc_id": "172674674_2_pg26",
+  "fields": {
+    "dealer_name": "ODISHA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "DI 47 RX 4 WD",
+    "horse_power": 50,
+    "asset_cost": 909903,
+    "signature": {
+      "present": true,
+      "bbox": [
+        68.6810302734375,
+        137.48361206054688,
+        145.75733947753906,
+        211.68914794921875
+      ],
+      "conf": 0.5101023316383362
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        57.845279693603516,
+        123.76821899414062,
+        174.12789916992188,
+        231.59848022460938
+      ],
+      "conf": 0.8627742528915405
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.373; VLM logprob=-0.019; please verify",
+  "vlm_conf_logprob": -0.018890904765068592
+}

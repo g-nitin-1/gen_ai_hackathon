@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019490936_1_v2_pg1",
+  "fields": {
+    "dealer_name": "SHIRIAM TRACTOR",
+    "model_name": "SONALIKA TIGER-55 4WD",
+    "horse_power": 50,
+    "asset_cost": 1000000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        870.5214233398438,
+        1397.6883544921875,
+        1075.289794921875,
+        1466.221923828125
+      ],
+      "conf": 0.6143479347229004
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        837.8707885742188,
+        1371.505126953125,
+        1084.7510986328125,
+        1503.97607421875
+      ],
+      "conf": 0.8147726058959961
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.429; VLM logprob=-0.036; please verify",
+  "vlm_conf_logprob": -0.03628413186787032
+}

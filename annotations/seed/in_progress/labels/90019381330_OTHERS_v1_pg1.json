@@ -1,0 +1,22 @@
+{
+  "doc_id": "90019381330_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SHRI MURALIDHAR MOTORS",
+    "model_name": "246 DYNATRACK (MASSEY FERGUSION)",
+    "horse_power": 46,
+    "asset_cost": 715000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.000; VLM logprob=-0.020; please verify",
+  "vlm_conf_logprob": -0.01980953413996789
+}

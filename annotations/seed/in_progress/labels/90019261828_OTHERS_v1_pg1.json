@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019261828_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "R.S.J. TRACTORS",
+    "model_name": "SONALIKA INTERNATIONAL TRACTOR DI-750 PLUS POWERPLUS OIB",
+    "horse_power": 55,
+    "asset_cost": 930000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        871.4737548828125,
+        1297.5880126953125,
+        1038.3662109375,
+        1421.4281005859375
+      ],
+      "conf": 0.695770800113678
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        845.8050537109375,
+        1283.83935546875,
+        1004.514404296875,
+        1450.4962158203125
+      ],
+      "conf": 0.9108790159225464
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.607; VLM logprob=-0.091; please verify",
+  "vlm_conf_logprob": -0.09113955852472859
+}

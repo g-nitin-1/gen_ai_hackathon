@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018723959_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "AGRIMET AUTOMOBILES PVT. LTD.",
+    "model_name": "585 DI WE Tractor",
+    "horse_power": 60,
+    "asset_cost": 840000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        725.400390625,
+        1396.8121337890625,
+        1029.50146484375,
+        1510.04833984375
+      ],
+      "conf": 0.42594435811042786
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        786.136962890625,
+        1363.558349609375,
+        965.0947265625,
+        1535.23291015625
+      ],
+      "conf": 0.8532953262329102
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.279; VLM logprob=-0.099; please verify",
+  "vlm_conf_logprob": -0.09855173832975019
+}

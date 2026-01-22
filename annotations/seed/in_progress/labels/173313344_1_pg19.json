@@ -1,0 +1,32 @@
+{
+  "doc_id": "173313344_1_pg19",
+  "fields": {
+    "dealer_name": "M/s Bharat Tractors",
+    "model_name": "SONALIKA DI 745 III PS",
+    "horse_power": 50,
+    "asset_cost": 665000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        97.99635314941406,
+        773.933837890625,
+        199.45436096191406,
+        846.9140014648438
+      ],
+      "conf": 0.6071144342422485
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        680.5050659179688,
+        1152.69921875,
+        966.02001953125,
+        1239.1160888671875
+      ],
+      "conf": 0.746882975101471
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.354; VLM logprob=-0.027; please verify",
+  "vlm_conf_logprob": -0.02712048916776894
+}

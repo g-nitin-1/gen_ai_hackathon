@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018769506_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "NATIONAL MOTORS",
+    "model_name": "MF-241",
+    "horse_power": 42,
+    "asset_cost": 639000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1148.83251953125,
+        1627.727294921875,
+        1438.362060546875,
+        1855.353759765625
+      ],
+      "conf": 0.661334216594696
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1172.301025390625,
+        1633.13037109375,
+        1371.5439453125,
+        1848.825927734375
+      ],
+      "conf": 0.9065624475479126
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.568; VLM logprob=-0.078; please verify",
+  "vlm_conf_logprob": -0.07808807104880716
+}

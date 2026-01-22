@@ -1,0 +1,22 @@
+{
+  "doc_id": "90019767539_1_v1_pg1",
+  "fields": {
+    "dealer_name": "CHARBHUJA TRACTOR & COMPRESSOR",
+    "model_name": "POWERTRAC EURO 42+",
+    "horse_power": 45,
+    "asset_cost": 800000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.000; VLM logprob=-0.033; please verify",
+  "vlm_conf_logprob": -0.03280192382877145
+}

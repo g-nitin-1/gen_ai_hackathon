@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018416542_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Dharti Tractors",
+    "model_name": "3630",
+    "horse_power": 50,
+    "asset_cost": 880000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        933.5992431640625,
+        1435.3809814453125,
+        1062.241943359375,
+        1526.3367919921875
+      ],
+      "conf": 0.696043074131012
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        883.5364990234375,
+        1385.4681396484375,
+        1106.2799072265625,
+        1609.3145751953125
+      ],
+      "conf": 0.9390667080879211
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.635; VLM logprob=-0.026; please verify",
+  "vlm_conf_logprob": -0.025526841923952555
+}

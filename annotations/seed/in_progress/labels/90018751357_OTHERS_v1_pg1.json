@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018751357_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "AV RELIABLE PRIVATE LIMITED",
+    "model_name": "JOHN DEERE 510 2WD",
+    "horse_power": 50,
+    "asset_cost": 840000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1607.2779541015625,
+        2154.01318359375,
+        1745.62646484375,
+        2236.328857421875
+      ],
+      "conf": 0.6864443421363831
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1564.663818359375,
+        2101.26025390625,
+        1786.1268310546875,
+        2244.150390625
+      ],
+      "conf": 0.4523613154888153
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.139; VLM logprob=-0.072; please verify",
+  "vlm_conf_logprob": -0.07164031017319758
+}

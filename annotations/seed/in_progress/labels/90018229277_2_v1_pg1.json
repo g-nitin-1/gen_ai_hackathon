@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018229277_2_v1_pg1",
+  "fields": {
+    "dealer_name": "Chinmandas Valaran",
+    "model_name": "Bharat Tram III Jnapanasunach D. A.R.",
+    "horse_power": 50,
+    "asset_cost": 820000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        470.0821228027344,
+        1249.7535400390625,
+        646.8456420898438,
+        1413.296875
+      ],
+      "conf": 0.6331181526184082
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        418.7044372558594,
+        1248.1298828125,
+        654.20947265625,
+        1496.1785888671875
+      ],
+      "conf": 0.9295452833175659
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.563; VLM logprob=-0.275; please verify",
+  "vlm_conf_logprob": -0.2751346566542127
+}

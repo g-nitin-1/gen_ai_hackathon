@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018884704_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "BALKRISHNA TRACTORS",
+    "model_name": "EICHER 485",
+    "horse_power": 45,
+    "asset_cost": 845000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        822.0755004882812,
+        1252.5335693359375,
+        1028.552001953125,
+        1350.018798828125
+      ],
+      "conf": 0.714295506477356
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        783.5551147460938,
+        1227.25244140625,
+        975.920654296875,
+        1423.0325927734375
+      ],
+      "conf": 0.9110094904899597
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.625; VLM logprob=-0.029; please verify",
+  "vlm_conf_logprob": -0.028822275849061423
+}

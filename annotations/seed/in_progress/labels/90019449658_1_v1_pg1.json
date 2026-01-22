@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019449658_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Nagaur Motors & Tractors",
+    "model_name": "MF 1035 DI R",
+    "horse_power": 35,
+    "asset_cost": 531900,
+    "signature": {
+      "present": true,
+      "bbox": [
+        961.25634765625,
+        1200.7333984375,
+        1096.60546875,
+        1301.1055908203125
+      ],
+      "conf": 0.6761915683746338
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        938.164794921875,
+        1178.7725830078125,
+        1102.3717041015625,
+        1342.919921875
+      ],
+      "conf": 0.9266555905342102
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.603; VLM logprob=-0.035; please verify",
+  "vlm_conf_logprob": -0.03525926062537602
+}

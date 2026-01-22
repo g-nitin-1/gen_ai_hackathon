@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019006575_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "VIRGIL TRACTORS",
+    "model_name": "SONALIKA DI-750 III",
+    "horse_power": 50,
+    "asset_cost": 780000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        874.115478515625,
+        1292.7432861328125,
+        1080.3428955078125,
+        1458.2996826171875
+      ],
+      "conf": 0.6493917107582092
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        841.5882568359375,
+        1286.072509765625,
+        1071.832275390625,
+        1458.4761962890625
+      ],
+      "conf": 0.8570102453231812
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.506; VLM logprob=-0.129; please verify",
+  "vlm_conf_logprob": -0.12860938648766024
+}

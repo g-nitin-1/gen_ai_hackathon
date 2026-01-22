@@ -1,0 +1,32 @@
+{
+  "doc_id": "172745711_3_pg8",
+  "fields": {
+    "dealer_name": "THE ORISSA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "International Sonalika DI-47 RX 4WD",
+    "horse_power": 50,
+    "asset_cost": 909903,
+    "signature": {
+      "present": true,
+      "bbox": [
+        907.7028198242188,
+        1174.19091796875,
+        1123.9398193359375,
+        1267.109130859375
+      ],
+      "conf": 0.7186499238014221
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        831.9873046875,
+        1212.3016357421875,
+        1143.3583984375,
+        1371.8843994140625
+      ],
+      "conf": 0.575515627861023
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.294; VLM logprob=-0.054; please verify",
+  "vlm_conf_logprob": -0.05437277422544996
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019028089_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "KIRAN MOTORS",
+    "model_name": "5075 E",
+    "horse_power": 75,
+    "asset_cost": 1010000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        2625.441650390625,
+        3816.591064453125,
+        3071.19384765625,
+        4110.07470703125
+      ],
+      "conf": 0.7530547380447388
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        2601.564208984375,
+        3831.141845703125,
+        3059.426513671875,
+        4129.01708984375
+      ],
+      "conf": 0.795818567276001
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.549; VLM logprob=-0.034; please verify",
+  "vlm_conf_logprob": -0.03381194444198792
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173678841_1_pg20",
+  "fields": {
+    "dealer_name": "BALAJI TRACTORS",
+    "model_name": "SONALIKA DI-35 QTB PS",
+    "horse_power": 39,
+    "asset_cost": 560000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        754.112060546875,
+        1228.8404541015625,
+        932.892822265625,
+        1277.960205078125
+      ],
+      "conf": 0.6376422643661499
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        747.5886840820312,
+        1207.5244140625,
+        936.4078979492188,
+        1318.3096923828125
+      ],
+      "conf": 0.34467175602912903
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.982; VLM logprob=-0.047; please verify",
+  "vlm_conf_logprob": -0.047418659811150975
+}

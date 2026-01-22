@@ -1,0 +1,27 @@
+{
+  "doc_id": "90018869256_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Mundel Trade Private Limited",
+    "model_name": "MF-241 DI 42HP Tractor",
+    "horse_power": 42,
+    "asset_cost": 690000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1007.507080078125,
+        1039.041259765625,
+        1339.300048828125,
+        1167.756103515625
+      ],
+      "conf": 0.27201783657073975
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.272; VLM logprob=-0.014; please verify",
+  "vlm_conf_logprob": -0.013552634520353832
+}

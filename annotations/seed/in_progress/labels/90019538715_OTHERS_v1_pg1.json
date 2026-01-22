@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019538715_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Shri Balaji Tractors",
+    "model_name": "M&M 575 DI XP PLUS",
+    "horse_power": 57,
+    "asset_cost": 615000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        761.2058715820312,
+        891.27978515625,
+        863.8578491210938,
+        964.6255493164062
+      ],
+      "conf": 0.7360846996307373
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        991.3375244140625,
+        103.32048034667969,
+        1116.1719970703125,
+        203.235595703125
+      ],
+      "conf": 0.6431968212127686
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.379; VLM logprob=-0.052; please verify",
+  "vlm_conf_logprob": -0.051533869195528346
+}

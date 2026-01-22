@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018935513_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "NATIONAL MOTORS",
+    "model_name": "MF 1035 DI MAHASHAKTI",
+    "horse_power": 39,
+    "asset_cost": 58130,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1135.732421875,
+        1542.88818359375,
+        1389.256103515625,
+        1690.033935546875
+      ],
+      "conf": 0.6701411008834839
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1210.6240234375,
+        1540.063232421875,
+        1395.0,
+        1691.035400390625
+      ],
+      "conf": 0.6872122883796692
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.357; VLM logprob=-0.055; please verify",
+  "vlm_conf_logprob": -0.05525411490739219
+}

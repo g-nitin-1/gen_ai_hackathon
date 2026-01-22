@@ -1,0 +1,32 @@
+{
+  "doc_id": "172847544_1_pg23",
+  "fields": {
+    "dealer_name": "M/S SRI KALABHAIRAVESHWARA MOTORS",
+    "model_name": "V 8T SHAKTHI MT 932",
+    "horse_power": 30,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        820.1112670898438,
+        1303.050537109375,
+        985.3804931640625,
+        1370.0
+      ],
+      "conf": 0.6771096587181091
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        777.2992553710938,
+        1245.4287109375,
+        947.6333618164062,
+        1411.9427490234375
+      ],
+      "conf": 0.928400993347168
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.606; VLM logprob=-0.026; please verify",
+  "vlm_conf_logprob": -0.02649936575210363
+}

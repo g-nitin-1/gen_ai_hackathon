@@ -1,0 +1,32 @@
+{
+  "doc_id": "172960227_2_pg30",
+  "fields": {
+    "dealer_name": "THE ODISHA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "MF 7235 DI",
+    "horse_power": 45,
+    "asset_cost": 666469,
+    "signature": {
+      "present": true,
+      "bbox": [
+        907.506103515625,
+        1493.74462890625,
+        1156.9849853515625,
+        1576.53564453125
+      ],
+      "conf": 0.7485442161560059
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        457.1221618652344,
+        75.56859588623047,
+        698.4797973632812,
+        272.4154968261719
+      ],
+      "conf": 0.8600976467132568
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.609; VLM logprob=-0.029; please verify",
+  "vlm_conf_logprob": -0.028830910426534625
+}

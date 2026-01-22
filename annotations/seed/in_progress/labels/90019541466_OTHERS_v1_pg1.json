@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019541466_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SHREENATH TRACTORS",
+    "model_name": "JOHN DEERE 5270 4WD",
+    "horse_power": 50,
+    "asset_cost": 1000000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        789.7328491210938,
+        1330.3875732421875,
+        1004.9843139648438,
+        1405.890869140625
+      ],
+      "conf": 0.47423896193504333
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        861.45556640625,
+        1281.424072265625,
+        1033.59423828125,
+        1463.6312255859375
+      ],
+      "conf": 0.941564679145813
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.416; VLM logprob=-0.051; please verify",
+  "vlm_conf_logprob": -0.050513310654414806
+}

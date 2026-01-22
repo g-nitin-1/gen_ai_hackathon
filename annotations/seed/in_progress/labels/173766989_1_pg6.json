@@ -1,0 +1,32 @@
+{
+  "doc_id": "173766989_1_pg6",
+  "fields": {
+    "dealer_name": "RAM TRACTORS",
+    "model_name": "NH-3630 TX super",
+    "horse_power": 50,
+    "asset_cost": 1120000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        946.9083862304688,
+        1216.6351318359375,
+        1141.219970703125,
+        1391.8092041015625
+      ],
+      "conf": 0.49676233530044556
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        862.1913452148438,
+        1236.68115234375,
+        1032.23779296875,
+        1405.93798828125
+      ],
+      "conf": 0.9182712435722351
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.415; VLM logprob=-0.044; please verify",
+  "vlm_conf_logprob": -0.04372086845415137
+}

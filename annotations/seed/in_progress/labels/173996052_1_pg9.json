@@ -1,0 +1,32 @@
+{
+  "doc_id": "173996052_1_pg9",
+  "fields": {
+    "dealer_name": "SHEELA MOTORS",
+    "model_name": "Mahindra 577 Arjun",
+    "horse_power": 50,
+    "asset_cost": 730000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        890.1083984375,
+        1278.910400390625,
+        1004.8666381835938,
+        1323.659912109375
+      ],
+      "conf": 0.5925561189651489
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        40.10909652709961,
+        1381.6864013671875,
+        313.1722412109375,
+        1492.0
+      ],
+      "conf": 0.7127417922019958
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.305; VLM logprob=-0.063; please verify",
+  "vlm_conf_logprob": -0.06342214943605029
+}

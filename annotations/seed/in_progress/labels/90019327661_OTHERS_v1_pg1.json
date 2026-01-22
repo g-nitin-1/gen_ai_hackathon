@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019327661_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/s. Shree Laxmi Tractors",
+    "model_name": "245 PD",
+    "horse_power": 45,
+    "asset_cost": 760000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        973.4236450195312,
+        1421.8260498046875,
+        1216.952880859375,
+        1545.0987548828125
+      ],
+      "conf": 0.4834357500076294
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.483; VLM logprob=-0.054; please verify",
+  "vlm_conf_logprob": -0.05377786378870796
+}

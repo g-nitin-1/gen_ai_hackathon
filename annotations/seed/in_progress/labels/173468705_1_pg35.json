@@ -1,0 +1,32 @@
+{
+  "doc_id": "173468705_1_pg35",
+  "fields": {
+    "dealer_name": "Gowind Motors",
+    "model_name": "Mahindra 555 DI Arjun",
+    "horse_power": 50,
+    "asset_cost": 900000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        955.59716796875,
+        1266.343505859375,
+        1086.9349365234375,
+        1347.387939453125
+      ],
+      "conf": 0.3659866154193878
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        908.8192749023438,
+        1180.2723388671875,
+        1108.896484375,
+        1396.35302734375
+      ],
+      "conf": 0.8591605424880981
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.225; VLM logprob=-0.078; please verify",
+  "vlm_conf_logprob": -0.07822573241562768
+}

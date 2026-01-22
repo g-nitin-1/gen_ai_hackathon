@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019025553_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "PARVEZ TRACTORS",
+    "model_name": "Mahindra 275 DI OMEGA",
+    "horse_power": 37,
+    "asset_cost": 720000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        828.2368774414062,
+        1446.81494140625,
+        1080.0518798828125,
+        1552.7886962890625
+      ],
+      "conf": 0.8607953190803528
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        815.0119018554688,
+        1447.377685546875,
+        1082.15380859375,
+        1575.435302734375
+      ],
+      "conf": 0.7125982046127319
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.573; VLM logprob=-0.126; please verify",
+  "vlm_conf_logprob": -0.12583371163374749
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173484632_2_pg28",
+  "fields": {
+    "dealer_name": "SIR BRANSON MOTORS",
+    "model_name": "NEW HOLLAND TRACTOR 3630 TX SUPER 4WD",
+    "horse_power": 50,
+    "asset_cost": 1200000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        852.2493286132812,
+        1353.3431396484375,
+        1065.647216796875,
+        1426.912353515625
+      ],
+      "conf": 0.4468878507614136
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        797.56787109375,
+        1223.352294921875,
+        964.9863891601562,
+        1389.1275634765625
+      ],
+      "conf": 0.9167113900184631
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.364; VLM logprob=-0.008; please verify",
+  "vlm_conf_logprob": -0.008021521225205773
+}

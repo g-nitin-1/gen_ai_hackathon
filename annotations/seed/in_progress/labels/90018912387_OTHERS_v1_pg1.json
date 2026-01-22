@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018912387_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "JINDIBAS TRACTOR COMPANY",
+    "model_name": "JOHN DEIYAR 303 BE",
+    "horse_power": 36,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        783.5733642578125,
+        1543.24365234375,
+        979.1740112304688,
+        1684.0
+      ],
+      "conf": 0.40344756841659546
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        856.5110473632812,
+        1503.9130859375,
+        1037.5220947265625,
+        1683.65771484375
+      ],
+      "conf": 0.9026362895965576
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.306; VLM logprob=-0.132; please verify",
+  "vlm_conf_logprob": -0.13233274157040306
+}

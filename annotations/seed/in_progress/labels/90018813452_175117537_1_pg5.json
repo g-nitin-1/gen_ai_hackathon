@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018813452_175117537_1_pg5",
+  "fields": {
+    "dealer_name": "GAURAV BHANU TRACTORS",
+    "model_name": "DIGITRAC PP 46 I",
+    "horse_power": 50,
+    "asset_cost": 890000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        56.03340530395508,
+        987.6127319335938,
+        166.3385009765625,
+        1044.6956787109375
+      ],
+      "conf": 0.27278658747673035
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        960.5755615234375,
+        970.3251342773438,
+        1088.8270263671875,
+        1147.642333984375
+      ],
+      "conf": 0.7768864631652832
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.050; VLM logprob=-0.014; please verify",
+  "vlm_conf_logprob": -0.013816607086313276
+}

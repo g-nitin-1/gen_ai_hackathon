@@ -1,0 +1,32 @@
+{
+  "doc_id": "172684055_1_pg35",
+  "fields": {
+    "dealer_name": "Rajyalakshmi Agencies",
+    "model_name": "SWARAJ 735 FE",
+    "horse_power": 40,
+    "asset_cost": 780000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        731.22705078125,
+        996.1817016601562,
+        974.7433471679688,
+        1086.4918212890625
+      ],
+      "conf": 0.5868209600448608
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        717.3687133789062,
+        934.172607421875,
+        899.8865966796875,
+        1123.415283203125
+      ],
+      "conf": 0.9024829864501953
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.489; VLM logprob=-0.031; please verify",
+  "vlm_conf_logprob": -0.0313646219489622
+}

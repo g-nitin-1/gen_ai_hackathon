@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018855987_175331555_1_pg20",
+  "fields": {
+    "dealer_name": "NATIONAL TRACTOR SALES",
+    "model_name": "MF 1035 DI",
+    "horse_power": 36,
+    "asset_cost": 132776,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1016.655029296875,
+        1321.2572021484375,
+        1139.636962890625,
+        1388.314453125
+      ],
+      "conf": 0.5524590611457825
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        976.6406860351562,
+        1261.681640625,
+        1130.5765380859375,
+        1413.1348876953125
+      ],
+      "conf": 0.9332045316696167
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.486; VLM logprob=-0.051; please verify",
+  "vlm_conf_logprob": -0.05078137872300083
+}

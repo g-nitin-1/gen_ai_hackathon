@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018752764_175224265_1_pg15",
+  "fields": {
+    "dealer_name": "NATION MOTORS",
+    "model_name": "TAFE 241 DI MAHASHAKTI",
+    "horse_power": 45,
+    "asset_cost": 158965,
+    "signature": {
+      "present": true,
+      "bbox": [
+        963.4194946289062,
+        1309.6552734375,
+        1055.3670654296875,
+        1409.8724365234375
+      ],
+      "conf": 0.448991060256958
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        930.2999877929688,
+        1281.6824951171875,
+        1098.1295166015625,
+        1441.474365234375
+      ],
+      "conf": 0.9314454793930054
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.380; VLM logprob=-0.100; please verify",
+  "vlm_conf_logprob": -0.10034149596605364
+}

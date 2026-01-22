@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018909946_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Sai V.K. Tractors",
+    "model_name": "Mahindra - \"575 SP PLUS\"",
+    "horse_power": 47,
+    "asset_cost": 860000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        966.9014892578125,
+        1340.5277099609375,
+        1113.1177978515625,
+        1493.559814453125
+      ],
+      "conf": 0.6158782839775085
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        909.5994262695312,
+        1343.496826171875,
+        1104.1131591796875,
+        1525.088134765625
+      ],
+      "conf": 0.9060238003730774
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.522; VLM logprob=-0.072; please verify",
+  "vlm_conf_logprob": -0.07233444806857961
+}

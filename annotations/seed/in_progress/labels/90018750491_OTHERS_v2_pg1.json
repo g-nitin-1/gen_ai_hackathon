@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018750491_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "Swaraj Machinery and Tractors",
+    "model_name": "855 FE",
+    "horse_power": 52,
+    "asset_cost": 820000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        992.5993041992188,
+        1427.48046875,
+        1110.9859619140625,
+        1511.7730712890625
+      ],
+      "conf": 0.7097858786582947
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        952.0638427734375,
+        1358.9459228515625,
+        1136.1363525390625,
+        1538.5308837890625
+      ],
+      "conf": 0.930625319480896
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.640; VLM logprob=-0.066; please verify",
+  "vlm_conf_logprob": -0.06601598490097806
+}

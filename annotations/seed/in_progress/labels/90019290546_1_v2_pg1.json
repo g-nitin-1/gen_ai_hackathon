@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019290546_1_v2_pg1",
+  "fields": {
+    "dealer_name": "M/s. JAI DURGA TRACTORS",
+    "model_name": "DI-12",
+    "horse_power": 45,
+    "asset_cost": 500000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        825.5185546875,
+        1389.1722412109375,
+        991.2357177734375,
+        1532.009765625
+      ],
+      "conf": 0.5747665762901306
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        789.6260375976562,
+        1388.4024658203125,
+        1001.3208618164062,
+        1583.0198974609375
+      ],
+      "conf": 0.9377210736274719
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.512; VLM logprob=-0.092; please verify",
+  "vlm_conf_logprob": -0.09237121739705383
+}

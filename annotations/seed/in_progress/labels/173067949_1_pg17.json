@@ -1,0 +1,32 @@
+{
+  "doc_id": "173067949_1_pg17",
+  "fields": {
+    "dealer_name": "M/s. Friends Agri Tech",
+    "model_name": "FT-39 Powermaxx",
+    "horse_power": 38,
+    "asset_cost": 610000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        891.6461791992188,
+        1369.592041015625,
+        1067.5445556640625,
+        1445.446533203125
+      ],
+      "conf": 0.7894019484519958
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        933.4636840820312,
+        104.956298828125,
+        1027.385986328125,
+        192.0395965576172
+      ],
+      "conf": 0.8164365291595459
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.606; VLM logprob=-0.025; please verify",
+  "vlm_conf_logprob": -0.025169651493968104
+}

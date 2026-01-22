@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019864562_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SHRI GANAA TRACTORS",
+    "model_name": "Swaraj-742 XT(45hp)",
+    "horse_power": 45,
+    "asset_cost": 800000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        698.3240356445312,
+        1440.63818359375,
+        979.6522827148438,
+        1636.5234375
+      ],
+      "conf": 0.8735582828521729
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.874; VLM logprob=-0.066; please verify",
+  "vlm_conf_logprob": -0.06599234857917251
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019269898_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "PMB MOTORS",
+    "model_name": "Digitac PPY3T 14-9(12+3)",
+    "horse_power": 47,
+    "asset_cost": 790000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        941.2798461914062,
+        1395.5859375,
+        1021.6222534179688,
+        1463.1065673828125
+      ],
+      "conf": 0.5479483604431152
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.548; VLM logprob=-0.061; please verify",
+  "vlm_conf_logprob": -0.06129183117456087
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173177534_1_pg37",
+  "fields": {
+    "dealer_name": "Auto Union (Jodhpur)",
+    "model_name": "MF 241 3G O/S",
+    "horse_power": 42,
+    "asset_cost": 590000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        779.9114379882812,
+        1041.744384765625,
+        919.6882934570312,
+        1130.047119140625
+      ],
+      "conf": 0.6401329636573792
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        820.4560546875,
+        1010.9243774414062,
+        928.2387084960938,
+        1133.185546875
+      ],
+      "conf": 0.8037869334220886
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.444; VLM logprob=-0.104; please verify",
+  "vlm_conf_logprob": -0.10373807463812454
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019488321_1_v1_pg1",
+  "fields": {
+    "dealer_name": "KOUSHIK TRACTORS",
+    "model_name": "MF 206 DI DT 4WD",
+    "horse_power": 46,
+    "asset_cost": 900000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        916.1162109375,
+        1444.736572265625,
+        1061.5316162109375,
+        1572.52490234375
+      ],
+      "conf": 0.6779918670654297
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        906.6896362304688,
+        1440.6298828125,
+        1089.547119140625,
+        1615.6102294921875
+      ],
+      "conf": 0.9344099164009094
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.612; VLM logprob=-0.077; please verify",
+  "vlm_conf_logprob": -0.0766953206032723
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019288399_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Satyaparayn Tractors",
+    "model_name": "485 Silver",
+    "horse_power": 49,
+    "asset_cost": 715000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        975.5963745117188,
+        1406.160400390625,
+        1118.5430908203125,
+        1529.70263671875
+      ],
+      "conf": 0.6357981562614441
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        941.7390747070312,
+        1364.577880859375,
+        1145.664306640625,
+        1571.3968505859375
+      ],
+      "conf": 0.9483357071876526
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.584; VLM logprob=-0.181; please verify",
+  "vlm_conf_logprob": -0.1811999595607328
+}

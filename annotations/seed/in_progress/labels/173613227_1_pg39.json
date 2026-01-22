@@ -1,0 +1,32 @@
+{
+  "doc_id": "173613227_1_pg39",
+  "fields": {
+    "dealer_name": "Auto Union (Jodhpur)",
+    "model_name": "MF 241 DI MS",
+    "horse_power": 42,
+    "asset_cost": 590000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        768.9046020507812,
+        1068.4263916015625,
+        932.2693481445312,
+        1159.520751953125
+      ],
+      "conf": 0.7723087072372437
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        759.2976684570312,
+        1024.054931640625,
+        944.458984375,
+        1174.685791015625
+      ],
+      "conf": 0.546919047832489
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.319; VLM logprob=-0.009; please verify",
+  "vlm_conf_logprob": -0.008885557878097352
+}

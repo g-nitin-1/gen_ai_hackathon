@@ -1,0 +1,32 @@
+{
+  "doc_id": "172764517_4_pg16",
+  "fields": {
+    "dealer_name": "Manorama Tractors",
+    "model_name": "SONALIKA INTERNATIONAL TRACTOR RX 403 III UWD 421",
+    "horse_power": 42,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        504.1863098144531,
+        959.3157348632812,
+        743.513671875,
+        1062.3026123046875
+      ],
+      "conf": 0.6031760573387146
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        839.6763916015625,
+        1210.5626220703125,
+        1022.919189453125,
+        1392.4298095703125
+      ],
+      "conf": 0.9155620336532593
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.519; VLM logprob=-0.195; please verify",
+  "vlm_conf_logprob": -0.19466549214011888
+}

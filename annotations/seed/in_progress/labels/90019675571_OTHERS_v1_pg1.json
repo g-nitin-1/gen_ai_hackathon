@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019675571_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/s. SHRI RAM TRACTORS",
+    "model_name": "POWERTRAC 434",
+    "horse_power": 43,
+    "asset_cost": 500000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        928.2561645507812,
+        1498.9190673828125,
+        1023.9451904296875,
+        1548.1201171875
+      ],
+      "conf": 0.4278050661087036
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        828.6825561523438,
+        1481.9456787109375,
+        1036.674072265625,
+        1590.4261474609375
+      ],
+      "conf": 0.7517610192298889
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.180; VLM logprob=-0.018; please verify",
+  "vlm_conf_logprob": -0.01789756185919997
+}

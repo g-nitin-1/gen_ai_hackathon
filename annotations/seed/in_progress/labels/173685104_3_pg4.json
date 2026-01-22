@@ -1,0 +1,32 @@
+{
+  "doc_id": "173685104_3_pg4",
+  "fields": {
+    "dealer_name": "Mahindra",
+    "model_name": "Mahindra 575 YUVO TEC+4",
+    "horse_power": 47,
+    "asset_cost": 500000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        893.4430541992188,
+        1291.733642578125,
+        1031.715576171875,
+        1388.5513916015625
+      ],
+      "conf": 0.4110819697380066
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        844.4422607421875,
+        1261.2860107421875,
+        1007.3052978515625,
+        1412.614501953125
+      ],
+      "conf": 0.903367280960083
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.314; VLM logprob=-0.203; please verify",
+  "vlm_conf_logprob": -0.20271740122747361
+}

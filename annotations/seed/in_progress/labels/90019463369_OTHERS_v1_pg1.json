@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019463369_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "BHAVYA MOTORS",
+    "model_name": "NEW HOLLAND 3630 TX SUPER PLUS 4WD",
+    "horse_power": 49.5,
+    "asset_cost": 1030000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        908.1604614257812,
+        1447.5958251953125,
+        1065.910888671875,
+        1524.775146484375
+      ],
+      "conf": 0.45713886618614197
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        926.766357421875,
+        1387.767822265625,
+        1071.687255859375,
+        1544.085693359375
+      ],
+      "conf": 0.8807604312896729
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.338; VLM logprob=-0.044; please verify",
+  "vlm_conf_logprob": -0.04423397132850531
+}

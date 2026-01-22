@@ -1,0 +1,32 @@
+{
+  "doc_id": "173104431_2_pg31",
+  "fields": {
+    "dealer_name": "MAURYA TRACTORS",
+    "model_name": "ESCORT PT EURO 50 II HT",
+    "horse_power": 50,
+    "asset_cost": 810000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        666.1237182617188,
+        771.797119140625,
+        893.5031127929688,
+        907.4473876953125
+      ],
+      "conf": 0.6848303079605103
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        923.2595825195312,
+        1222.3837890625,
+        1115.7437744140625,
+        1416.2347412109375
+      ],
+      "conf": 0.9512763619422913
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.636; VLM logprob=-0.121; please verify",
+  "vlm_conf_logprob": -0.12105380987936105
+}

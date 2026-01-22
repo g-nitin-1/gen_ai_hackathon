@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018816473_1_v1_pg1",
+  "fields": {
+    "dealer_name": "AMS TRACTORS",
+    "model_name": "EURO-G128",
+    "horse_power": 28,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        915.5379028320312,
+        1476.6324462890625,
+        1056.074462890625,
+        1547.0582275390625
+      ],
+      "conf": 0.7303548455238342
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        865.6139526367188,
+        1458.2724609375,
+        1056.60791015625,
+        1565.4285888671875
+      ],
+      "conf": 0.7764182090759277
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.507; VLM logprob=-0.082; please verify",
+  "vlm_conf_logprob": -0.08156247508380803
+}

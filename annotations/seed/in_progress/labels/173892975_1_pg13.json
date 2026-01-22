@@ -1,0 +1,32 @@
+{
+  "doc_id": "173892975_1_pg13",
+  "fields": {
+    "dealer_name": "AMAN AUTOMOBILES",
+    "model_name": "241 Xtrac",
+    "horse_power": 45,
+    "asset_cost": 390000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        390.85894775390625,
+        119.47184753417969,
+        479.797119140625,
+        169.36093139648438
+      ],
+      "conf": 0.5755614638328552
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        888.22509765625,
+        1276.8348388671875,
+        1188.8455810546875,
+        1420.3155517578125
+      ],
+      "conf": 0.7959847450256348
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.372; VLM logprob=-0.016; please verify",
+  "vlm_conf_logprob": -0.01649457849283193
+}

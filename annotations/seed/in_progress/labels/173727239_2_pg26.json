@@ -1,0 +1,32 @@
+{
+  "doc_id": "173727239_2_pg26",
+  "fields": {
+    "dealer_name": "KHODIYAR FARM EQUIPMENTS",
+    "model_name": "288",
+    "horse_power": 28,
+    "asset_cost": 3284791,
+    "signature": {
+      "present": true,
+      "bbox": [
+        599.8731689453125,
+        591.9767456054688,
+        679.541748046875,
+        631.2835083007812
+      ],
+      "conf": 0.6346713304519653
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        951.8966674804688,
+        1223.4869384765625,
+        1152.086181640625,
+        1433.098876953125
+      ],
+      "conf": 0.8765363693237305
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.511; VLM logprob=-0.036; please verify",
+  "vlm_conf_logprob": -0.03568760437015721
+}

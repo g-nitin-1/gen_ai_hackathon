@@ -1,0 +1,32 @@
+{
+  "doc_id": "173599285_2_pg32",
+  "fields": {
+    "dealer_name": "Jai Kudargarhi Tractors",
+    "model_name": "YUVO TECH+ 415 DI",
+    "horse_power": 42,
+    "asset_cost": 760000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        965.3894653320312,
+        1294.4710693359375,
+        1067.3743896484375,
+        1366.3399658203125
+      ],
+      "conf": 0.659452497959137
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        921.4031372070312,
+        1267.5709228515625,
+        1110.46337890625,
+        1405.4088134765625
+      ],
+      "conf": 0.8401414155960083
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.500; VLM logprob=-0.114; please verify",
+  "vlm_conf_logprob": -0.11407598577360499
+}

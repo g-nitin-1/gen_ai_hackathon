@@ -1,0 +1,32 @@
+{
+  "doc_id": "172946013_2_pg23",
+  "fields": {
+    "dealer_name": "The Odisha Agro Industries Corporation Ltd.",
+    "model_name": "Mahindra YUVO Tech+ 575 DI WD",
+    "horse_power": 47,
+    "asset_cost": 925039,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1087.6629638671875,
+        1095.00439453125,
+        1239.4892578125,
+        1158.6387939453125
+      ],
+      "conf": 0.7933157682418823
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1080.45458984375,
+        1072.80224609375,
+        1246.697998046875,
+        1161.1990966796875
+      ],
+      "conf": 0.6799392700195312
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.473; VLM logprob=-0.054; please verify",
+  "vlm_conf_logprob": -0.05359104657022933
+}

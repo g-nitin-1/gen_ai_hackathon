@@ -1,0 +1,32 @@
+{
+  "doc_id": "173572590_2_pg25",
+  "fields": {
+    "dealer_name": "The Odisha Agro Industries Corporation Ltd.",
+    "model_name": "SONALIKA INTERNATIONAL DI-42 HDM S3",
+    "horse_power": 42,
+    "asset_cost": 690453,
+    "signature": {
+      "present": true,
+      "bbox": [
+        627.8947143554688,
+        895.1257934570312,
+        733.7828979492188,
+        982.199462890625
+      ],
+      "conf": 0.41281643509864807
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        591.5298461914062,
+        941.61669921875,
+        811.3076171875,
+        1034.12939453125
+      ],
+      "conf": 0.3929148316383362
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.806; VLM logprob=-0.028; please verify",
+  "vlm_conf_logprob": -0.027948976697255188
+}

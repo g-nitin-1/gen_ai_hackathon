@@ -1,0 +1,32 @@
+{
+  "doc_id": "172689968_1_pg14",
+  "fields": {
+    "dealer_name": "Shri Dev Krishi Implementations",
+    "model_name": "NEW HOLLAND 8230 TX",
+    "horse_power": 45,
+    "asset_cost": 82000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        958.3412475585938,
+        1377.285400390625,
+        1099.913330078125,
+        1444.80224609375
+      ],
+      "conf": 0.7721381187438965
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        954.2156982421875,
+        1313.6094970703125,
+        1104.5797119140625,
+        1471.805419921875
+      ],
+      "conf": 0.7279645800590515
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.500; VLM logprob=-0.095; please verify",
+  "vlm_conf_logprob": -0.09539833952229466
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173618168_2_pg27",
+  "fields": {
+    "dealer_name": "THE ODISHA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "M&M YUVO Tech+ 575 DI 4WD Tractor",
+    "horse_power": 47,
+    "asset_cost": 925039,
+    "signature": {
+      "present": true,
+      "bbox": [
+        772.9067993164062,
+        1345.42529296875,
+        960.0587768554688,
+        1426.159912109375
+      ],
+      "conf": 0.6933517456054688
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        760.4505615234375,
+        1381.5433349609375,
+        991.8828125,
+        1446.293701171875
+      ],
+      "conf": 0.5750335454940796
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.268; VLM logprob=-0.028; please verify",
+  "vlm_conf_logprob": -0.028479716041650654
+}

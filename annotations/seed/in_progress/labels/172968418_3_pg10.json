@@ -1,0 +1,32 @@
+{
+  "doc_id": "172968418_3_pg10",
+  "fields": {
+    "dealer_name": "Manpreet Tractors",
+    "model_name": "SONALIKA DI 35 RX PS",
+    "horse_power": 39,
+    "asset_cost": 580000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        791.4539794921875,
+        970.8001098632812,
+        1000.0,
+        1066.320556640625
+      ],
+      "conf": 0.6233128309249878
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        783.8037109375,
+        952.6946411132812,
+        972.8047485351562,
+        1137.377197265625
+      ],
+      "conf": 0.9398151636123657
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.563; VLM logprob=-0.032; please verify",
+  "vlm_conf_logprob": -0.03215951615699927
+}

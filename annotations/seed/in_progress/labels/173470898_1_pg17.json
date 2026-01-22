@@ -1,0 +1,32 @@
+{
+  "doc_id": "173470898_1_pg17",
+  "fields": {
+    "dealer_name": "M/s. Shree Ganesh Tractors",
+    "model_name": "Swaraj 955 FE Tractor",
+    "horse_power": 52,
+    "asset_cost": 830000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        943.4658203125,
+        1377.106689453125,
+        1061.4197998046875,
+        1419.6453857421875
+      ],
+      "conf": 0.7981027364730835
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        851.2686767578125,
+        1357.0377197265625,
+        1085.902099609375,
+        1451.0889892578125
+      ],
+      "conf": 0.6832489371299744
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.481; VLM logprob=-0.027; please verify",
+  "vlm_conf_logprob": -0.027250302458430024
+}

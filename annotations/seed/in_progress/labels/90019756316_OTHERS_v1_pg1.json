@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019756316_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Bharat Motors & Tractors",
+    "model_name": "MF 241",
+    "horse_power": 42,
+    "asset_cost": 620000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1005.8934936523438,
+        1317.4716796875,
+        1190.0,
+        1388.311767578125
+      ],
+      "conf": 0.8219269514083862
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        999.352294921875,
+        1263.032958984375,
+        1190.0,
+        1427.377685546875
+      ],
+      "conf": 0.6610668897628784
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.483; VLM logprob=-0.019; please verify",
+  "vlm_conf_logprob": -0.019031072827298583
+}

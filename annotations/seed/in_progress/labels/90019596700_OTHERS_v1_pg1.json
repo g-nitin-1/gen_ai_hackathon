@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019596700_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SHREE TRACTORS",
+    "model_name": "SONALIKA DI 750 III POWERPLUS",
+    "horse_power": 55,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        915.3403930664062,
+        1431.3326416015625,
+        1015.9666137695312,
+        1479.8824462890625
+      ],
+      "conf": 0.82098788022995
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        809.5362548828125,
+        1423.5501708984375,
+        1024.8839111328125,
+        1509.98388671875
+      ],
+      "conf": 0.8199723958969116
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.641; VLM logprob=-0.036; please verify",
+  "vlm_conf_logprob": -0.03646020484579367
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019103671_1_v1_pg1",
+  "fields": {
+    "dealer_name": "KAUSHIK AUTOMOBILES",
+    "model_name": "FT-60 Powermaxx",
+    "horse_power": 55,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        5087.8095703125,
+        7556.57958984375,
+        5705.90625,
+        7832.65478515625
+      ],
+      "conf": 0.5937323570251465
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        4436.763671875,
+        7381.28173828125,
+        5912.4365234375,
+        7940.88818359375
+      ],
+      "conf": 0.7476766705513
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.341; VLM logprob=-0.021; please verify",
+  "vlm_conf_logprob": -0.02110703129514914
+}

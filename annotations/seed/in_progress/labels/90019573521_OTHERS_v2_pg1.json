@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019573521_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "SRI GURU TRACTOR ENTERPRISES",
+    "model_name": "DI-42 Tiger",
+    "horse_power": 42,
+    "asset_cost": 708000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        764.1695556640625,
+        1401.4141845703125,
+        917.5293579101562,
+        1533.1151123046875
+      ],
+      "conf": 0.49296391010284424
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        754.0056762695312,
+        1395.1356201171875,
+        925.6339111328125,
+        1575.5916748046875
+      ],
+      "conf": 0.9102404713630676
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.403; VLM logprob=-0.016; please verify",
+  "vlm_conf_logprob": -0.01577032976344099
+}

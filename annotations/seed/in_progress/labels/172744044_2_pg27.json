@@ -1,0 +1,32 @@
+{
+  "doc_id": "172744044_2_pg27",
+  "fields": {
+    "dealer_name": "THE ORISSA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "Swaraj 744 FB 4x4 N1",
+    "horse_power": 48,
+    "asset_cost": 923637,
+    "signature": {
+      "present": true,
+      "bbox": [
+        188.5870361328125,
+        1264.2559814453125,
+        315.445556640625,
+        1322.348876953125
+      ],
+      "conf": 0.4621279835700989
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        940.8524169921875,
+        1240.077392578125,
+        1191.8751220703125,
+        1384.0
+      ],
+      "conf": 0.668999195098877
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.131; VLM logprob=-0.038; please verify",
+  "vlm_conf_logprob": -0.03843549115511231
+}

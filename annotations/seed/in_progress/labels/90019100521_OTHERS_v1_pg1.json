@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019100521_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Sri Siddeshwara Motors & Services",
+    "model_name": "NeoStar 24HIN 24HP",
+    "horse_power": 24,
+    "asset_cost": 630000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        760.4093017578125,
+        1392.8515625,
+        1004.8524780273438,
+        1546.9473876953125
+      ],
+      "conf": 0.7204358577728271
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        695.1668701171875,
+        1350.6365966796875,
+        938.614501953125,
+        1604.2535400390625
+      ],
+      "conf": 0.8979097604751587
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.618; VLM logprob=-0.068; please verify",
+  "vlm_conf_logprob": -0.06843232701180353
+}

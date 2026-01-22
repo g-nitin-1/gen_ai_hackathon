@@ -1,0 +1,32 @@
+{
+  "doc_id": "173115555_1_pg32",
+  "fields": {
+    "dealer_name": "Auto Union (Jodhpur)",
+    "model_name": "MF-243",
+    "horse_power": 42,
+    "asset_cost": 59000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        758.3335571289062,
+        1048.8372802734375,
+        902.2516479492188,
+        1130.6148681640625
+      ],
+      "conf": 0.7166035771369934
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        778.3545532226562,
+        1035.298583984375,
+        942.3822021484375,
+        1149.4376220703125
+      ],
+      "conf": 0.7772178649902344
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.494; VLM logprob=-0.153; please verify",
+  "vlm_conf_logprob": -0.152812292067368
+}

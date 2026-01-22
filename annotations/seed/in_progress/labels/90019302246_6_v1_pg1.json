@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019302246_6_v1_pg1",
+  "fields": {
+    "dealer_name": "Auto Union (Jodhpur)",
+    "model_name": "1035 DI MS",
+    "horse_power": 39,
+    "asset_cost": 525000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3987.511962890625,
+        4199.30517578125,
+        4497.0,
+        4846.27783203125
+      ],
+      "conf": 0.7657601237297058
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.766; VLM logprob=-0.039; please verify",
+  "vlm_conf_logprob": -0.03855450167084546
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018824033_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Amar Tractors & Farm Implement",
+    "model_name": "Mahindra 275 NBP",
+    "horse_power": 39,
+    "asset_cost": 730115,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1214.4517822265625,
+        1840.882080078125,
+        1342.3382568359375,
+        1910.9617919921875
+      ],
+      "conf": 0.40202775597572327
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1138.2723388671875,
+        1707.951416015625,
+        1431.529296875,
+        1993.3057861328125
+      ],
+      "conf": 0.9126271605491638
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.315; VLM logprob=-0.035; please verify",
+  "vlm_conf_logprob": -0.034757822552652515
+}

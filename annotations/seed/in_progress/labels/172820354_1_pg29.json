@@ -1,0 +1,27 @@
+{
+  "doc_id": "172820354_1_pg29",
+  "fields": {
+    "dealer_name": "Baba Jagannath Tractors",
+    "model_name": "MF 241 DI",
+    "horse_power": 42,
+    "asset_cost": 640000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        708.0234985351562,
+        1524.1373291015625,
+        1010.5656127929688,
+        1650.0
+      ],
+      "conf": 0.5595901012420654
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.560; VLM logprob=-0.006; please verify",
+  "vlm_conf_logprob": -0.00569009756531327
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019715731_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Vipul Tractors",
+    "model_name": "Sonalika DI Tiger 745 III 4WD",
+    "horse_power": 45,
+    "asset_cost": 930000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1396.720703125,
+        332.3585205078125,
+        1878.0057373046875,
+        714.380126953125
+      ],
+      "conf": 0.5939189195632935
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.594; VLM logprob=-0.115; please verify",
+  "vlm_conf_logprob": -0.11504683258823657
+}

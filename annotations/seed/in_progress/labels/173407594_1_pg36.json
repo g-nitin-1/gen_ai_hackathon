@@ -1,0 +1,32 @@
+{
+  "doc_id": "173407594_1_pg36",
+  "fields": {
+    "dealer_name": "K.S.R. TRACTORS",
+    "model_name": "ESCORTS POWERTRAC EURO 42 PLUS",
+    "horse_power": 45,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        858.7987670898438,
+        1351.411865234375,
+        1131.7923583984375,
+        1419.3201904296875
+      ],
+      "conf": 0.7342188954353333
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        914.0267333984375,
+        1282.1988525390625,
+        1077.459716796875,
+        1450.6778564453125
+      ],
+      "conf": 0.8123675584793091
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.547; VLM logprob=-0.027; please verify",
+  "vlm_conf_logprob": -0.027414821804362662
+}

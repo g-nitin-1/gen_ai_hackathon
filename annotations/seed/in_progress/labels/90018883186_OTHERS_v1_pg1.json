@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018883186_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Shri Radhe Krishna Motors",
+    "model_name": "DI-72-013",
+    "horse_power": 45,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        937.291748046875,
+        1336.2181396484375,
+        1109.2091064453125,
+        1423.1514892578125
+      ],
+      "conf": 0.6195229887962341
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        915.3270263671875,
+        1312.2322998046875,
+        1069.809326171875,
+        1470.71533203125
+      ],
+      "conf": 0.9273319840431213
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.547; VLM logprob=-0.106; please verify",
+  "vlm_conf_logprob": -0.1061407840327755
+}

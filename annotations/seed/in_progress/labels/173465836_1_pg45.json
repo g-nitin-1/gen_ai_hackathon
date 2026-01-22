@@ -1,0 +1,32 @@
+{
+  "doc_id": "173465836_1_pg45",
+  "fields": {
+    "dealer_name": "NATARAJA TRACTORS",
+    "model_name": "Sonalika International Tractors DI 42 RX OIB P.S.",
+    "horse_power": 42,
+    "asset_cost": 770000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        807.3069458007812,
+        1440.4456787109375,
+        977.8386840820312,
+        1517.8360595703125
+      ],
+      "conf": 0.6595190763473511
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        783.4948120117188,
+        1378.7021484375,
+        968.55029296875,
+        1564.723876953125
+      ],
+      "conf": 0.9559370875358582
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.615; VLM logprob=-0.091; please verify",
+  "vlm_conf_logprob": -0.09101120447670093
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019393371_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "BALAJI BORWELLS",
+    "model_name": "SONALIKA DI-35 OBP S",
+    "horse_power": 39,
+    "asset_cost": 650000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        903.7431030273438,
+        1481.9339599609375,
+        1131.834716796875,
+        1590.6309814453125
+      ],
+      "conf": 0.27209851145744324
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.272; VLM logprob=-0.068; please verify",
+  "vlm_conf_logprob": -0.06804417744799943
+}

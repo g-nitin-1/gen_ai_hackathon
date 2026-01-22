@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018535123_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "R.S.J. TRACTORS",
+    "model_name": "SONALIKA INTERNATIONAL TRACTOR (D.A.I. ENGINE) MODEL DI-42 OIB PS PP",
+    "horse_power": 45,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        914.492431640625,
+        1274.8436279296875,
+        1042.970703125,
+        1411.407958984375
+      ],
+      "conf": 0.6212501525878906
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        890.4619750976562,
+        1270.73681640625,
+        1042.547607421875,
+        1434.14501953125
+      ],
+      "conf": 0.920116662979126
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.541; VLM logprob=-0.090; please verify",
+  "vlm_conf_logprob": -0.09034504644523622
+}

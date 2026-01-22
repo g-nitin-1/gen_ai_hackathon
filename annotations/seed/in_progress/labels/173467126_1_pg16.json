@@ -1,0 +1,32 @@
+{
+  "doc_id": "173467126_1_pg16",
+  "fields": {
+    "dealer_name": "USHA MOTORS",
+    "model_name": "45 CLASSIC SMART",
+    "horse_power": 48,
+    "asset_cost": 725000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        982.6657104492188,
+        1325.8765869140625,
+        1192.0736083984375,
+        1405.2962646484375
+      ],
+      "conf": 0.6838805079460144
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        960.26611328125,
+        1263.295654296875,
+        1139.4022216796875,
+        1436.6885986328125
+      ],
+      "conf": 0.8432429432868958
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.527; VLM logprob=-0.042; please verify",
+  "vlm_conf_logprob": -0.04239820474223387
+}

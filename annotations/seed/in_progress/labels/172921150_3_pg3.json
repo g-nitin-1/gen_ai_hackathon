@@ -1,0 +1,32 @@
+{
+  "doc_id": "172921150_3_pg3",
+  "fields": {
+    "dealer_name": "SULTANIA TRACTORS",
+    "model_name": "AAYSHAR TRACTOR MODEL 380+",
+    "horse_power": 40,
+    "asset_cost": 660000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        775.99609375,
+        1217.5897216796875,
+        926.1314697265625,
+        1362.7838134765625
+      ],
+      "conf": 0.7080079913139343
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        745.3880004882812,
+        1210.715087890625,
+        925.3331298828125,
+        1387.0
+      ],
+      "conf": 0.9412833452224731
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.649; VLM logprob=-0.046; please verify",
+  "vlm_conf_logprob": -0.045507243270584204
+}

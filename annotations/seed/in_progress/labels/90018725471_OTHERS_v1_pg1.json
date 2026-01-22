@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018725471_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/s. Shree Balaji Tractors",
+    "model_name": "Divitrac 461 PP POWERTRAC Tractor",
+    "horse_power": 50,
+    "asset_cost": 780000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        907.3143920898438,
+        1552.2132568359375,
+        1058.2947998046875,
+        1605.3408203125
+      ],
+      "conf": 0.5178526043891907
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        913.0882568359375,
+        1506.511474609375,
+        1091.55810546875,
+        1663.4261474609375
+      ],
+      "conf": 0.7430707812309265
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.261; VLM logprob=-0.079; please verify",
+  "vlm_conf_logprob": -0.07891631272418635
+}

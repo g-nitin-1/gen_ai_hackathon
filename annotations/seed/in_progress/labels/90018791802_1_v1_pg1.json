@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018791802_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Baba Jagannath Tractors",
+    "model_name": "MF 245 DI",
+    "horse_power": 50,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1082.6383056640625,
+        1930.9259033203125,
+        1348.5306396484375,
+        2029.11572265625
+      ],
+      "conf": 0.36543336510658264
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1222.1573486328125,
+        1875.6695556640625,
+        1507.3011474609375,
+        2048.014892578125
+      ],
+      "conf": 0.5941973328590393
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.960; VLM logprob=-0.014; please verify",
+  "vlm_conf_logprob": -0.013575540478086623
+}

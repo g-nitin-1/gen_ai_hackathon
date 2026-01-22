@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018912387_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "JINDIBAS TRACTOR COMPANY",
+    "model_name": "JOHN DEYAR 3036 EN",
+    "horse_power": 36,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        788.2017211914062,
+        1531.2401123046875,
+        1008.942138671875,
+        1679.8447265625
+      ],
+      "conf": 0.45720794796943665
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        853.8090209960938,
+        1504.71337890625,
+        1038.8682861328125,
+        1682.3985595703125
+      ],
+      "conf": 0.9073530435562134
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.365; VLM logprob=-0.101; please verify",
+  "vlm_conf_logprob": -0.1010415657890812
+}

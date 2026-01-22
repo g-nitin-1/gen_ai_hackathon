@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019298491_1_v1_pg1",
+  "fields": {
+    "dealer_name": "THE ODISHA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "EICHER 380",
+    "horse_power": 40,
+    "asset_cost": 737355,
+    "signature": {
+      "present": true,
+      "bbox": [
+        915.0679321289062,
+        1241.3619384765625,
+        1043.572998046875,
+        1320.732421875
+      ],
+      "conf": 0.8230535387992859
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.823; VLM logprob=-0.010; please verify",
+  "vlm_conf_logprob": -0.009988227421003745
+}

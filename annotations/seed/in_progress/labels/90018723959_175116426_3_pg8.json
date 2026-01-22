@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018723959_175116426_3_pg8",
+  "fields": {
+    "dealer_name": "AGRIMET AUTOMOBILES PVT. LTD.",
+    "model_name": "585 YUVO TEELS+",
+    "horse_power": 49,
+    "asset_cost": 840000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        831.5010986328125,
+        1390.425048828125,
+        1016.6082763671875,
+        1480.7640380859375
+      ],
+      "conf": 0.6906265020370483
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        858.814208984375,
+        1334.030517578125,
+        1031.605712890625,
+        1516.3092041015625
+      ],
+      "conf": 0.9370901584625244
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.628; VLM logprob=-0.052; please verify",
+  "vlm_conf_logprob": -0.05248628133616561
+}

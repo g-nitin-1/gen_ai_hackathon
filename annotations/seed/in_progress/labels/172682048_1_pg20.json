@@ -1,0 +1,32 @@
+{
+  "doc_id": "172682048_1_pg20",
+  "fields": {
+    "dealer_name": "JAI AMBAY TRACTOR CO",
+    "model_name": "JOHN DEERE 5210 GEAR PRO",
+    "horse_power": 50,
+    "asset_cost": 830000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        984.353759765625,
+        1269.535400390625,
+        1084.1029052734375,
+        1338.0870361328125
+      ],
+      "conf": 0.7426742315292358
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        895.2994995117188,
+        1233.140869140625,
+        1118.1578369140625,
+        1352.000732421875
+      ],
+      "conf": 0.7535022497177124
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.496; VLM logprob=-0.012; please verify",
+  "vlm_conf_logprob": -0.011892720633682075
+}

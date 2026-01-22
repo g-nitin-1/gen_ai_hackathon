@@ -1,0 +1,27 @@
+{
+  "doc_id": "90018862558_175238148_2_pg33",
+  "fields": {
+    "dealer_name": "Odia Agro Industries Corporation Ltd",
+    "model_name": "Swaraj 744 FE 4x4",
+    "horse_power": 48,
+    "asset_cost": 923637,
+    "signature": {
+      "present": true,
+      "bbox": [
+        648.3251953125,
+        1234.7132568359375,
+        914.8624877929688,
+        1384.3984375
+      ],
+      "conf": 0.33039620518684387
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.330; VLM logprob=-0.052; please verify",
+  "vlm_conf_logprob": -0.05243333271773036
+}

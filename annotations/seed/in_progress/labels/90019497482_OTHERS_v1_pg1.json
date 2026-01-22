@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019497482_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Shree Mahakuteshwar Traders",
+    "model_name": "Solis 4115 2WD",
+    "horse_power": 45,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        966.4471435546875,
+        1414.039306640625,
+        1063.3443603515625,
+        1487.8563232421875
+      ],
+      "conf": 0.3930804431438446
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        0.0,
+        75.27884674072266,
+        207.26145935058594,
+        285.9408874511719
+      ],
+      "conf": 0.817339301109314
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.210; VLM logprob=-0.074; please verify",
+  "vlm_conf_logprob": -0.07374056361281699
+}

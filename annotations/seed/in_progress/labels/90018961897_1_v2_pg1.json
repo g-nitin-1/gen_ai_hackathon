@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018961897_1_v2_pg1",
+  "fields": {
+    "dealer_name": "Mukati Tractor & Auto Parts",
+    "model_name": "SOLIS 4515 2WD",
+    "horse_power": 48,
+    "asset_cost": 865000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        918.6851806640625,
+        1314.1077880859375,
+        1026.2889404296875,
+        1394.3428955078125
+      ],
+      "conf": 0.44157809019088745
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        872.7578125,
+        1270.8289794921875,
+        1065.053466796875,
+        1457.76513671875
+      ],
+      "conf": 0.8800337910652161
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.322; VLM logprob=-0.054; please verify",
+  "vlm_conf_logprob": -0.054134486667513
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "172962352_3_pg9",
+  "fields": {
+    "dealer_name": "THE ODISHA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "SWARAJ 744 FE I 4X4",
+    "horse_power": 48,
+    "asset_cost": 933759,
+    "signature": {
+      "present": true,
+      "bbox": [
+        866.1958618164062,
+        1412.826904296875,
+        994.6132202148438,
+        1508.9635009765625
+      ],
+      "conf": 0.6499484777450562
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        836.0181884765625,
+        1449.161865234375,
+        1107.599609375,
+        1562.0
+      ],
+      "conf": 0.545712947845459
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.196; VLM logprob=-0.043; please verify",
+  "vlm_conf_logprob": -0.043189662573328395
+}

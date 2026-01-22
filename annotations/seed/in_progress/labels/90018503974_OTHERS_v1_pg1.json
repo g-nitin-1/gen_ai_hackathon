@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018503974_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "NATIONAL MOTORS",
+    "model_name": "MF 84 DI",
+    "horse_power": 49,
+    "asset_cost": 639000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        914.0241088867188,
+        1407.154541015625,
+        1154.5599365234375,
+        1497.5028076171875
+      ],
+      "conf": 0.692698061466217
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        981.5215454101562,
+        1353.985595703125,
+        1160.0107421875,
+        1530.3726806640625
+      ],
+      "conf": 0.9412340521812439
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.634; VLM logprob=-0.095; please verify",
+  "vlm_conf_logprob": -0.09486889804330054
+}

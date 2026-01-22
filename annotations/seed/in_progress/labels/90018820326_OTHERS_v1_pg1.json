@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018820326_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/S KIDHI SIDHI MOTORS",
+    "model_name": "FT 35 CHAMPION",
+    "horse_power": 34,
+    "asset_cost": 540000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1360.164794921875,
+        2138.495361328125,
+        1610.96923828125,
+        2243.874267578125
+      ],
+      "conf": 0.4706524908542633
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1307.11083984375,
+        2091.970458984375,
+        1639.498046875,
+        2268.958984375
+      ],
+      "conf": 0.7772746086120605
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.248; VLM logprob=-0.058; please verify",
+  "vlm_conf_logprob": -0.05805817484180844
+}

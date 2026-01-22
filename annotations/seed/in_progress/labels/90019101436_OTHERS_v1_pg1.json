@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019101436_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Mukundraj Tractors",
+    "model_name": "Swaraj 549 FE",
+    "horse_power": 44,
+    "asset_cost": 950000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        903.8464965820312,
+        1415.279052734375,
+        1068.6304931640625,
+        1524.349609375
+      ],
+      "conf": 0.6896515488624573
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        906.8939819335938,
+        1352.1483154296875,
+        1096.0509033203125,
+        1538.7540283203125
+      ],
+      "conf": 0.9300051927566528
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.620; VLM logprob=-0.101; please verify",
+  "vlm_conf_logprob": -0.10052701456840062
+}

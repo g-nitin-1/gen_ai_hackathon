@@ -1,0 +1,32 @@
+{
+  "doc_id": "173900637_2_pg25",
+  "fields": {
+    "dealer_name": "M. Vikas Agencies",
+    "model_name": "SONALIKA INTERNATIONAL 734-DI POWERPLUS OIB",
+    "horse_power": 37,
+    "asset_cost": 7100000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        898.8787231445312,
+        1349.243408203125,
+        1080.9393310546875,
+        1424.254638671875
+      ],
+      "conf": 0.5797454714775085
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        966.8576049804688,
+        1308.8638916015625,
+        1125.4495849609375,
+        1463.40234375
+      ],
+      "conf": 0.9479883909225464
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.528; VLM logprob=-0.111; please verify",
+  "vlm_conf_logprob": -0.11094070360990228
+}

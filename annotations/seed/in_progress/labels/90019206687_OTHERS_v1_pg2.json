@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019206687_OTHERS_v1_pg2",
+  "fields": {
+    "dealer_name": "The Odisha Agro Industries Corporation Ltd.",
+    "model_name": "TAFE MF 246",
+    "horse_power": 46,
+    "asset_cost": 980792,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1245.3587646484375,
+        1067.046142578125,
+        1399.8826904296875,
+        1130.392333984375
+      ],
+      "conf": 0.7411105036735535
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        259.3293762207031,
+        1041.00634765625,
+        464.4105529785156,
+        1176.512451171875
+      ],
+      "conf": 0.7831452488899231
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.524; VLM logprob=-0.046; please verify",
+  "vlm_conf_logprob": -0.04623475241570896
+}

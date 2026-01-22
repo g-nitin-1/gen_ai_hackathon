@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019604068_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/s. DASHMESH AUTOMOBILES",
+    "model_name": "SWARAJ 744 FE",
+    "horse_power": 48,
+    "asset_cost": 710000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        746.15771484375,
+        1306.3043212890625,
+        1081.8131103515625,
+        1416.06591796875
+      ],
+      "conf": 0.4768572747707367
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        846.2109375,
+        1293.76611328125,
+        1031.986083984375,
+        1485.3731689453125
+      ],
+      "conf": 0.9358426332473755
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.413; VLM logprob=-0.009; please verify",
+  "vlm_conf_logprob": -0.008935953417859603
+}

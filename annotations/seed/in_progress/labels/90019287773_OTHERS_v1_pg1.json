@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019287773_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "NATIONAL TRACTOR SALES",
+    "model_name": "MF 241 O F",
+    "horse_power": 40,
+    "asset_cost": 758200,
+    "signature": {
+      "present": true,
+      "bbox": [
+        981.4528198242188,
+        1318.2603759765625,
+        1117.723876953125,
+        1461.57861328125
+      ],
+      "conf": 0.4982188940048218
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        963.818603515625,
+        1315.561279296875,
+        1122.5972900390625,
+        1473.060791015625
+      ],
+      "conf": 0.9369370341300964
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.435; VLM logprob=-0.103; please verify",
+  "vlm_conf_logprob": -0.10287170836655857
+}

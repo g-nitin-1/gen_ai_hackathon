@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018918722_175278173_1_pg22",
+  "fields": {
+    "dealer_name": "Shri Krishna Motors",
+    "model_name": "Sonalika DI 3501B PS",
+    "horse_power": 39,
+    "asset_cost": 640000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1025.4814453125,
+        1307.0140380859375,
+        1116.5205078125,
+        1358.1956787109375
+      ],
+      "conf": 0.6229258179664612
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        933.8609619140625,
+        1319.8541259765625,
+        1120.9234619140625,
+        1391.7484130859375
+      ],
+      "conf": 0.3512714207172394
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.974; VLM logprob=-0.063; please verify",
+  "vlm_conf_logprob": -0.06344813760089589
+}

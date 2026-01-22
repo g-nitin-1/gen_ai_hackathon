@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018711224_175061697_1_pg9",
+  "fields": {
+    "dealer_name": "Sharma Tractors",
+    "model_name": "3600-2",
+    "horse_power": 2,
+    "asset_cost": 811000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        986.7232666015625,
+        1371.301025390625,
+        1111.019775390625,
+        1423.8873291015625
+      ],
+      "conf": 0.4554773271083832
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        995.6405639648438,
+        1291.004150390625,
+        1168.0032958984375,
+        1462.124755859375
+      ],
+      "conf": 0.9385266900062561
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.394; VLM logprob=-0.052; please verify",
+  "vlm_conf_logprob": -0.052296815629850765
+}

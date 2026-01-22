@@ -1,0 +1,32 @@
+{
+  "doc_id": "172448470_3_pg15",
+  "fields": {
+    "dealer_name": "THE ORISSA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "Kubota MU 550X 4WD",
+    "horse_power": 45,
+    "asset_cost": 1106506,
+    "signature": {
+      "present": true,
+      "bbox": [
+        907.096923828125,
+        1175.5340576171875,
+        1178.21337890625,
+        1287.8751220703125
+      ],
+      "conf": 0.6546170711517334
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1067.7041015625,
+        1159.47265625,
+        1201.2801513671875,
+        1285.9752197265625
+      ],
+      "conf": 0.7899796962738037
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.445; VLM logprob=-0.059; please verify",
+  "vlm_conf_logprob": -0.059364509992184664
+}

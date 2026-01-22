@@ -1,0 +1,32 @@
+{
+  "doc_id": "172819725_1_pg42",
+  "fields": {
+    "dealer_name": "VAARAAHI AUTOMOTIVES",
+    "model_name": "SWARAJ 843 XM-2 WD",
+    "horse_power": 42,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        831.6170043945312,
+        1317.8096923828125,
+        1012.63671875,
+        1425.2135009765625
+      ],
+      "conf": 0.5762965083122253
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        821.74609375,
+        1281.741943359375,
+        1000.4125366210938,
+        1452.373779296875
+      ],
+      "conf": 0.941834568977356
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.518; VLM logprob=-0.070; please verify",
+  "vlm_conf_logprob": -0.0698822110011664
+}

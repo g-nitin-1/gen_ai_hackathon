@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018911592_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "MK AGRO TECH",
+    "model_name": "D1-42 RX OIB",
+    "horse_power": 42,
+    "asset_cost": 830000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        2058.215087890625,
+        2963.62158203125,
+        2513.376220703125,
+        3135.447998046875
+      ],
+      "conf": 0.6885449290275574
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1769.2554931640625,
+        2866.31396484375,
+        2142.3623046875,
+        3224.340087890625
+      ],
+      "conf": 0.9270817041397095
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.616; VLM logprob=-0.024; please verify",
+  "vlm_conf_logprob": -0.023793286149696592
+}

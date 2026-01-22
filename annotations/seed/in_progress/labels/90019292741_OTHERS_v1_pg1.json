@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019292741_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "GILL AGRO",
+    "model_name": "5210 YWD",
+    "horse_power": 50,
+    "asset_cost": 1100000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        4798.33740234375,
+        7124.080078125,
+        5747.619140625,
+        7564.45556640625
+      ],
+      "conf": 0.6767141819000244
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        4346.90771484375,
+        6849.68994140625,
+        5210.7509765625,
+        7713.75
+      ],
+      "conf": 0.7019119262695312
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.379; VLM logprob=-0.046; please verify",
+  "vlm_conf_logprob": -0.04578453101094934
+}

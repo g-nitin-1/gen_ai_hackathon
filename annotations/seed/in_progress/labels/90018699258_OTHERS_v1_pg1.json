@@ -1,0 +1,27 @@
+{
+  "doc_id": "90018699258_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SINGH FARMING SOLUTIONS",
+    "model_name": "5405 4WD GearPro",
+    "horse_power": 63,
+    "asset_cost": 1400000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        846.260986328125,
+        1358.4146728515625,
+        944.6285400390625,
+        1497.8199462890625
+      ],
+      "conf": 0.581721305847168
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.582; VLM logprob=-0.019; please verify",
+  "vlm_conf_logprob": -0.019413969275667436
+}

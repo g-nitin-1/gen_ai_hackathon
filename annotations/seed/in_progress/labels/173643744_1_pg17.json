@@ -1,0 +1,27 @@
+{
+  "doc_id": "173643744_1_pg17",
+  "fields": {
+    "dealer_name": "HARSH ENTERPRISES",
+    "model_name": "PT-439",
+    "horse_power": 41,
+    "asset_cost": 550000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        464.601318359375,
+        431.1541442871094,
+        623.6478271484375,
+        505.71685791015625
+      ],
+      "conf": 0.2922416031360626
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.292; VLM logprob=-0.015; please verify",
+  "vlm_conf_logprob": -0.014657482207005822
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019008626_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "NATIONAL TRACTOR SALES",
+    "model_name": "MF 241 DI J MAHASHAKTI",
+    "horse_power": 42,
+    "asset_cost": 797965,
+    "signature": {
+      "present": true,
+      "bbox": [
+        413.2083740234375,
+        244.82460021972656,
+        500.6658020019531,
+        333.9686279296875
+      ],
+      "conf": 0.4958451986312866
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1099.196044921875,
+        1411.4886474609375,
+        1270.2633056640625,
+        1584.26220703125
+      ],
+      "conf": 0.8684048652648926
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.364; VLM logprob=-0.043; please verify",
+  "vlm_conf_logprob": -0.04327064462115553
+}

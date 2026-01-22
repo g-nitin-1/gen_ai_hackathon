@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019571048_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Manorama Tractors",
+    "model_name": "DI 35 RX 39",
+    "horse_power": 39,
+    "asset_cost": 690000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        810.6553344726562,
+        1325.41064453125,
+        1061.172607421875,
+        1450.2392578125
+      ],
+      "conf": 0.7331244945526123
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        830.5592041015625,
+        1297.77099609375,
+        1030.9871826171875,
+        1482.977294921875
+      ],
+      "conf": 0.9156798124313354
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.649; VLM logprob=-0.049; please verify",
+  "vlm_conf_logprob": -0.04882604780922356
+}

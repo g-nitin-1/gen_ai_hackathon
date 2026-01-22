@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019241519_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "KIRAN MOTORS",
+    "model_name": "John Deere Tractor",
+    "horse_power": 75,
+    "asset_cost": 870000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        2886.313720703125,
+        2932.57421875,
+        3278.783447265625,
+        3142.731201171875
+      ],
+      "conf": 0.7668874859809875
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        2713.804443359375,
+        2939.899169921875,
+        3253.6484375,
+        3125.25244140625
+      ],
+      "conf": 0.34311172366142273
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.110; VLM logprob=-0.024; please verify",
+  "vlm_conf_logprob": -0.024167234059574227
+}

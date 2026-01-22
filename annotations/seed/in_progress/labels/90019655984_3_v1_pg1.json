@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019655984_3_v1_pg1",
+  "fields": {
+    "dealer_name": "Amar Tractors & Motors",
+    "model_name": "585 DI YUVO Tech plus",
+    "horse_power": 49,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        874.0264282226562,
+        1416.3895263671875,
+        1013.3129272460938,
+        1511.6776123046875
+      ],
+      "conf": 0.48686137795448303
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        865.4255981445312,
+        1359.385986328125,
+        1063.8419189453125,
+        1544.84228515625
+      ],
+      "conf": 0.9212642908096313
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.408; VLM logprob=-0.064; please verify",
+  "vlm_conf_logprob": -0.0639982908486445
+}

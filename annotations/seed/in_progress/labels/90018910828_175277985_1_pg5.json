@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018910828_175277985_1_pg5",
+  "fields": {
+    "dealer_name": "Sai Motors",
+    "model_name": "Swaraj 744 FE",
+    "horse_power": 48,
+    "asset_cost": 830000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        860.5578002929688,
+        1302.2783203125,
+        1138.517578125,
+        1401.4732666015625
+      ],
+      "conf": 0.7158806920051575
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        892.8905639648438,
+        1268.291259765625,
+        1066.2904052734375,
+        1429.470947265625
+      ],
+      "conf": 0.9210122227668762
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.637; VLM logprob=-0.037; please verify",
+  "vlm_conf_logprob": -0.03696261694585701
+}

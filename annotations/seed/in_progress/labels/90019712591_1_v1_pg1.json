@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019712591_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Guru Kirpa Tractors",
+    "model_name": "S210E MFWD 4x4",
+    "horse_power": 50,
+    "asset_cost": 999000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        947.2987670898438,
+        1401.4932861328125,
+        1070.0699462890625,
+        1488.3148193359375
+      ],
+      "conf": 0.6827617287635803
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        940.0221557617188,
+        1404.5816650390625,
+        1173.1231689453125,
+        1499.7191162109375
+      ],
+      "conf": 0.4299505054950714
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.113; VLM logprob=-0.056; please verify",
+  "vlm_conf_logprob": -0.05599926484186199
+}

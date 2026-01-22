@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019542405_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/S. KARTHIKEYA INTERNATIONAL TRACTORS",
+    "model_name": "Sonalika DI-702",
+    "horse_power": 42,
+    "asset_cost": 650000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        808.8265991210938,
+        1384.1312255859375,
+        989.8092041015625,
+        1495.7711181640625
+      ],
+      "conf": 0.7005810141563416
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        788.494873046875,
+        1364.8233642578125,
+        940.8890991210938,
+        1516.7459716796875
+      ],
+      "conf": 0.938588559627533
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.639; VLM logprob=-0.106; please verify",
+  "vlm_conf_logprob": -0.10640125599010625
+}

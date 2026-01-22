@@ -1,0 +1,32 @@
+{
+  "doc_id": "173152903_2_pg33",
+  "fields": {
+    "dealer_name": "THE ODISHA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "EURO 50 E91 POWERTRAC NXT",
+    "horse_power": 52,
+    "asset_cost": 1005892,
+    "signature": {
+      "present": true,
+      "bbox": [
+        905.0137939453125,
+        1152.74658203125,
+        1154.54052734375,
+        1257.072265625
+      ],
+      "conf": 0.6062241792678833
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        820.4810180664062,
+        1205.4921875,
+        1096.2557373046875,
+        1368.97412109375
+      ],
+      "conf": 0.5253661870956421
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.132; VLM logprob=-0.030; please verify",
+  "vlm_conf_logprob": -0.029597510894027915
+}

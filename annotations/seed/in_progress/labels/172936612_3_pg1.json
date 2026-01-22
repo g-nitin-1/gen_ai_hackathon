@@ -1,0 +1,32 @@
+{
+  "doc_id": "172936612_3_pg1",
+  "fields": {
+    "dealer_name": "THE ORISSA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "ESCORTS LTD 45 F25",
+    "horse_power": 47,
+    "asset_cost": 873999,
+    "signature": {
+      "present": true,
+      "bbox": [
+        962.81396484375,
+        1190.7667236328125,
+        1176.4522705078125,
+        1258.066162109375
+      ],
+      "conf": 0.5901396870613098
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        841.4429931640625,
+        1162.3697509765625,
+        1174.2747802734375,
+        1382.192626953125
+      ],
+      "conf": 0.5444710850715637
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.135; VLM logprob=-0.040; please verify",
+  "vlm_conf_logprob": -0.039503884623299096
+}

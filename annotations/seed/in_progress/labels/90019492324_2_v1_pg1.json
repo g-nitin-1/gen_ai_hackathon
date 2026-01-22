@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019492324_2_v1_pg1",
+  "fields": {
+    "dealer_name": "KALER & GILL TRACTORS",
+    "model_name": "Swaraj 744 FE",
+    "horse_power": 48,
+    "asset_cost": 770000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        2163.496337890625,
+        3178.740234375,
+        2325.633056640625,
+        3280.612548828125
+      ],
+      "conf": 0.5188211798667908
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1694.1375732421875,
+        3027.633056640625,
+        2373.773193359375,
+        3326.39453125
+      ],
+      "conf": 0.7237063646316528
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.243; VLM logprob=-0.029; please verify",
+  "vlm_conf_logprob": -0.02917945023736305
+}

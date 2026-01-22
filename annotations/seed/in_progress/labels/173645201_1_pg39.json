@@ -1,0 +1,32 @@
+{
+  "doc_id": "173645201_1_pg39",
+  "fields": {
+    "dealer_name": "NATARAJA TRACTORS",
+    "model_name": "Sonalika DI-32 RX",
+    "horse_power": 32,
+    "asset_cost": 620000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        832.635986328125,
+        1411.9686279296875,
+        940.379638671875,
+        1486.22119140625
+      ],
+      "conf": 0.6548453569412231
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        795.0564575195312,
+        1359.516845703125,
+        977.9832153320312,
+        1541.6715087890625
+      ],
+      "conf": 0.9589947462081909
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.614; VLM logprob=-0.063; please verify",
+  "vlm_conf_logprob": -0.06303611091369277
+}

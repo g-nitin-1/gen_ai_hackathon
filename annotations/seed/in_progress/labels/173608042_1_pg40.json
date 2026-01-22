@@ -1,0 +1,32 @@
+{
+  "doc_id": "173608042_1_pg40",
+  "fields": {
+    "dealer_name": "Dhanvi Motors",
+    "model_name": "Sonalika Beagban-30",
+    "horse_power": 30,
+    "asset_cost": 620000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        86.06861114501953,
+        54.091522216796875,
+        217.0022430419922,
+        135.152587890625
+      ],
+      "conf": 0.7017605900764465
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        860.4201049804688,
+        1230.819580078125,
+        1009.8314819335938,
+        1377.3729248046875
+      ],
+      "conf": 0.9372463822364807
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.639; VLM logprob=-0.066; please verify",
+  "vlm_conf_logprob": -0.06628143275642505
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019109032_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "GK TRACTORS",
+    "model_name": "Farmtrac FT 45 PA+",
+    "horse_power": 50,
+    "asset_cost": 970000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        862.07421875,
+        1349.745849609375,
+        1052.163818359375,
+        1523.622314453125
+      ],
+      "conf": 0.7399039268493652
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.740; VLM logprob=-0.076; please verify",
+  "vlm_conf_logprob": -0.07625762539519991
+}

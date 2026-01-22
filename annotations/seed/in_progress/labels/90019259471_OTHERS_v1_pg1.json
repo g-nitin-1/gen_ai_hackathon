@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019259471_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SUHAS AUTOMOTIVES",
+    "model_name": "305 JIVO",
+    "horse_power": 22,
+    "asset_cost": 555000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1935.5360107421875,
+        2978.04052734375,
+        2552.379638671875,
+        3339.68505859375
+      ],
+      "conf": 0.6720454692840576
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        2307.463134765625,
+        2863.355712890625,
+        2828.966552734375,
+        3425.88818359375
+      ],
+      "conf": 0.9459330439567566
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.618; VLM logprob=-0.053; please verify",
+  "vlm_conf_logprob": -0.052967988539695754
+}

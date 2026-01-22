@@ -1,0 +1,32 @@
+{
+  "doc_id": "174037696_1_pg7",
+  "fields": {
+    "dealer_name": "NIRMAL AUTOMOBILES",
+    "model_name": "FT 45 POWERMAXX 50",
+    "horse_power": 45,
+    "asset_cost": 711000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        952.6334228515625,
+        1236.2930908203125,
+        1076.4658203125,
+        1344.1981201171875
+      ],
+      "conf": 0.6591671705245972
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        922.700439453125,
+        1237.02880859375,
+        1081.9405517578125,
+        1395.9000244140625
+      ],
+      "conf": 0.9365578293800354
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.596; VLM logprob=-0.053; please verify",
+  "vlm_conf_logprob": -0.052680033983606336
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173661108_1_pg38",
+  "fields": {
+    "dealer_name": "SRI KALLESWARA TRACTORS",
+    "model_name": "PT EURO 42 PLUS",
+    "horse_power": 45,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        689.0709838867188,
+        1155.65478515625,
+        908.7619018554688,
+        1283.7127685546875
+      ],
+      "conf": 0.5533426403999329
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        661.9302368164062,
+        1112.7877197265625,
+        875.71484375,
+        1334.054443359375
+      ],
+      "conf": 0.9365893006324768
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.490; VLM logprob=-0.039; please verify",
+  "vlm_conf_logprob": -0.03946769811243577
+}

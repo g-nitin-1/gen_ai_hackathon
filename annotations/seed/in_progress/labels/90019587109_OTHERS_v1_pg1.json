@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019587109_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Siddhanath Agro Agency",
+    "model_name": "Swaraj 855 FF",
+    "horse_power": 52,
+    "asset_cost": 900000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        913.7467041015625,
+        1405.8677978515625,
+        1014.8485717773438,
+        1509.0546875
+      ],
+      "conf": 0.5254510045051575
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.525; VLM logprob=-0.033; please verify",
+  "vlm_conf_logprob": -0.033203487324366655
+}

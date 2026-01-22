@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019604664_3_v1_pg1",
+  "fields": {
+    "dealer_name": "BALAJI AUTOMOTIVES",
+    "model_name": "4750L YUVO TECH PLUS",
+    "horse_power": 45,
+    "asset_cost": 125000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        671.3236083984375,
+        1159.127685546875,
+        803.149658203125,
+        1198.4598388671875
+      ],
+      "conf": 0.4045710563659668
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        955.98583984375,
+        1326.73828125,
+        1165.49365234375,
+        1528.3416748046875
+      ],
+      "conf": 0.4238913953304291
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.828; VLM logprob=-0.080; please verify",
+  "vlm_conf_logprob": -0.07974601823239937
+}

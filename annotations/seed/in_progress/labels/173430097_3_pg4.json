@@ -1,0 +1,32 @@
+{
+  "doc_id": "173430097_3_pg4",
+  "fields": {
+    "dealer_name": "KISSAN TRACTOR AGENCY",
+    "model_name": "SWARAJ 785 FEER",
+    "horse_power": 29,
+    "asset_cost": 680000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        779.6260986328125,
+        1188.2413330078125,
+        988.5106811523438,
+        1310.5814208984375
+      ],
+      "conf": 0.6205252408981323
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        811.3258056640625,
+        1173.90380859375,
+        978.266357421875,
+        1342.53515625
+      ],
+      "conf": 0.8976263403892517
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.518; VLM logprob=-0.073; please verify",
+  "vlm_conf_logprob": -0.0728938319074814
+}

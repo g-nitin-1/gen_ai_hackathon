@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019488806_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "Shri Balaji Agro Sales",
+    "model_name": "Digitrac PP 43i",
+    "horse_power": 50,
+    "asset_cost": 840000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1364.74755859375,
+        2085.794189453125,
+        1487.94189453125,
+        2243.50830078125
+      ],
+      "conf": 0.6886606812477112
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1294.301025390625,
+        2010.3958740234375,
+        1598.0487060546875,
+        2337.408447265625
+      ],
+      "conf": 0.9420956373214722
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.631; VLM logprob=-0.073; please verify",
+  "vlm_conf_logprob": -0.07257745249146265
+}

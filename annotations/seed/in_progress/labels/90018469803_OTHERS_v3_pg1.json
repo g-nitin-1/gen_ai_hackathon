@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018469803_OTHERS_v3_pg1",
+  "fields": {
+    "dealer_name": "MOHIT TRACTORS & MOTORS",
+    "model_name": "DI 35",
+    "horse_power": 42,
+    "asset_cost": 650000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        930.6268920898438,
+        1340.372314453125,
+        1081.927734375,
+        1389.668701171875
+      ],
+      "conf": 0.6230727434158325
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        949.1934814453125,
+        1285.263427734375,
+        1110.076904296875,
+        1400.862060546875
+      ],
+      "conf": 0.5430486798286438
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.166; VLM logprob=-0.016; please verify",
+  "vlm_conf_logprob": -0.016017347477699055
+}

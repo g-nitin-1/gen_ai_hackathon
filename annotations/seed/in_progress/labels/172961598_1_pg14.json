@@ -1,0 +1,32 @@
+{
+  "doc_id": "172961598_1_pg14",
+  "fields": {
+    "dealer_name": "KISAN TRACTORS",
+    "model_name": "425",
+    "horse_power": 45,
+    "asset_cost": 760000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        828.75341796875,
+        1211.8128662109375,
+        1009.3143310546875,
+        1321.8070068359375
+      ],
+      "conf": 0.6315215229988098
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        834.078857421875,
+        1218.685791015625,
+        1084.6318359375,
+        1347.0379638671875
+      ],
+      "conf": 0.8384422659873962
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.470; VLM logprob=-0.020; please verify",
+  "vlm_conf_logprob": -0.02000289812841602
+}

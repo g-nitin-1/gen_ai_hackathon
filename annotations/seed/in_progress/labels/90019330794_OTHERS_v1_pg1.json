@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019330794_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "HADOTI TRACTOR AND SALES",
+    "model_name": "ESCORT 47 PH",
+    "horse_power": 50,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        723.7144775390625,
+        1446.0103759765625,
+        911.7428588867188,
+        1537.9127197265625
+      ],
+      "conf": 0.4840596318244934
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        690.5347900390625,
+        1415.444580078125,
+        860.63134765625,
+        1595.2757568359375
+      ],
+      "conf": 0.9399320483207703
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.424; VLM logprob=-0.040; please verify",
+  "vlm_conf_logprob": -0.03959796428834663
+}

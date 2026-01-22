@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019661354_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/s SHYAM TRACTORS",
+    "model_name": "Solis 4515",
+    "horse_power": 48,
+    "asset_cost": 725000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        945.4698486328125,
+        1312.294677734375,
+        1081.9423828125,
+        1365.896240234375
+      ],
+      "conf": 0.4995718002319336
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        925.645263671875,
+        1236.1226806640625,
+        1117.4522705078125,
+        1425.281982421875
+      ],
+      "conf": 0.9012274742126465
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.401; VLM logprob=-0.010; please verify",
+  "vlm_conf_logprob": -0.00984505016628153
+}

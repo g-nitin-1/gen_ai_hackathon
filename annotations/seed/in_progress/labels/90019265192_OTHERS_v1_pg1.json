@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019265192_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SHRI MURALIDHAR MOTORS",
+    "model_name": "M.F.7250 POWER UP",
+    "horse_power": 50,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        927.9884643554688,
+        1252.806396484375,
+        1051.0623779296875,
+        1376.5146484375
+      ],
+      "conf": 0.48520779609680176
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        896.9960327148438,
+        1253.546875,
+        1078.4197998046875,
+        1426.0
+      ],
+      "conf": 0.9320899248123169
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.417; VLM logprob=-0.038; please verify",
+  "vlm_conf_logprob": -0.037979192964384956
+}

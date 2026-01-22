@@ -1,0 +1,32 @@
+{
+  "doc_id": "172675384_1_pg13",
+  "fields": {
+    "dealer_name": "KALER & GILL TRACTORS",
+    "model_name": "895 FE 52 HP",
+    "horse_power": 52,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        844.8019409179688,
+        1300.687255859375,
+        1018.454833984375,
+        1409.7469482421875
+      ],
+      "conf": 0.5630900859832764
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        870.488037109375,
+        1300.972900390625,
+        986.193603515625,
+        1415.8358154296875
+      ],
+      "conf": 0.7536557912826538
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.317; VLM logprob=-0.061; please verify",
+  "vlm_conf_logprob": -0.061119035480899406
+}

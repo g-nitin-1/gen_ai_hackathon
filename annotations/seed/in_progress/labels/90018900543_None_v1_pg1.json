@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018900543_None_v1_pg1",
+  "fields": {
+    "dealer_name": "Vishwakarma Tractors",
+    "model_name": "MAHINDRA 605 NOVO 2WD",
+    "horse_power": 349.9,
+    "asset_cost": 825000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        64.11247253417969,
+        1505.6448974609375,
+        344.88067626953125,
+        1579.7344970703125
+      ],
+      "conf": 0.6941500306129456
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        857.1475830078125,
+        1494.2762451171875,
+        1116.161865234375,
+        1631.42822265625
+      ],
+      "conf": 0.7886376976966858
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.483; VLM logprob=-0.052; please verify",
+  "vlm_conf_logprob": -0.0520225162132054
+}

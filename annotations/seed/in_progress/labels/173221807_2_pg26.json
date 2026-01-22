@@ -1,0 +1,32 @@
+{
+  "doc_id": "173221807_2_pg26",
+  "fields": {
+    "dealer_name": "NATION MOTORS",
+    "model_name": "MF 241 DI MAHASHAKTI",
+    "horse_power": 42,
+    "asset_cost": 639000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1024.5679931640625,
+        288.41961669921875,
+        1155.12109375,
+        360.2958679199219
+      ],
+      "conf": 0.7012901306152344
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        928.6969604492188,
+        1276.17578125,
+        1140.9248046875,
+        1477.986572265625
+      ],
+      "conf": 0.9371611475944519
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.638; VLM logprob=-0.083; please verify",
+  "vlm_conf_logprob": -0.08276653012296478
+}

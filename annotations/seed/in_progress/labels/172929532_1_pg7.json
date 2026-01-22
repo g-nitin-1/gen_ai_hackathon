@@ -1,0 +1,32 @@
+{
+  "doc_id": "172929532_1_pg7",
+  "fields": {
+    "dealer_name": "M/s. HEMKUNT TRACTORS",
+    "model_name": "DI-750 III COIB PS-SS",
+    "horse_power": 38,
+    "asset_cost": 810000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        133.77188110351562,
+        16.746797561645508,
+        327.1466979980469,
+        150.03248596191406
+      ],
+      "conf": 0.6551679372787476
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        957.3919677734375,
+        1202.6580810546875,
+        1171.9827880859375,
+        1354.8968505859375
+      ],
+      "conf": 0.5800310373306274
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.235; VLM logprob=-0.132; please verify",
+  "vlm_conf_logprob": -0.13170803576257709
+}

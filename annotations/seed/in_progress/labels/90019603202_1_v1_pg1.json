@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019603202_1_v1_pg1",
+  "fields": {
+    "dealer_name": "M/s. Shree Ganesh Tractors",
+    "model_name": "Swaraj 855 FE",
+    "horse_power": 52,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        981.5786743164062,
+        1419.4281005859375,
+        1094.5565185546875,
+        1463.224365234375
+      ],
+      "conf": 0.6507213711738586
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        977.8662719726562,
+        1419.8809814453125,
+        1106.7701416015625,
+        1495.1790771484375
+      ],
+      "conf": 0.7356023788452148
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.386; VLM logprob=-0.027; please verify",
+  "vlm_conf_logprob": -0.026563226343564564
+}

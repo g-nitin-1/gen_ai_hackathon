@@ -1,0 +1,27 @@
+{
+  "doc_id": "90018455419_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Ajay Tractor And Motors",
+    "model_name": "3600-2 SUPER",
+    "horse_power": 45,
+    "asset_cost": 750000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        895.1487426757812,
+        1242.7508544921875,
+        1054.7552490234375,
+        1390.4390869140625
+      ],
+      "conf": 0.3116612732410431
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.312; VLM logprob=-0.041; please verify",
+  "vlm_conf_logprob": -0.04051297120969613
+}

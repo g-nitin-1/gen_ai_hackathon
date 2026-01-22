@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019755787_1_v1_pg1",
+  "fields": {
+    "dealer_name": "KAPISHWARA TRACTORS",
+    "model_name": "powertrac-439 plus",
+    "horse_power": 41,
+    "asset_cost": 780000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        878.0618286132812,
+        1393.1669921875,
+        1034.097900390625,
+        1468.5513916015625
+      ],
+      "conf": 0.7185038924217224
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        828.093505859375,
+        1339.136962890625,
+        1010.2658081054688,
+        1512.18603515625
+      ],
+      "conf": 0.8863387703895569
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.605; VLM logprob=-0.020; please verify",
+  "vlm_conf_logprob": -0.02009641776196856
+}

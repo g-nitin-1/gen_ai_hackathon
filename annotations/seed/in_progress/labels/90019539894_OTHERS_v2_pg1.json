@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019539894_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "MIS. SIYARAM AGROTECH",
+    "model_name": "NOVO 605 PS 4WD",
+    "horse_power": 50,
+    "asset_cost": 999000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1402.996826171875,
+        2225.005126953125,
+        1730.4085693359375,
+        2436.533935546875
+      ],
+      "conf": 0.646912157535553
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1443.1192626953125,
+        2135.448486328125,
+        1750.3699951171875,
+        2463.84912109375
+      ],
+      "conf": 0.8954395055770874
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.542; VLM logprob=-0.038; please verify",
+  "vlm_conf_logprob": -0.03838309988604776
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173695530_3_pg10",
+  "fields": {
+    "dealer_name": "Mahindra",
+    "model_name": "Mahindra YUVO TECH 405 4WD",
+    "horse_power": 39,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        814.029296875,
+        1271.44873046875,
+        943.1129760742188,
+        1382.212158203125
+      ],
+      "conf": 0.4777834415435791
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        796.31640625,
+        1271.4852294921875,
+        958.9144287109375,
+        1423.5589599609375
+      ],
+      "conf": 0.8403101563453674
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.318; VLM logprob=-0.070; please verify",
+  "vlm_conf_logprob": -0.07038016706093003
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018820019_175153084_1_pg24",
+  "fields": {
+    "dealer_name": "NATIONAL AGRIC SERVICES",
+    "model_name": "MF-245 DI",
+    "horse_power": 50,
+    "asset_cost": 729421,
+    "signature": {
+      "present": true,
+      "bbox": [
+        910.0203857421875,
+        1287.2506103515625,
+        1066.4906005859375,
+        1389.948974609375
+      ],
+      "conf": 0.6771663427352905
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        944.222900390625,
+        1255.9261474609375,
+        1143.054931640625,
+        1395.982421875
+      ],
+      "conf": 0.5218934416770935
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.199; VLM logprob=-0.125; please verify",
+  "vlm_conf_logprob": -0.12523795819700656
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173579660_1_pg19",
+  "fields": {
+    "dealer_name": "R.K. AUTOMOBILES",
+    "model_name": "Farmtrac PROMAXX 472WD",
+    "horse_power": 47,
+    "asset_cost": 690000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        839.1072387695312,
+        1328.71484375,
+        953.0287475585938,
+        1430.9666748046875
+      ],
+      "conf": 0.6632332801818848
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        832.2366333007812,
+        1318.6292724609375,
+        954.846923828125,
+        1470.0
+      ],
+      "conf": 0.3275509774684906
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.991; VLM logprob=-0.026; please verify",
+  "vlm_conf_logprob": -0.026202266229695265
+}

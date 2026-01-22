@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019501081_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Shiv Shakti Tractors",
+    "model_name": "MF211 DI SONIA",
+    "horse_power": 45,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        912.5635986328125,
+        1309.6141357421875,
+        1084.27392578125,
+        1387.0009765625
+      ],
+      "conf": 0.6162400841712952
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        870.4678955078125,
+        1264.9595947265625,
+        1028.2108154296875,
+        1427.7083740234375
+      ],
+      "conf": 0.9201258420944214
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.536; VLM logprob=-0.117; please verify",
+  "vlm_conf_logprob": -0.11653284520113093
+}

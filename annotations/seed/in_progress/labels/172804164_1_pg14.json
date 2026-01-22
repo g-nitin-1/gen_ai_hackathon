@@ -1,0 +1,32 @@
+{
+  "doc_id": "172804164_1_pg14",
+  "fields": {
+    "dealer_name": "M/S SHRI PARASNATH ENTERPRISES",
+    "model_name": "575 DI XP Plus",
+    "horse_power": 67,
+    "asset_cost": 630000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        758.6953735351562,
+        1212.8284912109375,
+        896.0205688476562,
+        1303.456787109375
+      ],
+      "conf": 0.8510378003120422
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        744.9620971679688,
+        1174.730712890625,
+        893.7221069335938,
+        1358.8828125
+      ],
+      "conf": 0.6132320165634155
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.464; VLM logprob=-0.039; please verify",
+  "vlm_conf_logprob": -0.03889665457068169
+}

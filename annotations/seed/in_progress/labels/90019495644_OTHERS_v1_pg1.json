@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019495644_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/S AKAL PURKH AUTOMOBILES",
+    "model_name": "855 FE",
+    "horse_power": 55,
+    "asset_cost": 870000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        2715.160400390625,
+        4521.1689453125,
+        3142.4375,
+        4788.4638671875
+      ],
+      "conf": 0.8490648865699768
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        2655.1982421875,
+        4284.45361328125,
+        3294.766845703125,
+        4890.9326171875
+      ],
+      "conf": 0.7073830962181091
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.556; VLM logprob=-0.024; please verify",
+  "vlm_conf_logprob": -0.023685371882656472
+}

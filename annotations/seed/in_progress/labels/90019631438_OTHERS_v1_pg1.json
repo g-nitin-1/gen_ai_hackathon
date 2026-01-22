@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019631438_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Shri Balaji Tractors",
+    "model_name": "Swaraj 724 XM",
+    "horse_power": 51,
+    "asset_cost": 525000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        869.1211547851562,
+        1335.416015625,
+        1058.8028564453125,
+        1480.1456298828125
+      ],
+      "conf": 0.6680371761322021
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        861.408935546875,
+        1333.604248046875,
+        1064.478515625,
+        1536.2132568359375
+      ],
+      "conf": 0.9503676295280457
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.618; VLM logprob=-0.096; please verify",
+  "vlm_conf_logprob": -0.09640863619221064
+}

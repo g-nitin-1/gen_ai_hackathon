@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019490936_1_v1_pg1",
+  "fields": {
+    "dealer_name": "SHIRIAM TRACTOR",
+    "model_name": "SONALIKA TIMER-55 4WD",
+    "horse_power": 45,
+    "asset_cost": 1000000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        853.462158203125,
+        1416.1268310546875,
+        1051.4647216796875,
+        1487.775390625
+      ],
+      "conf": 0.5787269473075867
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        834.2122192382812,
+        1401.7513427734375,
+        1064.8031005859375,
+        1515.21044921875
+      ],
+      "conf": 0.8186382055282593
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.397; VLM logprob=-0.060; please verify",
+  "vlm_conf_logprob": -0.059815624480203645
+}

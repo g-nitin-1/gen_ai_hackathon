@@ -1,0 +1,27 @@
+{
+  "doc_id": "90018977960_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "PMB MOTORS",
+    "model_name": "DIGI TRAC PP461 16-9(12+3)",
+    "horse_power": 50,
+    "asset_cost": 890000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        960.1358642578125,
+        1349.73828125,
+        1116.8009033203125,
+        1478.2044677734375
+      ],
+      "conf": 0.635353147983551
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.635; VLM logprob=-0.076; please verify",
+  "vlm_conf_logprob": -0.07578599881646823
+}

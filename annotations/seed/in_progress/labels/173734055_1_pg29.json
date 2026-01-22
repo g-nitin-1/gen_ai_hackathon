@@ -1,0 +1,32 @@
+{
+  "doc_id": "173734055_1_pg29",
+  "fields": {
+    "dealer_name": "M's OM TRACTORS",
+    "model_name": "SONALIKA DI 55 Sikandar DC 01B PS",
+    "horse_power": 55,
+    "asset_cost": 880000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        891.7459716796875,
+        1238.1197509765625,
+        1104.7593994140625,
+        1343.817626953125
+      ],
+      "conf": 0.7863497734069824
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        888.2091064453125,
+        1241.424072265625,
+        1091.69775390625,
+        1396.0
+      ],
+      "conf": 0.8337830901145935
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.620; VLM logprob=-0.106; please verify",
+  "vlm_conf_logprob": -0.10649877695228074
+}

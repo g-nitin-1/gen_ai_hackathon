@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019482141_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "NATIONAL MOTORS",
+    "model_name": "M.F. 245 DI - MAHASHAKTI",
+    "horse_power": 46,
+    "asset_cost": 652400,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1322.68359375,
+        1821.036376953125,
+        1515.5997314453125,
+        1923.558837890625
+      ],
+      "conf": 0.639265775680542
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1317.07568359375,
+        1798.3240966796875,
+        1459.3206787109375,
+        1945.3341064453125
+      ],
+      "conf": 0.9213145971298218
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.561; VLM logprob=-0.079; please verify",
+  "vlm_conf_logprob": -0.07942150099463106
+}

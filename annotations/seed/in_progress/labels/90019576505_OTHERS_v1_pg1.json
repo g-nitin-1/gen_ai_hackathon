@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019576505_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "AGARWAL AUTOMOBILES",
+    "model_name": "ESCORT PT-434 DS PLUS DX HR",
+    "horse_power": 37,
+    "asset_cost": 740000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        732.4247436523438,
+        1557.8487548828125,
+        1021.9429931640625,
+        1681.339599609375
+      ],
+      "conf": 0.3619655966758728
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.362; VLM logprob=-0.107; please verify",
+  "vlm_conf_logprob": -0.10679730061870557
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173255857_3_pg5",
+  "fields": {
+    "dealer_name": "MAGAR INDUSTRIES",
+    "model_name": "SOLIS TRACTOR 4515 4WD",
+    "horse_power": 45,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        788.9090576171875,
+        1176.0384521484375,
+        951.0175170898438,
+        1289.0225830078125
+      ],
+      "conf": 0.7500504851341248
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        757.30419921875,
+        1204.49365234375,
+        1045.0849609375,
+        1392.246826171875
+      ],
+      "conf": 0.8195289373397827
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.570; VLM logprob=-0.010; please verify",
+  "vlm_conf_logprob": -0.009686647626121724
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019616205_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/S KISHAN TRACTORS",
+    "model_name": "39 XP41",
+    "horse_power": 45,
+    "asset_cost": 710000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        2649.031005859375,
+        2349.155029296875,
+        3447.574462890625,
+        2608.282470703125
+      ],
+      "conf": 0.2596897482872009
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.260; VLM logprob=-0.018; please verify",
+  "vlm_conf_logprob": -0.017814315624036063
+}

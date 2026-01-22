@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019306534_2_v1_pg1",
+  "fields": {
+    "dealer_name": "PUNITHESHWAR TRACTORS",
+    "model_name": "DF-745 II",
+    "horse_power": 50,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1397.1031494140625,
+        1869.566162109375,
+        1616.8690185546875,
+        1960.188232421875
+      ],
+      "conf": 0.7873503565788269
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1282.0810546875,
+        1869.242919921875,
+        1649.9073486328125,
+        1985.4638671875
+      ],
+      "conf": 0.7026298642158508
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.490; VLM logprob=-0.057; please verify",
+  "vlm_conf_logprob": -0.05698368316753033
+}

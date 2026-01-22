@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018512084_175159349_2_pg32",
+  "fields": {
+    "dealer_name": "M/s. BHAVANI AGRO ENGG. SERVICES",
+    "model_name": "Target 630",
+    "horse_power": 29,
+    "asset_cost": 455358,
+    "signature": {
+      "present": true,
+      "bbox": [
+        864.6304931640625,
+        1344.2911376953125,
+        944.4525146484375,
+        1430.135986328125
+      ],
+      "conf": 0.5510813593864441
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        832.6978759765625,
+        1334.963623046875,
+        981.8749389648438,
+        1427.4761962890625
+      ],
+      "conf": 0.5714486837387085
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.123; VLM logprob=-0.024; please verify",
+  "vlm_conf_logprob": -0.024205436916477082
+}

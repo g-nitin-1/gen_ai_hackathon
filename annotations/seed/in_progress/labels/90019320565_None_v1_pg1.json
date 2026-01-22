@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019320565_None_v1_pg1",
+  "fields": {
+    "dealer_name": "KATYAYANI ENTERPRISES",
+    "model_name": "585 XP Plus",
+    "horse_power": 50,
+    "asset_cost": 790000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        2544.265380859375,
+        4256.45068359375,
+        3258.483154296875,
+        4489.7666015625
+      ],
+      "conf": 0.6037390828132629
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        2556.959228515625,
+        4257.98095703125,
+        3381.221923828125,
+        4602.8857421875
+      ],
+      "conf": 0.667123019695282
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.271; VLM logprob=-0.020; please verify",
+  "vlm_conf_logprob": -0.01979405464758004
+}

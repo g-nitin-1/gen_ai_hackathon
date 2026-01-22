@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019012095_175379096_2_pg9",
+  "fields": {
+    "dealer_name": "NAGANARAY ENTERPRISES",
+    "model_name": "YUVO TECH+",
+    "horse_power": 44,
+    "asset_cost": 113,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1208.62158203125,
+        1122.1571044921875,
+        1374.595458984375,
+        1220.6514892578125
+      ],
+      "conf": 0.6856422424316406
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1251.508056640625,
+        1134.240478515625,
+        1341.828125,
+        1234.8524169921875
+      ],
+      "conf": 0.7628087401390076
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.448; VLM logprob=-0.043; please verify",
+  "vlm_conf_logprob": -0.043074995747853485
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019804134_4_v1_pg1",
+  "fields": {
+    "dealer_name": "Subh Vinayak Tractors",
+    "model_name": "3230 NX-TX",
+    "horse_power": 42,
+    "asset_cost": 625000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        897.4216918945312,
+        1413.5899658203125,
+        1119.646728515625,
+        1571.4334716796875
+      ],
+      "conf": 0.5944151878356934
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        870.395751953125,
+        1366.392822265625,
+        1110.0296630859375,
+        1585.19677734375
+      ],
+      "conf": 0.8695288896560669
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.464; VLM logprob=-0.043; please verify",
+  "vlm_conf_logprob": -0.043335422626211206
+}

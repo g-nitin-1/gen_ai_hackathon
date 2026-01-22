@@ -1,0 +1,32 @@
+{
+  "doc_id": "173601204_1_pg10",
+  "fields": {
+    "dealer_name": "JASWANT SINGH & SONS",
+    "model_name": "Mahindra 575 DI Xtra Power",
+    "horse_power": 29,
+    "asset_cost": 680000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        414.9447021484375,
+        1044.1177978515625,
+        565.8206787109375,
+        1117.01025390625
+      ],
+      "conf": 0.4353220462799072
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        657.1292114257812,
+        1155.793701171875,
+        929.5213623046875,
+        1267.2720947265625
+      ],
+      "conf": 0.7967990636825562
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.232; VLM logprob=-0.083; please verify",
+  "vlm_conf_logprob": -0.08259001855700027
+}

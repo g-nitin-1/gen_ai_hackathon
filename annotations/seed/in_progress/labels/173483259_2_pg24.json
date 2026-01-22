@@ -1,0 +1,32 @@
+{
+  "doc_id": "173483259_2_pg24",
+  "fields": {
+    "dealer_name": "Choudhary Tractors",
+    "model_name": "EICHER AIR COOLED TRACTOR Three Cylinder 368-485",
+    "horse_power": 45,
+    "asset_cost": 705000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        717.4840698242188,
+        1167.172607421875,
+        840.744140625,
+        1255.5552978515625
+      ],
+      "conf": 0.6180776357650757
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        681.2711181640625,
+        1166.1578369140625,
+        907.467529296875,
+        1285.7208251953125
+      ],
+      "conf": 0.6087486147880554
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.227; VLM logprob=-0.038; please verify",
+  "vlm_conf_logprob": -0.03838911427999392
+}

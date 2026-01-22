@@ -1,0 +1,32 @@
+{
+  "doc_id": "173649668_2_pg21",
+  "fields": {
+    "dealer_name": "SRI RANGANATHA EICHER TRACTORS",
+    "model_name": "480 4WD",
+    "horse_power": 45,
+    "asset_cost": 650000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        820.4041137695312,
+        1345.1895751953125,
+        1059.959716796875,
+        1404.459228515625
+      ],
+      "conf": 0.4813954830169678
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        794.3743896484375,
+        1296.390869140625,
+        1103.9451904296875,
+        1445.3765869140625
+      ],
+      "conf": 0.5965294241905212
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.078; VLM logprob=-0.022; please verify",
+  "vlm_conf_logprob": -0.022489907881267666
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019232302_2_v1_pg1",
+  "fields": {
+    "dealer_name": "Sri Rajalakshmi Agency",
+    "model_name": "P+47",
+    "horse_power": 50,
+    "asset_cost": 880000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        878.7109375,
+        1515.849365234375,
+        998.5595092773438,
+        1611.10693359375
+      ],
+      "conf": 0.4790313243865967
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        833.471435546875,
+        1452.8511962890625,
+        1037.482666015625,
+        1655.496337890625
+      ],
+      "conf": 0.88646000623703
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.365; VLM logprob=-0.045; please verify",
+  "vlm_conf_logprob": -0.04542120154564297
+}

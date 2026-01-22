@@ -1,0 +1,27 @@
+{
+  "doc_id": "90018822745_175200356_2_pg39",
+  "fields": {
+    "dealer_name": "Balodiyaa Tractors",
+    "model_name": "742 XT",
+    "horse_power": 45,
+    "asset_cost": 687680,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        50.07832336425781,
+        812.10546875,
+        254.6930389404297,
+        1000.751708984375
+      ],
+      "conf": 0.860791027545929
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.861; VLM logprob=-0.095; please verify",
+  "vlm_conf_logprob": -0.09500524807461176
+}

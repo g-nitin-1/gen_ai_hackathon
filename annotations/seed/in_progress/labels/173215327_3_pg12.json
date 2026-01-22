@@ -1,0 +1,27 @@
+{
+  "doc_id": "173215327_3_pg12",
+  "fields": {
+    "dealer_name": "Vipul Tractors",
+    "model_name": "Sonalika DI - 42 RX - NP",
+    "horse_power": 42,
+    "asset_cost": 799000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        873.0686645507812,
+        1451.8848876953125,
+        1015.5704345703125,
+        1581.4288330078125
+      ],
+      "conf": 0.5730649828910828
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.573; VLM logprob=-0.087; please verify",
+  "vlm_conf_logprob": -0.0873263030821827
+}

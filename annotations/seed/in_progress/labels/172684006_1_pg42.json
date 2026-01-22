@@ -1,0 +1,32 @@
+{
+  "doc_id": "172684006_1_pg42",
+  "fields": {
+    "dealer_name": "Rajyalakshmi Agencies",
+    "model_name": "Swaraj 735-XT",
+    "horse_power": 40,
+    "asset_cost": 770000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        762.7909545898438,
+        1005.5669555664062,
+        948.0159301757812,
+        1062.4884033203125
+      ],
+      "conf": 0.6801416873931885
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        724.0197143554688,
+        945.3344116210938,
+        904.6780395507812,
+        1112.700927734375
+      ],
+      "conf": 0.9470264911651611
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.627; VLM logprob=-0.016; please verify",
+  "vlm_conf_logprob": -0.015601776845414861
+}

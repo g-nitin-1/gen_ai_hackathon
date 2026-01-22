@@ -1,0 +1,32 @@
+{
+  "doc_id": "172934848_2_pg32",
+  "fields": {
+    "dealer_name": "M/S SKT TRADERS",
+    "model_name": "4710 NEW 4WD",
+    "horse_power": 47,
+    "asset_cost": 1090000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        762.3005981445312,
+        910.1961669921875,
+        1006.5131225585938,
+        1026.415283203125
+      ],
+      "conf": 0.5139092206954956
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        747.2634887695312,
+        865.9428100585938,
+        932.1358642578125,
+        1034.75
+      ],
+      "conf": 0.9121972918510437
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.426; VLM logprob=-0.084; please verify",
+  "vlm_conf_logprob": -0.08428858808387378
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173613183_1_pg38",
+  "fields": {
+    "dealer_name": "Shri Laxmi Traders",
+    "model_name": "FT 45 POWERMAXX",
+    "horse_power": 50,
+    "asset_cost": 795000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        930.46630859375,
+        1337.0557861328125,
+        1090.9036865234375,
+        1422.0806884765625
+      ],
+      "conf": 0.773806631565094
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        902.2863159179688,
+        1305.4193115234375,
+        1090.0186767578125,
+        1458.4573974609375
+      ],
+      "conf": 0.8287632465362549
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.603; VLM logprob=-0.030; please verify",
+  "vlm_conf_logprob": -0.029997092605366985
+}

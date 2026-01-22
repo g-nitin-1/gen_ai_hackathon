@@ -1,0 +1,32 @@
+{
+  "doc_id": "172579986_2_pg31",
+  "fields": {
+    "dealer_name": "THE ORISSA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "SWARAJ 744 FE TUX",
+    "horse_power": 48,
+    "asset_cost": 933754,
+    "signature": {
+      "present": true,
+      "bbox": [
+        786.6819458007812,
+        1372.6376953125,
+        1066.56396484375,
+        1487.2698974609375
+      ],
+      "conf": 0.7783594131469727
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        230.13311767578125,
+        1334.6810302734375,
+        455.8773193359375,
+        1488.3065185546875
+      ],
+      "conf": 0.5167196989059448
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.295; VLM logprob=-0.121; please verify",
+  "vlm_conf_logprob": -0.12092771945614274
+}

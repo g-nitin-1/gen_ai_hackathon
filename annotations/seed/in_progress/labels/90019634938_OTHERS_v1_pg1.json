@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019634938_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "USHA MOTORS",
+    "model_name": "CHAMPION F12(35 AR)",
+    "horse_power": 38,
+    "asset_cost": 560000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1363.893310546875,
+        1764.2379150390625,
+        1542.41162109375,
+        1919.075439453125
+      ],
+      "conf": 0.6692618131637573
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1324.4476318359375,
+        1764.895751953125,
+        1535.51416015625,
+        1950.0
+      ],
+      "conf": 0.9054651856422424
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.575; VLM logprob=-0.023; please verify",
+  "vlm_conf_logprob": -0.023121642007021832
+}

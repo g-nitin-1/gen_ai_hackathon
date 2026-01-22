@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019624424_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "BALAJI BORWELLS",
+    "model_name": "DI-35",
+    "horse_power": 39,
+    "asset_cost": 650000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        840.49169921875,
+        1475.905517578125,
+        1041.7681884765625,
+        1548.6827392578125
+      ],
+      "conf": 0.5924748182296753
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        949.844482421875,
+        503.7748718261719,
+        1150.4364013671875,
+        617.3682250976562
+      ],
+      "conf": 0.5192918181419373
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.112; VLM logprob=-0.028; please verify",
+  "vlm_conf_logprob": -0.02843932048037661
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019561961_1_v1_pg1",
+  "fields": {
+    "dealer_name": "KRUISHI TRACTORS",
+    "model_name": "SONALIKA DI-50 PS",
+    "horse_power": 50,
+    "asset_cost": 830000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        991.3944702148438,
+        1301.93603515625,
+        1125.8612060546875,
+        1408.46435546875
+      ],
+      "conf": 0.6841863989830017
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        958.911376953125,
+        1298.8740234375,
+        1149.7330322265625,
+        1458.7139892578125
+      ],
+      "conf": 0.9218557476997375
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.606; VLM logprob=-0.088; please verify",
+  "vlm_conf_logprob": -0.08755267744444777
+}

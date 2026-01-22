@@ -1,0 +1,32 @@
+{
+  "doc_id": "172676445_3_pg6",
+  "fields": {
+    "dealer_name": "FATEHGRH SAHIB TRACTORS",
+    "model_name": "NOVO 605 DI PS 4WD V1",
+    "horse_power": 49,
+    "asset_cost": 900000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        700.2955932617188,
+        1055.8912353515625,
+        868.1015625,
+        1146.0301513671875
+      ],
+      "conf": 0.7458102107048035
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        728.691162109375,
+        1001.8591918945312,
+        842.8770141601562,
+        1160.7677001953125
+      ],
+      "conf": 0.690030574798584
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.436; VLM logprob=-0.068; please verify",
+  "vlm_conf_logprob": -0.06794736936848765
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "172822122_3_pg3",
+  "fields": {
+    "dealer_name": "Vipul Tractors",
+    "model_name": "SONALIKA DI-52 RX 4WD",
+    "horse_power": 42,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        932.8092041015625,
+        1367.345947265625,
+        1086.2557373046875,
+        1530.48681640625
+      ],
+      "conf": 0.7297269105911255
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        922.692626953125,
+        1356.835693359375,
+        1056.3511962890625,
+        1525.967041015625
+      ],
+      "conf": 0.7802258729934692
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.510; VLM logprob=-0.061; please verify",
+  "vlm_conf_logprob": -0.06122942210632971
+}

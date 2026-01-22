@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018791585_175400562_1_pg3",
+  "fields": {
+    "dealer_name": "Shri Gopal Tractor",
+    "model_name": "MF7235",
+    "horse_power": 35,
+    "asset_cost": 565000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        921.8463134765625,
+        1358.089111328125,
+        1077.7119140625,
+        1431.0465087890625
+      ],
+      "conf": 0.6285772919654846
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        839.5567016601562,
+        1329.292236328125,
+        1085.767822265625,
+        1435.4730224609375
+      ],
+      "conf": 0.6526184678077698
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.281; VLM logprob=-0.008; please verify",
+  "vlm_conf_logprob": -0.008045237807359419
+}

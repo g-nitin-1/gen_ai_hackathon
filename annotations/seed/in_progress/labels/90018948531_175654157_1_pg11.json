@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018948531_175654157_1_pg11",
+  "fields": {
+    "dealer_name": "SUHAS AUTOMOTIVES",
+    "model_name": "605 DI M",
+    "horse_power": 59,
+    "asset_cost": 875000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        410.1661376953125,
+        625.6787109375,
+        572.5469360351562,
+        694.8067016601562
+      ],
+      "conf": 0.6519210338592529
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        902.4923095703125,
+        1146.65234375,
+        1147.438720703125,
+        1360.875732421875
+      ],
+      "conf": 0.9443318247795105
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.596; VLM logprob=-0.058; please verify",
+  "vlm_conf_logprob": -0.05849504718393787
+}

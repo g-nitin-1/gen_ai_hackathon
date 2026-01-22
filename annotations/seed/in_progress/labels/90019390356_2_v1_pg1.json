@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019390356_2_v1_pg1",
+  "fields": {
+    "dealer_name": "Auto Union (Jodhpur)",
+    "model_name": "MF 1035 AC MG",
+    "horse_power": 29,
+    "asset_cost": 525000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1285.60595703125,
+        1638.8709716796875,
+        1491.5948486328125,
+        1780.6654052734375
+      ],
+      "conf": 0.3910991847515106
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1225.1129150390625,
+        1604.483154296875,
+        1542.29248046875,
+        1801.14794921875
+      ],
+      "conf": 0.6009455919265747
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.992; VLM logprob=-0.052; please verify",
+  "vlm_conf_logprob": -0.05162816613854915
+}

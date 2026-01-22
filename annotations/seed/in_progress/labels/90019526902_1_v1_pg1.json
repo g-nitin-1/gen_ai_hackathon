@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019526902_1_v1_pg1",
+  "fields": {
+    "dealer_name": "KISSAN TRACTOR AGENCY",
+    "model_name": "SWARAJ 783 FE",
+    "horse_power": 35,
+    "asset_cost": 550000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1329.175048828125,
+        2118.2666015625,
+        1625.5889892578125,
+        2278.460693359375
+      ],
+      "conf": 0.6894830465316772
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1342.71142578125,
+        2013.6868896484375,
+        1639.155517578125,
+        2308.394775390625
+      ],
+      "conf": 0.9345173239707947
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.624; VLM logprob=-0.030; please verify",
+  "vlm_conf_logprob": -0.029606387267596793
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173686992_1_pg29",
+  "fields": {
+    "dealer_name": "Guru Kirpa Automobiles",
+    "model_name": "SWARAJ 855 FE GX PS",
+    "horse_power": 52,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        578.7809448242188,
+        1181.2322998046875,
+        728.8076171875,
+        1297.4974365234375
+      ],
+      "conf": 0.712861180305481
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        562.5936279296875,
+        1187.6414794921875,
+        751.9696655273438,
+        1343.908447265625
+      ],
+      "conf": 0.9258837103843689
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.639; VLM logprob=-0.045; please verify",
+  "vlm_conf_logprob": -0.045086241318859736
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019347483_1_v1_pg1",
+  "fields": {
+    "dealer_name": "JAI KISSAN TRACTORS",
+    "model_name": "DI-35",
+    "horse_power": 35,
+    "asset_cost": 535000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        991.4617919921875,
+        1461.47265625,
+        1173.817138671875,
+        1532.73291015625
+      ],
+      "conf": 0.4996413290500641
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1028.35791015625,
+        1474.8099365234375,
+        1163.6253662109375,
+        1594.1392822265625
+      ],
+      "conf": 0.277689665555954
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.777; VLM logprob=-0.017; please verify",
+  "vlm_conf_logprob": -0.016992268718291195
+}

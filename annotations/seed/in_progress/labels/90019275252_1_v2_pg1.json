@@ -1,0 +1,22 @@
+{
+  "doc_id": "90019275252_1_v2_pg1",
+  "fields": {
+    "dealer_name": "M/S RAJ TRACTORS",
+    "model_name": "NH 3630 TX Plus",
+    "horse_power": 55,
+    "asset_cost": 998000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.000; VLM logprob=-0.007; please verify",
+  "vlm_conf_logprob": -0.007435155926306909
+}

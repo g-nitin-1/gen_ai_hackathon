@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019327661_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "M/s. Shree Laxmi Tractors",
+    "model_name": "245 PD HP Y6",
+    "horse_power": 45,
+    "asset_cost": 760000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        883.111572265625,
+        1387.9619140625,
+        1064.70703125,
+        1458.35498046875
+      ],
+      "conf": 0.7159968018531799
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        851.0196533203125,
+        1360.1724853515625,
+        1156.0550537109375,
+        1480.7335205078125
+      ],
+      "conf": 0.7620277404785156
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.478; VLM logprob=-0.053; please verify",
+  "vlm_conf_logprob": -0.05328961608201666
+}

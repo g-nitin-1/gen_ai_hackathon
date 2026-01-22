@@ -1,0 +1,32 @@
+{
+  "doc_id": "173607761_2_pg32",
+  "fields": {
+    "dealer_name": "M/s Bharat Tractors",
+    "model_name": "SONALIKA RX60DCPS",
+    "horse_power": 60,
+    "asset_cost": 880000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        644.689697265625,
+        1134.260498046875,
+        936.1630859375,
+        1279.6898193359375
+      ],
+      "conf": 0.5183446407318115
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        677.2627563476562,
+        1157.78271484375,
+        955.8906860351562,
+        1291.4124755859375
+      ],
+      "conf": 0.7651092410087585
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.283; VLM logprob=-0.016; please verify",
+  "vlm_conf_logprob": -0.01643385228780403
+}

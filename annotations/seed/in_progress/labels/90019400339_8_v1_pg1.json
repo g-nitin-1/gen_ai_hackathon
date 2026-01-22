@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019400339_8_v1_pg1",
+  "fields": {
+    "dealer_name": "Farmer First",
+    "model_name": "TG 42 PP SC - 8577",
+    "horse_power": 42,
+    "asset_cost": 720000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        754.8389892578125,
+        766.9561157226562,
+        846.9422607421875,
+        834.3392944335938
+      ],
+      "conf": 0.6041314601898193
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        808.8544311523438,
+        758.5797119140625,
+        924.121826171875,
+        828.0418090820312
+      ],
+      "conf": 0.756409227848053
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.361; VLM logprob=-0.019; please verify",
+  "vlm_conf_logprob": -0.018875328761453147
+}

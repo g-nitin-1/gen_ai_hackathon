@@ -1,0 +1,32 @@
+{
+  "doc_id": "172589759_3_pg6",
+  "fields": {
+    "dealer_name": "Shiv Shakti Agras",
+    "model_name": "Swaraj 742 XT",
+    "horse_power": 45,
+    "asset_cost": 812000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        972.6536254882812,
+        1193.9742431640625,
+        1176.980712890625,
+        1319.2386474609375
+      ],
+      "conf": 0.6787301301956177
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        944.4327392578125,
+        1201.447265625,
+        1115.6895751953125,
+        1368.3135986328125
+      ],
+      "conf": 0.9325217008590698
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.611; VLM logprob=-0.037; please verify",
+  "vlm_conf_logprob": -0.03718125564627902
+}

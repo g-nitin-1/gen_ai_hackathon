@@ -1,0 +1,32 @@
+{
+  "doc_id": "173570479_1_pg26",
+  "fields": {
+    "dealer_name": "GS AUTOMOBILE",
+    "model_name": "DI-35",
+    "horse_power": 39,
+    "asset_cost": 580000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        722.31201171875,
+        1146.8232421875,
+        899.9767456054688,
+        1212.1041259765625
+      ],
+      "conf": 0.5295680165290833
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        583.2437133789062,
+        1114.367919921875,
+        916.790283203125,
+        1232.23193359375
+      ],
+      "conf": 0.5529540181159973
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.083; VLM logprob=-0.016; please verify",
+  "vlm_conf_logprob": -0.015567792164044173
+}

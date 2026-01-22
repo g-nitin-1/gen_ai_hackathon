@@ -1,0 +1,32 @@
+{
+  "doc_id": "173064332_3_pg4",
+  "fields": {
+    "dealer_name": "FATEHGHAR SAHIB TRACTORS",
+    "model_name": "Mahindra Yuvo feh+585 DI 4WD",
+    "horse_power": 49.5,
+    "asset_cost": 870000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        642.8483276367188,
+        1001.9229736328125,
+        865.9046630859375,
+        1177.527099609375
+      ],
+      "conf": 0.6968358159065247
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        613.4554443359375,
+        1009.08935546875,
+        868.2404174804688,
+        1175.2554931640625
+      ],
+      "conf": 0.7153006792068481
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.412; VLM logprob=-0.155; please verify",
+  "vlm_conf_logprob": -0.15471015342763034
+}

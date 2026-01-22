@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018752764_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "NATIONAL MOTORS",
+    "model_name": "MAF 241 DI MAHASHAKTI",
+    "horse_power": 45,
+    "asset_cost": 158965,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1226.564453125,
+        1594.2989501953125,
+        1512.58203125,
+        1731.2384033203125
+      ],
+      "conf": 0.6704357266426086
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1207.27880859375,
+        1550.482666015625,
+        1428.22802734375,
+        1788.598876953125
+      ],
+      "conf": 0.8962689638137817
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.567; VLM logprob=-0.094; please verify",
+  "vlm_conf_logprob": -0.0944480911731868
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "172611860_2_pg24",
+  "fields": {
+    "dealer_name": "MEENAKSHI TRACTORS",
+    "model_name": "4215 E 2 WD 3 CYLINDER",
+    "horse_power": 45,
+    "asset_cost": 600000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        760.984375,
+        1187.4993896484375,
+        899.7713012695312,
+        1283.54638671875
+      ],
+      "conf": 0.6759783625602722
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        741.0512084960938,
+        1119.29296875,
+        924.6969604492188,
+        1314.9071044921875
+      ],
+      "conf": 0.9543360471725464
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.630; VLM logprob=-0.032; please verify",
+  "vlm_conf_logprob": -0.032232577222851395
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "90018894484_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/S VENKATESH MOTORS",
+    "model_name": "PROMAX",
+    "horse_power": 47,
+    "asset_cost": 975000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        4882.91162109375,
+        7836.48095703125,
+        5855.12451171875,
+        8768.2451171875
+      ],
+      "conf": 0.8913804888725281
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.891; VLM logprob=-0.026; please verify",
+  "vlm_conf_logprob": -0.02581456572594713
+}

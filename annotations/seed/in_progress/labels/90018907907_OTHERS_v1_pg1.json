@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018907907_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SRI MAHALAKSHMI INTERNATIONAL TRACTORS",
+    "model_name": "SONALIKA DI 730, 35, 740, 745, 750, 55, 60",
+    "horse_power": 30,
+    "asset_cost": 580000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        173.14324951171875,
+        1311.3677978515625,
+        255.97344970703125,
+        1350.26123046875
+      ],
+      "conf": 0.5766318440437317
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        748.3963623046875,
+        1447.0498046875,
+        975.144775390625,
+        1684.0
+      ],
+      "conf": 0.9120043516159058
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.489; VLM logprob=-0.014; please verify",
+  "vlm_conf_logprob": -0.01419278498120775
+}

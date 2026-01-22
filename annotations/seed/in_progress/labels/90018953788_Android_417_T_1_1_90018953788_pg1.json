@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018953788_Android_417_T_1_1_90018953788_pg1",
+  "fields": {
+    "dealer_name": "MADHU PAVAN AUTOMOBILES",
+    "model_name": "NHU710-2WD",
+    "horse_power": 47,
+    "asset_cost": 890000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1308.3828125,
+        2159.25048828125,
+        1717.3277587890625,
+        2269.533935546875
+      ],
+      "conf": 0.5812199711799622
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1313.4564208984375,
+        2083.531005859375,
+        1585.072021484375,
+        2351.274169921875
+      ],
+      "conf": 0.9248987436294556
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.506; VLM logprob=-0.018; please verify",
+  "vlm_conf_logprob": -0.017658157466152992
+}

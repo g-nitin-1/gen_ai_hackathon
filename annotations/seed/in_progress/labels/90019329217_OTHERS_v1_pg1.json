@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019329217_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Siddhanath Agro Agency",
+    "model_name": "Target 630 Diesel",
+    "horse_power": 29,
+    "asset_cost": 600000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        892.362060546875,
+        1436.0679931640625,
+        1013.08251953125,
+        1539.0584716796875
+      ],
+      "conf": 0.5728434324264526
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        860.5096435546875,
+        1397.0892333984375,
+        1028.1788330078125,
+        1576.0469970703125
+      ],
+      "conf": 0.935860812664032
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.509; VLM logprob=-0.034; please verify",
+  "vlm_conf_logprob": -0.03421672832492415
+}

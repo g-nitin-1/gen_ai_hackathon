@@ -1,0 +1,32 @@
+{
+  "doc_id": "173473985_1_pg21",
+  "fields": {
+    "dealer_name": "SAI OM TRACTORS",
+    "model_name": "ESCORTS FT 47 PROMAXX ULO",
+    "horse_power": 47,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        817.5291748046875,
+        1386.4669189453125,
+        932.4172973632812,
+        1443.5306396484375
+      ],
+      "conf": 0.4351920485496521
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        768.9207153320312,
+        1339.191650390625,
+        971.9057006835938,
+        1467.3231201171875
+      ],
+      "conf": 0.5177198052406311
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.953; VLM logprob=-0.151; please verify",
+  "vlm_conf_logprob": -0.15103145665112855
+}
