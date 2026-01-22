@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018750491_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "..2.sSocSef<Easnssnes",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        57,
+        1178,
+        850,
+        1234
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        937,
+        1358,
+        1132,
+        1529
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "172938736_1_pg21",
+  "fields": {
+    "dealer_name": "CHOWDHARY TRACTOR",
+    "model_name": "FARMTRAC FT-60 POWERMAXX",
+    "horse_power": 55,
+    "asset_cost": 840000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        825.4489795918366,
+        1376.7755102040815,
+        1149.938775510204,
+        1444.1224489795918
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        888.7142857142857,
+        1305.3469387755104,
+        1113.204081632653,
+        1527.795918367347
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.807; VLM logprob=-0.074; please verify"
+}

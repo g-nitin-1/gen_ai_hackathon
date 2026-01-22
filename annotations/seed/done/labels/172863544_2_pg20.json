@@ -1,0 +1,29 @@
+{
+  "doc_id": "172863544_2_pg20",
+  "fields": {
+    "dealer_name": "SABAR AGROTECH",
+    "model_name": "TAFE MF 241 DI",
+    "horse_power": 42,
+    "asset_cost": 830000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        911.7755102040817,
+        1261.326530612245,
+        1160.7551020408162,
+        1381.734693877551
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        944.4285714285713,
+        1214.387755102041,
+        1134.2244897959183,
+        1406.2244897959185
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.884; VLM logprob=0.000; please verify"
+}

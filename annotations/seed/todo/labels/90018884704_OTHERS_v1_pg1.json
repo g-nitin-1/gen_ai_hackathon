@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018884704_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "ZISS.t0..4S...H.PTracter Rs 4Ss0O0 |— ___",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        528,
+        1423,
+        1050,
+        1537
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        786,
+        1229,
+        1046,
+        1420
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

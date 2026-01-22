@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018750491_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": ". S.SanL2B serene HP ene Diaentnenenen",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        65,
+        1186,
+        876,
+        1262
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        983,
+        1391,
+        1122,
+        1570
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173695126_1_pg19",
+  "fields": {
+    "dealer_name": "Guru Kirpa Automobiles",
+    "model_name": "SWARAJ 744 FE",
+    "horse_power": 48,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        707.0733032226562,
+        1160.3631591796875,
+        846.0135498046875,
+        1264.16650390625
+      ],
+      "conf": 0.9175748825073242
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        669.5463256835938,
+        1136.0191650390625,
+        858.3956298828125,
+        1324.3890380859375
+      ],
+      "conf": 0.9604336619377136
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.878; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.09862949101177515
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019153691_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/S. SHRI RAM AGENCY",
+    "model_name": "FT 2G 4WD",
+    "horse_power": 26,
+    "asset_cost": 650000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        2681.6494140625,
+        4289.6884765625,
+        3380.529541015625,
+        4672.5478515625
+      ],
+      "conf": 0.949870228767395
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        2663.631103515625,
+        4290.50439453125,
+        3366.88525390625,
+        4913.55419921875
+      ],
+      "conf": 0.9506994485855103
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.901; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.034419112302843155
+}

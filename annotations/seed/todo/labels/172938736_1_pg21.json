@@ -1,0 +1,29 @@
+{
+  "doc_id": "172938736_1_pg21",
+  "fields": {
+    "dealer_name": "- PARMTRAG TRACTOR - SALES, SERVICE & PARTS",
+    "model_name": "",
+    "horse_power": 55,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        783,
+        1124,
+        1106,
+        1179
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        830,
+        1308,
+        999,
+        1441
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

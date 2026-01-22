@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018747361_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "SHREE TRADERS",
+    "model_name": "SONALIKA OIBPS-DI-734",
+    "horse_power": 37,
+    "asset_cost": 650000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        920.9498901367188,
+        1344.623291015625,
+        1053.1658935546875,
+        1454.7542724609375
+      ],
+      "conf": 0.7799327969551086
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        902.2075805664062,
+        1339.0888671875,
+        1055.4560546875,
+        1480.9039306640625
+      ],
+      "conf": 0.9485629796981812
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.728; VLM logprob=-0.063; please verify",
+  "vlm_conf_logprob": -0.06312983838718339
+}

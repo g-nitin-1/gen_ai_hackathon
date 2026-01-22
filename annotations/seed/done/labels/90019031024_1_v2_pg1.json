@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019031024_1_v2_pg1",
+  "fields": {
+    "dealer_name": "KISAN FARM MACHINERY",
+    "model_name": "SONALIKA DI RX60 sikander DLX TP 2WD",
+    "horse_power": 50,
+    "asset_cost": 930000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1655.7222222222222,
+        2005.5555555555557,
+        1872.3888888888891,
+        2161.1111111111113
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1494.611111111111,
+        1988.8888888888891,
+        2044.6111111111113,
+        2205.5555555555557
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=1.225; please verify"
+}

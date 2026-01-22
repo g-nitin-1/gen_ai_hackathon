@@ -1,0 +1,32 @@
+{
+  "doc_id": "173444014_3_pg6",
+  "fields": {
+    "dealer_name": "Nayak Auto Care",
+    "model_name": "Eicher 380 SP 2WD",
+    "horse_power": 44,
+    "asset_cost": 820000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        882.6630859375,
+        1236.985107421875,
+        1072.1270751953125,
+        1364.0426025390625
+      ],
+      "conf": 0.9117035269737244
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        857.2582397460938,
+        1213.3101806640625,
+        1072.8385009765625,
+        1417.90966796875
+      ],
+      "conf": 0.9548308253288269
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.867; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.07435649564723079
+}

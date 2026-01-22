@@ -1,0 +1,24 @@
+{
+  "doc_id": "90018869256_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "reserves the rights of taking the possession of tractors, if payment is not received",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        686,
+        1388,
+        1280,
+        1399
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

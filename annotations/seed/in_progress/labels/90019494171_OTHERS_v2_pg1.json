@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019494171_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "SHREE SAI AUTOMOBILES",
+    "model_name": "Farmtrac 60 PowerMaster",
+    "horse_power": 55,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        873.2686157226562,
+        1344.34521484375,
+        1019.9097290039062,
+        1502.4017333984375
+      ],
+      "conf": 0.74156254529953
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        824.220947265625,
+        1337.32080078125,
+        1025.3377685546875,
+        1545.291748046875
+      ],
+      "conf": 0.9374146461486816
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.679; VLM logprob=-0.048; please verify",
+  "vlm_conf_logprob": -0.04788980447554
+}

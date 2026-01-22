@@ -1,0 +1,31 @@
+{
+  "doc_id": "172681541_2_pg30",
+  "fields": {
+    "dealer_name": "SRI SHAKTHI TRACTORS",
+    "model_name": "VST SHAKTI 939 DI 4WD",
+    "horse_power": 36,
+    "asset_cost": 820000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        914.8970336914062,
+        1311.0462646484375,
+        1109.5328369140625,
+        1413.1209716796875
+      ],
+      "conf": 0.8591399192810059
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        884.7139892578125,
+        1299.3470458984375,
+        1068.136962890625,
+        1460.1995849609375
+      ],
+      "conf": 0.9517766237258911
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.811; VLM logprob=-0.027; please verify"
+}

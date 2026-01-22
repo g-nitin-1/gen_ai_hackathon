@@ -1,0 +1,19 @@
+{
+  "doc_id": "173573770_1_pg38",
+  "fields": {
+    "dealer_name": ": NEW HOLLAND TRACTORS SS SE",
+    "model_name": "S : 4.900.000",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

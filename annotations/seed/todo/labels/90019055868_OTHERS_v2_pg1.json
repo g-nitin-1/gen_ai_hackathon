@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019055868_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "S FOR ESCORTS POWERTRAC DIGITRAC TRACTOR",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        2251,
+        5188,
+        3276,
+        5273
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1875,
+        5255,
+        2096,
+        5393
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

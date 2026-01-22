@@ -1,0 +1,29 @@
+{
+  "doc_id": "172655019_3_pg11",
+  "fields": {
+    "dealer_name": "Shubh Vinayak Tractors",
+    "model_name": "New Holland 3600-2",
+    "horse_power": 50,
+    "asset_cost": 950000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        907.4285714285713,
+        1270.7936507936506,
+        1020.126984126984,
+        1372.3809523809523
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        832.8253968253968,
+        1197.7777777777778,
+        1037.5873015873017,
+        1391.4285714285716
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=0.98; please verify"
+}

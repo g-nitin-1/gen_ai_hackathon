@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019553222_1_v1_pg1",
+  "fields": {
+    "dealer_name": "For:'ESCORTS FARMTRAC TRACTORS",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 9466305428,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        674,
+        1501,
+        788,
+        1600
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

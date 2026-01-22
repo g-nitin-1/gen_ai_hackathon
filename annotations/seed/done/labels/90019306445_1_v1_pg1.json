@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019306445_1_v1_pg1",
+  "fields": {
+    "dealer_name": "M/s. SHREE MOTORS",
+    "model_name": "SWARAJ 735FE",
+    "horse_power": 40,
+    "asset_cost": 806456,
+    "signature": {
+      "present": true,
+      "bbox": [
+        891.7194213867188,
+        1470.6300048828125,
+        1020.7603149414062,
+        1570.3333740234375
+      ],
+      "conf": 0.8762462139129639
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        875.3261108398438,
+        1467.2493896484375,
+        1026.108642578125,
+        1608.5677490234375
+      ],
+      "conf": 0.9436494708061218
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.820; VLM logprob=-0.048; please verify",
+  "vlm_conf_logprob": -0.0483526310007818
+}

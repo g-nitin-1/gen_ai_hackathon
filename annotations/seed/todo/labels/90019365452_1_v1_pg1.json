@@ -1,0 +1,19 @@
+{
+  "doc_id": "90019365452_1_v1_pg1",
+  "fields": {
+    "dealer_name": ": New Holland - Tractor, Sugarcane Harvestar,",
+    "model_name": "No. %E3o SfEAGAL",
+    "horse_power": null,
+    "asset_cost": 919827609801,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

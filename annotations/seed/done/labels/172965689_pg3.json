@@ -1,0 +1,32 @@
+{
+  "doc_id": "172965689_pg3",
+  "fields": {
+    "dealer_name": "Swaraj Shinde Tractors",
+    "model_name": "SWARAJ 724 XM ORCHARD 24 HP",
+    "horse_power": 24,
+    "asset_cost": 625000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        724.0665283203125,
+        1412.6099853515625,
+        866.9343872070312,
+        1483.66015625
+      ],
+      "conf": 0.8176699280738831
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        694.2059936523438,
+        1343.742919921875,
+        886.73046875,
+        1525.8323974609375
+      ],
+      "conf": 0.9486132860183716
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.766; VLM logprob=-0.039; please verify",
+  "vlm_conf_logprob": -0.03915733986665373
+}

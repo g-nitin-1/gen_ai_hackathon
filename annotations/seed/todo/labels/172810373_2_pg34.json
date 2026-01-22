@@ -1,0 +1,24 @@
+{
+  "doc_id": "172810373_2_pg34",
+  "fields": {
+    "dealer_name": "of EICHER TRACTORS Sales, Service and Spares.",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        77,
+        1032,
+        1122,
+        1121
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

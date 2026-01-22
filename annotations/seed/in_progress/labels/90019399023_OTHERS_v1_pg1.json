@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019399023_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Neshan Motors",
+    "model_name": "MF 1035 DI",
+    "horse_power": 45,
+    "asset_cost": 681600,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1268.292236328125,
+        1657.186279296875,
+        1488.1650390625,
+        1815.72265625
+      ],
+      "conf": 0.7221664786338806
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1245.1064453125,
+        1651.64111328125,
+        1489.05810546875,
+        1883.48974609375
+      ],
+      "conf": 0.9363996386528015
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.659; VLM logprob=-0.085; please verify",
+  "vlm_conf_logprob": -0.08543544984136275
+}

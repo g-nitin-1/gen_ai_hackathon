@@ -1,0 +1,29 @@
+{
+  "doc_id": "172615659_4_pg18",
+  "fields": {
+    "dealer_name": "SULTANIA TRACTORS",
+    "model_name": "AAYASHTR TRACTOR MODEL 380 SP+",
+    "horse_power": 40,
+    "asset_cost": 660000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        772.2391304347826,
+        1227.913043478261,
+        970.0652173913045,
+        1401.8260869565217
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        759.1956521739131,
+        1214.8695652173913,
+        935.2826086956522,
+        1397.4782608695652
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.811; VLM logprob=-0.084; please verify"
+}

@@ -1,0 +1,19 @@
+{
+  "doc_id": "90019206687_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "'s Offered Price:- Rs.980792/-",
+    "model_name": "MF 246 4WD",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

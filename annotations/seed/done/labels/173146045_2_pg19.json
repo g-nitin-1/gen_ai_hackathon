@@ -1,0 +1,32 @@
+{
+  "doc_id": "173146045_2_pg19",
+  "fields": {
+    "dealer_name": "SWASTIK AGRO SOLUTIONS",
+    "model_name": "MAHINDRA NOVO-605-4WD",
+    "horse_power": 49,
+    "asset_cost": 910000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        905.6469116210938,
+        1342.76953125,
+        1025.4454345703125,
+        1416.937255859375
+      ],
+      "conf": 0.8172227144241333
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        865.3280639648438,
+        1274.833740234375,
+        1046.66552734375,
+        1450.57666015625
+      ],
+      "conf": 0.9290799498558044
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.746; VLM logprob=-0.041; please verify",
+  "vlm_conf_logprob": -0.041414775872569906
+}

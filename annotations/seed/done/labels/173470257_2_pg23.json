@@ -1,0 +1,29 @@
+{
+  "doc_id": "173470257_2_pg23",
+  "fields": {
+    "dealer_name": "RAJ MOTORS",
+    "model_name": "New Holland 3630 TX Super",
+    "horse_power": 49.5,
+    "asset_cost": 950000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        775.4418604651163,
+        1227.3488372093022,
+        942.8837209302325,
+        1299.4418604651162
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        726.6046511627907,
+        1178.5116279069766,
+        945.2093023255815,
+        1357.581395348837
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

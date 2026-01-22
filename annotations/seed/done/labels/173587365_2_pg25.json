@@ -1,0 +1,32 @@
+{
+  "doc_id": "173587365_2_pg25",
+  "fields": {
+    "dealer_name": "Shri Jodabasaveshwar Tractors",
+    "model_name": "RX-32 BAGABANI",
+    "horse_power": 32,
+    "asset_cost": 630000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        923.5333251953125,
+        1301.7802734375,
+        1100.921142578125,
+        1424.7664794921875
+      ],
+      "conf": 0.8858330845832825
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        915.0586547851562,
+        1304.3077392578125,
+        1087.18505859375,
+        1482.215087890625
+      ],
+      "conf": 0.9233865141868591
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.809; VLM logprob=-0.015; please verify",
+  "vlm_conf_logprob": -0.01487105676738091
+}

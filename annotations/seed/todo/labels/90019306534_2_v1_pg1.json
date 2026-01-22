@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019306534_2_v1_pg1",
+  "fields": {
+    "dealer_name": "for : Sonalika Tractor)",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        384,
+        1372,
+        607,
+        1452
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        676,
+        1354,
+        737,
+        1447
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

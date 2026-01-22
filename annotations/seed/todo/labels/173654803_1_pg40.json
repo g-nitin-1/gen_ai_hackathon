@@ -1,0 +1,24 @@
+{
+  "doc_id": "173654803_1_pg40",
+  "fields": {
+    "dealer_name": ": Powertrac Tractor Sales, Service Spare Parts",
+    "model_name": ". n.F LEA Qui. .dinefL4éd anCompelete With Standard",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        832,
+        1513,
+        925,
+        1545
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

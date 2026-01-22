@@ -1,0 +1,29 @@
+{
+  "doc_id": "172929710_1_pg40",
+  "fields": {
+    "dealer_name": "SONALIKA INTERNATIONAL TRACTOR LTD.) i",
+    "model_name": "",
+    "horse_power": 50,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        197,
+        1524,
+        526,
+        1533
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        166,
+        1260,
+        430,
+        1435
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

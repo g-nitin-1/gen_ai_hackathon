@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019537586_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "M/s. Shree Amba Motors",
+    "model_name": "TAFE MASSEY FERGUSON MF 245 DI",
+    "horse_power": 46,
+    "asset_cost": 670000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        826.1122448979592,
+        1273.6326530612243,
+        1190.0,
+        1443.5802309934963
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        932.2346938775511,
+        1314.4489795918366,
+        1113.8673469387754,
+        1500.1632653061224
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

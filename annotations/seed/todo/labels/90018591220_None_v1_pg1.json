@@ -1,0 +1,19 @@
+{
+  "doc_id": "90018591220_None_v1_pg1",
+  "fields": {
+    "dealer_name": ": Mahindra & Mahindra Tractors, Implements & Spares",
+    "model_name": ". 25,S.,.05..N@P...C39. MP2",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

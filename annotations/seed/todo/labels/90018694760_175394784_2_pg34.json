@@ -1,0 +1,19 @@
+{
+  "doc_id": "90018694760_175394784_2_pg34",
+  "fields": {
+    "dealer_name": "- EICHER TRACTORS (Sales, Service and Spares)",
+    "model_name": "__ 36S\" _ of __ 3S\" __H.P. Tractor",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

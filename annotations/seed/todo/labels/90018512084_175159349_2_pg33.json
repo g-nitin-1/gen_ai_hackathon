@@ -1,0 +1,19 @@
+{
+  "doc_id": "90018512084_175159349_2_pg33",
+  "fields": {
+    "dealer_name": "FOR : Swaraj Tractors and Implements Cell: 9449823439 | 94ae124439}",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

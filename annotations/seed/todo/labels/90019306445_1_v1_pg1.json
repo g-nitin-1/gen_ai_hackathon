@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019306445_1_v1_pg1",
+  "fields": {
+    "dealer_name": "of: MAHINDRA & MAHINDRA LTD., FES SWARAJ DIVISION",
+    "model_name": "",
+    "horse_power": 85,
+    "asset_cost": 675325333,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        878,
+        1467,
+        1030,
+        1605
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019317135_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": ": MASSEY-FERGUSON TRACTORS, IMPLEMENTS & SPARES",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 919125,
+    "signature": {
+      "present": true,
+      "bbox": [
+        563,
+        1504,
+        760,
+        1558
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

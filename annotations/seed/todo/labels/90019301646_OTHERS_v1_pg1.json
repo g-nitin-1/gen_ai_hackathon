@@ -1,0 +1,19 @@
+{
+  "doc_id": "90019301646_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "for : TAFE MASSEY-FERGUSON TRACTORS & IMPLIMENTS TAFE",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 330000,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

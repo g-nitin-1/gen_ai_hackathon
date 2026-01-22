@@ -1,0 +1,24 @@
+{
+  "doc_id": "172615270_3_pg24",
+  "fields": {
+    "dealer_name": "Raigarh Automobiles (P) Ltd. \\",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 10621262,
+    "signature": {
+      "present": true,
+      "bbox": [
+        189,
+        1110,
+        716,
+        1156
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

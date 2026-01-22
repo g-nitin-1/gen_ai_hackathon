@@ -1,0 +1,32 @@
+{
+  "doc_id": "173450105_3_pg6",
+  "fields": {
+    "dealer_name": "Ananta Agritek",
+    "model_name": "MF-246 DYMATRACK 4WD",
+    "horse_power": 45,
+    "asset_cost": 950000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        931.7830200195312,
+        1226.6065673828125,
+        1040.22998046875,
+        1292.673095703125
+      ],
+      "conf": 0.9011056423187256
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        888.7982788085938,
+        1175.0550537109375,
+        1050.750732421875,
+        1329.0594482421875
+      ],
+      "conf": 0.9490894675254822
+    }
+  },
+  "source": "vlm+yolo_v5",
+  "notes": "YOLO score=1.850; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.10565756541296369
+}

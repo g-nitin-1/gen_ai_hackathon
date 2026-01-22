@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019564591_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "KRISHNA TRACTORS",
+    "model_name": "FT 50 POWER MAXX",
+    "horse_power": 50,
+    "asset_cost": 725000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        900.5555555555554,
+        1392.9259259259259,
+        1091.2962962962963,
+        1478.111111111111
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        922.7777777777777,
+        1363.2962962962963,
+        1111.6666666666667,
+        1555.8888888888887
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.813; VLM logprob=-0.049; please verify"
+}

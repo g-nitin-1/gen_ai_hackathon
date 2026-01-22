@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019214976_1_v1_pg1",
+  "fields": {
+    "dealer_name": "JAY RANCHHOD TRACTOR",
+    "model_name": "powertrac 439 plus",
+    "horse_power": 41,
+    "asset_cost": 797000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1022.4166666666667,
+        1614.0833333333335,
+        1101.5833333333335,
+        1691.1666666666667
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        971.2741935483872,
+        1557.5645161290322,
+        1139.016129032258,
+        1712.4032258064517
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=1.299; please verify"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "172826770_1_pg14",
+  "fields": {
+    "dealer_name": "Rajasthan Tractor Machinery",
+    "model_name": "FT-60 Classic",
+    "horse_power": 50,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        859.4878048780488,
+        911.0243902439024,
+        1118.0243902439022,
+        991.5121951219512
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        896.0731707317073,
+        862.2439024390244,
+        1081.649430894309,
+        1043.0
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.838; VLM logprob=-0.126; please verify"
+}

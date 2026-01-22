@@ -1,0 +1,24 @@
+{
+  "doc_id": "172929532_1_pg7",
+  "fields": {
+    "dealer_name": ": SONALIKA Tractors, Spare Parts & Service",
+    "model_name": "_)// Z COIR AS en",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        515,
+        1286,
+        560,
+        1350
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

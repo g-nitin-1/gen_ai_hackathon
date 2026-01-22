@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019423061_1_v1_pg1",
+  "fields": {
+    "dealer_name": "GAMINI AUTOMOBILES",
+    "model_name": "Mf 1035 di v2",
+    "horse_power": 40.0,
+    "asset_cost": 786411,
+    "signature": {
+      "present": true,
+      "bbox": [
+        875.3921568627451,
+        1395.3725490196077,
+        1085.1960784313724,
+        1562.0392156862745
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        849.9019607843137,
+        1407.1372549019607,
+        1063.627450980392,
+        1622.8235294117646
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "text_score=1.994; please verify hp/cost"
+}

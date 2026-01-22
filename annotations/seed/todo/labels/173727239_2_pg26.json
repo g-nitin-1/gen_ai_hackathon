@@ -1,0 +1,19 @@
+{
+  "doc_id": "173727239_2_pg26",
+  "fields": {
+    "dealer_name": ": EICHER TRACTOR (Sales e Service e Spares )",
+    "model_name": ".",
+    "horse_power": null,
+    "asset_cost": 93765,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

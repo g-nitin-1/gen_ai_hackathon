@@ -1,0 +1,27 @@
+# Git Commands - Start fresh (removes history with large files)
+# Run these commands one by one
+# ============================================================
+
+# STEP 1: Delete existing git folder (removes all history)
+Remove-Item -Recurse -Force .git
+
+# STEP 2: Initialize fresh git repo
+git init
+
+# STEP 3: Add remote
+git remote add origin https://github.com/g-nitin-1/gen_ai_hackathon.git
+
+# STEP 4: Add files (respecting .gitignore)
+git add .
+
+# STEP 5: Check size of staged files
+git status
+
+# STEP 6: Commit
+git commit -m "Initial commit: IDFC GenAI Document Field Extraction System"
+
+# STEP 7: Set main branch
+git branch -M main
+
+# STEP 8: Force push (overwrites remote)
+git push -u origin main --force

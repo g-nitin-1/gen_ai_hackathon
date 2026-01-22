@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019423955_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SINGH TRACTORS",
+    "model_name": "SONALIKA DI 60 DCRX OIB PS 4 WD",
+    "horse_power": 60,
+    "asset_cost": 999000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        760.5,
+        1433.25,
+        1080.5,
+        1560.75
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        738.0,
+        1455.75,
+        1023.0,
+        1583.25
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

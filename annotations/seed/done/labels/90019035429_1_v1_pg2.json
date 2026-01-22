@@ -1,0 +1,27 @@
+{
+  "doc_id": "90019035429_1_v1_pg2",
+  "fields": {
+    "dealer_name": "Directorate of Agriculture and Food Production",
+    "model_name": "Swaraj 744 FE 4X4 N1",
+    "horse_power": null,
+    "asset_cost": 923637,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.8107122778892517
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        548.4583129882812,
+        330.1416320800781,
+        659.2843017578125,
+        444.9486389160156
+      ],
+      "conf": 0.9076823592185974
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.718; VLM logprob=-0.062; please verify",
+  "vlm_conf_logprob": -0.06180801427053213
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173654803_1_pg40",
+  "fields": {
+    "dealer_name": "HADOTI TRACTOR AND SALES",
+    "model_name": "Euro-42 Plus",
+    "horse_power": 45,
+    "asset_cost": 680000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        800.9439086914062,
+        1413.7259521484375,
+        956.3732299804688,
+        1513.7020263671875
+      ],
+      "conf": 0.7879064679145813
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        795.2890014648438,
+        1417.609130859375,
+        965.9223022460938,
+        1551.8951416015625
+      ],
+      "conf": 0.9097209572792053
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.698; VLM logprob=-0.022; please verify",
+  "vlm_conf_logprob": -0.021804441540793935
+}

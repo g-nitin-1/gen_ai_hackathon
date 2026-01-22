@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018866223_175262018_2_pg12",
+  "fields": {
+    "dealer_name": "BABA AGRICULTURE & AUTOMOBILES",
+    "model_name": "YUVO TECH+ 575 DI 4WD",
+    "horse_power": 47,
+    "asset_cost": 810000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        307.68181818181813,
+        1271.2272727272725,
+        573.5909090909091,
+        1373.5
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        296.3181818181818,
+        1230.3181818181818,
+        509.95454545454544,
+        1439.4090909090908
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.850; VLM logprob=0.000; please verify"
+}

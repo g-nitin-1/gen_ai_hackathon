@@ -1,0 +1,32 @@
+{
+  "doc_id": "172926866_3_pg2",
+  "fields": {
+    "dealer_name": "Govind Tractors",
+    "model_name": "New Holland 3037TX Super",
+    "horse_power": 41,
+    "asset_cost": 809872,
+    "signature": {
+      "present": true,
+      "bbox": [
+        954.7755737304688,
+        1288.610595703125,
+        1142.8519287109375,
+        1410.2640380859375
+      ],
+      "conf": 0.8023379445075989
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        902.7140502929688,
+        1271.63671875,
+        1069.3560791015625,
+        1438.664306640625
+      ],
+      "conf": 0.9425454139709473
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.745; VLM logprob=-0.005; please verify",
+  "vlm_conf_logprob": -0.004920056268832943
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019738914_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "ARADHYA TRACTORS",
+    "model_name": "PT-EURO 50 PH",
+    "horse_power": 50,
+    "asset_cost": 870000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        69.3791732788086,
+        1623.9581298828125,
+        227.26504516601562,
+        1741.1939697265625
+      ],
+      "conf": 0.9091006517410278
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        31.272123336791992,
+        1561.0335693359375,
+        267.69439697265625,
+        1774.6287841796875
+      ],
+      "conf": 0.9446169137954712
+    }
+  },
+  "source": "vlm+yolo_v5",
+  "notes": "YOLO score=1.854; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.03464126705524729
+}

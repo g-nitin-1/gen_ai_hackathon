@@ -1,0 +1,29 @@
+{
+  "doc_id": "172963371_2_pg33",
+  "fields": {
+    "dealer_name": "Ananta Agritech",
+    "model_name": "Massey Ferguson MF-246 Dynatruck 4WD",
+    "horse_power": 46,
+    "asset_cost": 1000000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        896.7407407407406,
+        1244.6666666666665,
+        1030.0740740740741,
+        1311.3333333333333
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        874.5185185185185,
+        1189.111111111111,
+        1037.4814814814815,
+        1344.6666666666665
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=1.226; please verify"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019604664_3_v1_pg1",
+  "fields": {
+    "dealer_name": "for MAHINDRA TRACTORS",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 27525010000005,
+    "signature": {
+      "present": true,
+      "bbox": [
+        91,
+        1640,
+        550,
+        1655
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

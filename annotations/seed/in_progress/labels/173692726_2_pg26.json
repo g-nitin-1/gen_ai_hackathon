@@ -1,0 +1,29 @@
+{
+  "doc_id": "173692726_2_pg26",
+  "fields": {
+    "dealer_name": "Raj Auto Traders Pvt. Ltd.",
+    "model_name": "MAHINDRA 275 DI XP PLUS",
+    "horse_power": 39,
+    "asset_cost": 765000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        966.3703703703703,
+        1315.7407407407406,
+        1083.037037037037,
+        1380.5555555555554
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        934.888888888889,
+        1256.4814814814813,
+        1138.5925925925926,
+        1450.9259259259259
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.655; VLM logprob=-0.008; please verify"
+}

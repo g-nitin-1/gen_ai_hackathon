@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019681429_1_v1_pg1",
+  "fields": {
+    "dealer_name": "PATIL & COMPANY",
+    "model_name": "New Holland 3630 TX PLUS",
+    "horse_power": 55,
+    "asset_cost": 900000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1018.5270270270271,
+        1577.918918918919,
+        1234.7432432432433,
+        1667.1081081081081
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1061.7702702702702,
+        1526.5675675675675,
+        1275.2837837837837,
+        1729.2702702702702
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.804; VLM logprob=-0.066; please verify"
+}

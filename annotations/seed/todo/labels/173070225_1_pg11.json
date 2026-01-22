@@ -1,0 +1,24 @@
+{
+  "doc_id": "173070225_1_pg11",
+  "fields": {
+    "dealer_name": "in Sonalika Tractor",
+    "model_name": "DJ- 701) power plus O11",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        871,
+        1215,
+        1028,
+        1378
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

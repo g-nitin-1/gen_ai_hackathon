@@ -1,0 +1,32 @@
+{
+  "doc_id": "172808806_pg14",
+  "fields": {
+    "dealer_name": "M. MAHILAXMI AUTOMOBILES",
+    "model_name": "SONALIKA INTERNATIONAL TRACTOR (D.A.I. ENGINE) MODEL RX-32 BAGBARI",
+    "horse_power": 32,
+    "asset_cost": 611000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        905.7470092773438,
+        1244.103515625,
+        1047.97900390625,
+        1315.3656005859375
+      ],
+      "conf": 0.7738238573074341
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        892.953857421875,
+        1183.8603515625,
+        1065.894775390625,
+        1354.427734375
+      ],
+      "conf": 0.9464382529258728
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.720; VLM logprob=-0.186; please verify",
+  "vlm_conf_logprob": -0.18632220287606943
+}

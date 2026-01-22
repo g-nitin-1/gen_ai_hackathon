@@ -1,0 +1,32 @@
+{
+  "doc_id": "172865861_2_pg30",
+  "fields": {
+    "dealer_name": "SABAR AGROTECH",
+    "model_name": "MF 1035 DI",
+    "horse_power": 40,
+    "asset_cost": 790000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1002.6530151367188,
+        1225.0753173828125,
+        1159.0194091796875,
+        1333.794189453125
+      ],
+      "conf": 0.8750763535499573
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1003.4591674804688,
+        1179.63427734375,
+        1195.455810546875,
+        1374.4420166015625
+      ],
+      "conf": 0.9442421793937683
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.819; VLM logprob=-0.040; please verify",
+  "vlm_conf_logprob": -0.03987498592586322
+}

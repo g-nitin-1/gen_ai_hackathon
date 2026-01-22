@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019513023_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "LAKHANI TRACTORS",
+    "model_name": "MAHINDRA 605 Novo 4 WD",
+    "horse_power": 49.9,
+    "asset_cost": 1071937,
+    "signature": {
+      "present": true,
+      "bbox": [
+        923.6279069767442,
+        1416.2209302325582,
+        1077.1162790697674,
+        1502.2674418604652
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        939.906976744186,
+        1362.7325581395348,
+        1132.9302325581396,
+        1560.406976744186
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

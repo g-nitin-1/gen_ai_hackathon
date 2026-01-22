@@ -1,0 +1,24 @@
+{
+  "doc_id": "90018695808_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "for Solis Yanmar Ti actors, Tirwvannamala YANMAR",
+    "model_name": "422.( 5. = YR. OES up",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        964,
+        1304,
+        1012,
+        1385
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019681429_1_v1_pg1",
+  "fields": {
+    "dealer_name": "for : NEW HOLLAND FIAT (INDIA) PVT. LTD. (New HOLLAND",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 42694024542,
+    "signature": {
+      "present": true,
+      "bbox": [
+        241,
+        1736,
+        1383,
+        1818
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1024,
+        1527,
+        1244,
+        1701
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

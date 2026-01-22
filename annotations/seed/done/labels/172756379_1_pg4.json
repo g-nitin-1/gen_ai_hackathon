@@ -1,0 +1,29 @@
+{
+  "doc_id": "172756379_1_pg4",
+  "fields": {
+    "dealer_name": "M/s. Nimar Motors 'Tractor Division'",
+    "model_name": "MF 6026 Max Pro",
+    "horse_power": 26,
+    "asset_cost": 550000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        752.6122448979593,
+        1170.0408163265306,
+        905.6734693877552,
+        1263.9183673469388
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        744.4489795918367,
+        1114.938775510204,
+        907.7142857142858,
+        1278.204081632653
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.729; VLM logprob=-0.038; please verify"
+}

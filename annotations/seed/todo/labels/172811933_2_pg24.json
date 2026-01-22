@@ -1,0 +1,24 @@
+{
+  "doc_id": "172811933_2_pg24",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "DI 745 III (SOHP)",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        838,
+        1215,
+        1099,
+        1369
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

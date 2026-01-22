@@ -1,0 +1,29 @@
+{
+  "doc_id": "173313344_1_pg19",
+  "fields": {
+    "dealer_name": ":-",
+    "model_name": "H.P.Cat cs Amount",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        733,
+        929,
+        945,
+        973
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        774,
+        1123,
+        914,
+        1250
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

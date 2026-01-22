@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019292808_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "Sangam Enterprises",
+    "model_name": "Sonalika DI-745 III",
+    "horse_power": 50,
+    "asset_cost": 720000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1065.3163265306123,
+        1435.9591836734694,
+        1218.3775510204082,
+        1533.9183673469388
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1046.9489795918366,
+        1433.9183673469388,
+        1238.7857142857142,
+        1615.5510204081634
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.834; VLM logprob=-0.123; please verify"
+}

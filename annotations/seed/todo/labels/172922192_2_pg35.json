@@ -1,0 +1,29 @@
+{
+  "doc_id": "172922192_2_pg35",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "QNTY AMOUNT",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        54,
+        1533,
+        710,
+        1537
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        862,
+        1432,
+        921,
+        1514
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

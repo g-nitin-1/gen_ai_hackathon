@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019396259_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "NATIONAL MOTORS",
+    "model_name": "MF 241 DI",
+    "horse_power": 42,
+    "asset_cost": 611500,
+    "signature": {
+      "present": true,
+      "bbox": [
+        956.4599609375,
+        1349.1312255859375,
+        1144.095458984375,
+        1502.4332275390625
+      ],
+      "conf": 0.7528512477874756
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        942.1114501953125,
+        1348.1412353515625,
+        1142.1837158203125,
+        1563.829345703125
+      ],
+      "conf": 0.9469591975212097
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.700; VLM logprob=-0.098; please verify",
+  "vlm_conf_logprob": -0.09757252279845527
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018455419_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "..33600.:.2,.. Hp SOHP",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        202,
+        1265,
+        1091,
+        1319
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        895,
+        1357,
+        1104,
+        1527
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

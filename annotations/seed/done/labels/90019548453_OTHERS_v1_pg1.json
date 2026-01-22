@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019548453_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "MADHU PAVAN AUTOMOBILES",
+    "model_name": "New Holland NH 3032 TX Drive",
+    "horse_power": 35.0,
+    "asset_cost": 680000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        4794.29833984375,
+        8199.7470703125,
+        6811.04345703125,
+        8846.931640625
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        5179.30810546875,
+        7884.03857421875,
+        6336.9560546875,
+        9075.6875
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "text_score=1.999; please verify hp/cost"
+}

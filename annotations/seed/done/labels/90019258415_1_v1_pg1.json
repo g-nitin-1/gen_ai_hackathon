@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019258415_1_v1_pg1",
+  "fields": {
+    "dealer_name": "HANUMAT TRACTORS",
+    "model_name": "JOHN DEERE 5050D",
+    "horse_power": 50.0,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        893.7054443359375,
+        1271.3831787109375,
+        1029.2880859375,
+        1354.4381103515625
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        878.8428344726562,
+        1267.8707275390625,
+        1040.6588134765625,
+        1412.4532470703125
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "text_score=1.993; please verify hp/cost"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019109032_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "; Farmtrac Tractor Sales & Service",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        0,
+        1600,
+        1190,
+        1609
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

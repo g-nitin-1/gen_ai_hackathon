@@ -1,0 +1,19 @@
+{
+  "doc_id": "172903213_2_pg27",
+  "fields": {
+    "dealer_name": ",",
+    "model_name": "Description Amount",
+    "horse_power": null,
+    "asset_cost": 394650,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "173608870_2_pg32",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "DIGIT RAC PP ger St HP",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        156,
+        1005,
+        505,
+        1013
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        365,
+        1501,
+        420,
+        1561
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

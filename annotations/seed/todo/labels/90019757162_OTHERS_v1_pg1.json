@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019757162_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M.F. Tnfe Tractors Sales, Service, Spares & Implements",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        450,
+        1167,
+        1183,
+        1217
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

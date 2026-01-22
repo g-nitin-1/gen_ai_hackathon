@@ -1,0 +1,19 @@
+{
+  "doc_id": "90018984759_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "for M/s. Tafe Motors & Tractors Ltd, and we hold no responsibility for the quality of the products/goods.",
+    "model_name": "Code: 1205550BL14RF3 87019200 919642.86 919642.86",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

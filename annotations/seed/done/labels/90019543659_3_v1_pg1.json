@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019543659_3_v1_pg1",
+  "fields": {
+    "dealer_name": "Balaji Tractors",
+    "model_name": "Sonalika International Tractor DI-60 4WD",
+    "horse_power": 60,
+    "asset_cost": 1030000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        880.2954711914062,
+        1441.9149169921875,
+        1049.3580322265625,
+        1569.9541015625
+      ],
+      "conf": 0.8927567005157471
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        870.807861328125,
+        1438.8780517578125,
+        1102.8985595703125,
+        1667.2882080078125
+      ],
+      "conf": 0.9220033884048462
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.815; VLM logprob=-0.112; please verify",
+  "vlm_conf_logprob": -0.11150540959108464
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019738914_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "for : POWERTRAC TRACTORS & IMPLEMENTS",
+    "model_name": ". PTE AA!",
+    "horse_power": null,
+    "asset_cost": 45950200000580,
+    "signature": {
+      "present": true,
+      "bbox": [
+        60,
+        1820,
+        461,
+        1827
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        37,
+        1558,
+        264,
+        1772
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "172810838_3_pg4",
+  "fields": {
+    "dealer_name": "BABA AGRICULTURE & AUTOMOBILES",
+    "model_name": "MAHINDRA NOVO 605 DI AWD",
+    "horse_power": 50,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        315.8787878787879,
+        1273.6060606060605,
+        582.5454545454545,
+        1379.6666666666665
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        303.75757575757575,
+        1231.1818181818182,
+        515.8787878787879,
+        1438.7575757575758
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.848; VLM logprob=-0.037; please verify"
+}

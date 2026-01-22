@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019109032_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "GK TRACTORS",
+    "model_name": "Farmtrac H5 powermaxx",
+    "horse_power": 45,
+    "asset_cost": 970000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        945.0000000000001,
+        1372.6818181818182,
+        1108.6363636363635,
+        1431.7727272727273
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        815.4545454545455,
+        1281.7727272727273,
+        997.2727272727274,
+        1470.4090909090908
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=1.207; please verify"
+}

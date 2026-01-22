@@ -1,0 +1,19 @@
+{
+  "doc_id": "174037696_1_pg7",
+  "fields": {
+    "dealer_name": "Code : 63600",
+    "model_name": ": fr 4.\" 7 000].",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "172823208_1_pg45",
+  "fields": {
+    "dealer_name": "M/S. KRISHNA AGRO",
+    "model_name": "Mahindra 605 NOVO 4WD",
+    "horse_power": 57,
+    "asset_cost": 1160000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        947.6543209876543,
+        1365.3703703703702,
+        1078.5185185185185,
+        1420.9259259259259
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        722.9629629629629,
+        1320.9259259259259,
+        880.9876543209875,
+        1475.2469135802469
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.729; VLM logprob=-0.125; please verify"
+}

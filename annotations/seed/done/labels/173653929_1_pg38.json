@@ -1,0 +1,32 @@
+{
+  "doc_id": "173653929_1_pg38",
+  "fields": {
+    "dealer_name": "RAJARAJESHWARI AGENCIES",
+    "model_name": "EICHER 380(2WD) PRIMA-G3",
+    "horse_power": 40,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        758.7998046875,
+        1188.1363525390625,
+        928.3018798828125,
+        1259.6065673828125
+      ],
+      "conf": 0.8933101892471313
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        760.765380859375,
+        1180.7265625,
+        961.2916870117188,
+        1306.516357421875
+      ],
+      "conf": 0.9279528260231018
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.821; VLM logprob=-0.030; please verify",
+  "vlm_conf_logprob": -0.029501437926677455
+}

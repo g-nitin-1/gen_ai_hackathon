@@ -1,0 +1,29 @@
+{
+  "doc_id": "172929710_1_pg40",
+  "fields": {
+    "dealer_name": "AWANA TRACTORS",
+    "model_name": "SONALIKA RX 50 (4W)",
+    "horse_power": 50,
+    "asset_cost": 1054000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        182.78787878787884,
+        1287.2424242424242,
+        431.27272727272725,
+        1396.3333333333333
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        167.6363636363637,
+        1259.969696969697,
+        350.969696969697,
+        1437.2424242424242
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.791; VLM logprob=-0.023; please verify"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "172723526_1_pg17",
+  "fields": {
+    "dealer_name": "M/s. Shree Amba Motors",
+    "model_name": "MF245 DI",
+    "horse_power": 46,
+    "asset_cost": 720000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        772.5,
+        1172.0,
+        1145.0,
+        1327.0
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        887.5,
+        1197.0,
+        1055.0,
+        1364.5
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.818; VLM logprob=-0.031; please verify"
+}

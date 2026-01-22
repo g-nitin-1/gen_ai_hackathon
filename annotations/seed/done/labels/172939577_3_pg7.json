@@ -1,0 +1,29 @@
+{
+  "doc_id": "172939577_3_pg7",
+  "fields": {
+    "dealer_name": "Mahindra Raigarh Automobiles (P) Ltd.",
+    "model_name": "Mahindra 415 DI NBP",
+    "horse_power": 40,
+    "asset_cost": 710000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        96.3703703703704,
+        1312.0740740740741,
+        261.1851851851852,
+        1413.925925925926
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        64.88888888888893,
+        1262.0740740740741,
+        276.00000000000006,
+        1460.2222222222224
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.786; VLM logprob=-0.090; please verify"
+}

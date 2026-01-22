@@ -1,0 +1,24 @@
+{
+  "doc_id": "90018882696_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": ": EICHER TRACTORS Salen BrozOeaeee",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 90200,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        855,
+        1268,
+        901,
+        1358
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

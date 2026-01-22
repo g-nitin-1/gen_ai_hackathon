@@ -1,0 +1,30 @@
+{
+  "doc_id": "90018772380_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        306.8581237792969,
+        1085.4732666015625,
+        308.62353515625,
+        1085.636474609375
+      ],
+      "conf": 1.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1179.364990234375,
+        545.20458984375,
+        1179.6578369140625,
+        545.3477783203125
+      ],
+      "conf": 1.0
+    }
+  },
+  "source": "vlm+owlv2@owlv2_custom_out"
+}

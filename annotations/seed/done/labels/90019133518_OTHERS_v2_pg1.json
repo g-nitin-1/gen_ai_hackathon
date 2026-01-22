@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019133518_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "SINGH FARMING SOLUTIONS",
+    "model_name": "JOHN DEERE 5405 4WD AC CABIN",
+    "horse_power": 63,
+    "asset_cost": 1900000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1048.095238095238,
+        1974.4285714285718,
+        1276.6666666666665,
+        2112.5238095238096
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

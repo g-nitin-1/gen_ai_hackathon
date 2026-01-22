@@ -1,0 +1,74 @@
+1.000	QUOTATION
+0.998	Sunil Automobiles
+0.748	Voucher No.
+0.864	Dated
+0.999	Near Brahman Maha Sabha
+0.991	Fy-25-26/0094
+1.000	6-Jul-25
+0.753	Malviya Road, Gandhi Nagar
+0.820	ModefTerms of Payment
+1.000	Basti-272001
+0.870	GSTINIUIN: O9AASFS8851M1Z2
+0.678	State Name
+0.960	Uttar Pradesh, Code
+1.000	09
+0.760	Buyers Ref JOrder No.
+0.996	Other References
+0.875	E-Mail : tafebasti@gmail.com
+0.975	Fy-25-26/0094
+0.955	(Bill to)
+0.618	Dispatched through
+0.889	Destinalion
+0.981	Terms of Delivery
+0.940	Hypoto- IDFC First Bank
+0.999	State Name
+0.745	Uttar Pradesh, Code
+0.999	09
+0.639	SI
+0.869	Descriplion ol Goods
+0.993	HSNSAC
+0.909	Due on
+0.665	Quanlily
+0.994	Rale
+1.000	per
+1.000	Amount
+0.908	No
+0.748	Massey MF 7250 DI V1.1
+0.628	87019200
+1.000	5-Aug-25
+0.469	pcs 6,60,714.29
+0.412	pCS
+0.748	6,60,714.29
+0.869	SOHP
+0.877	CGST@6%
+0.924	6 %
+1.000	39,642.86
+0.928	SGST@6%
+0.982	6 %
+1.000	39,642.86
+1.000	Less
+0.792	Rounded Off
+0.389	(-J0.01
+1.000	Total
+0.233	pCS
+0.181	7
+0.779	7,40,000.00
+0.890	Amount Chargeable (in words)
+0.321	E. & 0.E
+0.987	INR Seven Lakh Forty Thousand Only
+0.695	Company's Bank Details
+0.769	Alc Holder's Name
+1.000	Sunil Automobiles
+0.921	Bank Name
+0.976	SBI CC AIC 43390750219
+1.000	Remarks:
+0.784	Alc No.
+0.960	43390750219
+0.731	02/35
+0.889	Branch & IFS Code: SBIN0063731
+0.970	for Sunil Automobiles
+0.234	SHuthorised Siatalor obiles
+0.980	Authorised Signatory
+0.737	This is a Computer Generated Document
+1.000	Buyer
+0.933	Malager

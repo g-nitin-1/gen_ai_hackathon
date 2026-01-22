@@ -1,0 +1,31 @@
+{
+  "doc_id": "172818806_3_pg4",
+  "fields": {
+    "dealer_name": "The Odisha Agro Industries Corporation Ltd.",
+    "model_name": "Swaraj Tractor 744 FE 4X4 N1",
+    "horse_power": 48,
+    "asset_cost": 923637,
+    "signature": {
+      "present": true,
+      "bbox": [
+        957.1845703125,
+        1314.992919921875,
+        1186.5445556640625,
+        1404.9483642578125
+      ],
+      "conf": 0.8767902255058289
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        924.16259765625,
+        1312.4564208984375,
+        1084.20947265625,
+        1479.6346435546875
+      ],
+      "conf": 0.9524555206298828
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.829; VLM logprob=-0.017; please verify"
+}

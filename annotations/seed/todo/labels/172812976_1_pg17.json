@@ -1,0 +1,19 @@
+{
+  "doc_id": "172812976_1_pg17",
+  "fields": {
+    "dealer_name": "MASSEY FERGUSON TRACTORS, Sales-Service-Spare Parts & Impliments etc.",
+    "model_name": "654  H.P.Cat. Cyl. Amount",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

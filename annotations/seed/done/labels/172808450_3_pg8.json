@@ -1,0 +1,31 @@
+{
+  "doc_id": "172808450_3_pg8",
+  "fields": {
+    "dealer_name": "M/s. Anand Tractors",
+    "model_name": "MV 5502 4WD",
+    "horse_power": 55,
+    "asset_cost": 1251000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        975.1605224609375,
+        1269.639892578125,
+        1099.8497314453125,
+        1338.974609375
+      ],
+      "conf": 0.8830820322036743
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        932.248291015625,
+        1212.824462890625,
+        1110.8309326171875,
+        1389.8050537109375
+      ],
+      "conf": 0.9664130210876465
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.849; VLM logprob=-0.048; please verify"
+}

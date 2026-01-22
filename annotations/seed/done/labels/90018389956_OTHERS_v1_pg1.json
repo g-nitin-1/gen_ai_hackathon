@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018389956_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Mukundraj Tractors",
+    "model_name": "Swaraj 630",
+    "horse_power": 29,
+    "asset_cost": 610000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        895.1990356445312,
+        1250.5316162109375,
+        1051.4556884765625,
+        1368.609619140625
+      ],
+      "conf": 0.8044225573539734
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        874.724609375,
+        1244.7635498046875,
+        1068.7381591796875,
+        1447.3704833984375
+      ],
+      "conf": 0.9326286911964417
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.737; VLM logprob=-0.152; please verify",
+  "vlm_conf_logprob": -0.15170746425653933
+}

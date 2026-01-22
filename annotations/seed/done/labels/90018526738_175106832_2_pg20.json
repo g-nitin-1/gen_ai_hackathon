@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018526738_175106832_2_pg20",
+  "fields": {
+    "dealer_name": "MPT TRACTORS PRIVATE LIMITED",
+    "model_name": "MAHINDRA 265 DI YUVO Tech+ PSTRGLT",
+    "horse_power": 33,
+    "asset_cost": 632017,
+    "signature": {
+      "present": true,
+      "bbox": [
+        838.530612244898,
+        1209.6530612244899,
+        989.5510204081634,
+        1272.9183673469388
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        825.8888888888889,
+        1152.0,
+        998.1111111111111,
+        1321.4444444444446
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

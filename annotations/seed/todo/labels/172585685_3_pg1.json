@@ -1,0 +1,19 @@
+{
+  "doc_id": "172585685_3_pg1",
+  "fields": {
+    "dealer_name": "@gmail.com",
+    "model_name": "Y",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019624424_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "(eonaltixa} IEE BS a '",
+    "horse_power": null,
+    "asset_cost": 9929922936,
+    "signature": {
+      "present": true,
+      "bbox": [
+        898,
+        1492,
+        1053,
+        1553
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1118,
+        1464,
+        1172,
+        1510
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

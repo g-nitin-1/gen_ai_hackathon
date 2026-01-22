@@ -1,0 +1,19 @@
+{
+  "doc_id": "90019541466_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "for JOHN DEERE INDIA PVT. LTD. ¢ Tractors * Farm Equipment * Finance",
+    "model_name": "No. VARIANT Amount Rupees",
+    "horse_power": null,
+    "asset_cost": 50200032963796,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

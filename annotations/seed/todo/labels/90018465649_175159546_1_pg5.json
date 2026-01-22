@@ -1,0 +1,19 @@
+{
+  "doc_id": "90018465649_175159546_1_pg5",
+  "fields": {
+    "dealer_name": ": POWERTRAC",
+    "model_name": "DI(HLIRAC..LPMG.T.....",
+    "horse_power": null,
+    "asset_cost": 2327911,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019634938_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "S :",
+    "model_name": "CAUILZ0ON/ F102°(9F ARI rs. 56Q000L. =. Ssadaced",
+    "horse_power": null,
+    "asset_cost": 361305000086,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1136,
+        1214,
+        1512,
+        1226
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1300,
+        1767,
+        1539,
+        1950
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

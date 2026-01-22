@@ -1,0 +1,19 @@
+{
+  "doc_id": "173441333_1_pg28",
+  "fields": {
+    "dealer_name": "For: SWARAJ TRACTORS * SALES",
+    "model_name": "Suan §U3 XM -UZKP 1",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

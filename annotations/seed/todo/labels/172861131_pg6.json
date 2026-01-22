@@ -1,0 +1,19 @@
+{
+  "doc_id": "172861131_pg6",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "Name: John Deere 5042D",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

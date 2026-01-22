@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018926292_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M.Banakar Patil Tractors",
+    "model_name": "PT Euro 47",
+    "horse_power": 47,
+    "asset_cost": 761000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        790.9229125976562,
+        1247.86572265625,
+        898.0316772460938,
+        1308.53173828125
+      ],
+      "conf": 0.8885397911071777
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        768.1126708984375,
+        1220.69189453125,
+        894.468994140625,
+        1332.9918212890625
+      ],
+      "conf": 0.9332650303840637
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.822; VLM logprob=-0.107; please verify",
+  "vlm_conf_logprob": -0.10689017472044253
+}

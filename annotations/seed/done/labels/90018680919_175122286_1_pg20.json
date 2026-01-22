@@ -1,0 +1,24 @@
+{
+  "doc_id": "90018680919_175122286_1_pg20",
+  "fields": {
+    "dealer_name": "SRI RAJ AGRI FARM EQUIPMENT",
+    "model_name": "MASSEY FERGUSON 9000",
+    "horse_power": 50,
+    "asset_cost": 1020000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        889.2558139534883,
+        1280.139534883721,
+        1142.7441860465117,
+        1349.906976744186
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

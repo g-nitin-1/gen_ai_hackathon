@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019456877_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Shri Harsikrishna Motors",
+    "model_name": "Mahindra YUVO Tech+ 575 DI",
+    "horse_power": 47,
+    "asset_cost": 711000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        967.7272727272729,
+        1431.7727272727273,
+        1147.2727272727273,
+        1586.3181818181818
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        938.1818181818184,
+        1399.9545454545455,
+        1110.9090909090908,
+        1561.3181818181818
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.838; VLM logprob=-0.263; please verify"
+}

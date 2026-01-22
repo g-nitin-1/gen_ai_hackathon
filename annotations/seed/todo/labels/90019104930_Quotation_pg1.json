@@ -1,0 +1,19 @@
+{
+  "doc_id": "90019104930_Quotation_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": ", 5011",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

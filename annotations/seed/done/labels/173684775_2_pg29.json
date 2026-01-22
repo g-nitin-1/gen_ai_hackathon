@@ -1,0 +1,29 @@
+{
+  "doc_id": "173684775_2_pg29",
+  "fields": {
+    "dealer_name": "Raj Auto Traders Pvt. Ltd.",
+    "model_name": "405 YOVO TECH PLUS",
+    "horse_power": 39,
+    "asset_cost": 795000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        889.4444444444446,
+        1366.0555555555557,
+        1106.111111111111,
+        1485.5
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        906.1111111111111,
+        1313.2777777777778,
+        1106.8192371475955,
+        1495.0
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.862; VLM logprob=0.000; please verify"
+}

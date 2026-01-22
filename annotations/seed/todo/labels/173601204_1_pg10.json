@@ -1,0 +1,24 @@
+{
+  "doc_id": "173601204_1_pg10",
+  "fields": {
+    "dealer_name": "afer vasw S",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        727,
+        1163,
+        821,
+        1248
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

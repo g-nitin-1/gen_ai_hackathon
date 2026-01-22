@@ -1,0 +1,29 @@
+{
+  "doc_id": "172903213_2_pg27",
+  "fields": {
+    "dealer_name": "Shree Krushi Tractors",
+    "model_name": "Sonalika Tiger 242 4WD",
+    "horse_power": 45,
+    "asset_cost": 966174,
+    "signature": {
+      "present": true,
+      "bbox": [
+        802.6216216216216,
+        1479.2162162162163,
+        924.2432432432432,
+        1535.972972972973
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        843.1621621621622,
+        1381.918918918919,
+        1026.945945945946,
+        1563.0
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.830; VLM logprob=-0.087; please verify"
+}

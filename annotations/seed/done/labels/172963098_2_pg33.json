@@ -1,0 +1,29 @@
+{
+  "doc_id": "172963098_2_pg33",
+  "fields": {
+    "dealer_name": "AGRAWAL TROLLEY AND PUMPS",
+    "model_name": "SONALIKA TRACTOR DI 730 III",
+    "horse_power": 34,
+    "asset_cost": 520000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        921.0408163265307,
+        1348.2244897959185,
+        1008.7959183673469,
+        1407.4081632653063
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        916.9591836734694,
+        1260.4693877551022,
+        1119.0000000000002,
+        1450.2653061224491
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.803; VLM logprob=-0.105; please verify"
+}

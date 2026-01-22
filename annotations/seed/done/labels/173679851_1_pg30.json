@@ -1,0 +1,24 @@
+{
+  "doc_id": "173679851_1_pg30",
+  "fields": {
+    "dealer_name": "BALAJI TRACTORS",
+    "model_name": "SONALIKA DI 745 III P.P OIB PS",
+    "horse_power": 50,
+    "asset_cost": 765000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        792.9285714285714,
+        1233.2142857142856,
+        964.3571428571428,
+        1286.7857142857142
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

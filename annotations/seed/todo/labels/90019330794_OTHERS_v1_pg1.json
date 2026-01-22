@@ -1,0 +1,19 @@
+{
+  "doc_id": "90019330794_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": ": Powertrac Tractor Sales, Service Spare Parts",
+    "model_name": "ONS. Plo cssepetasnal Compelete With Standard",
+    "horse_power": null,
+    "asset_cost": 1071277778058982222,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

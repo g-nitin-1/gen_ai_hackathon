@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018884704_175199372_3_pg7",
+  "fields": {
+    "dealer_name": "BALKRISHNA TRACTORS",
+    "model_name": "EICHER 485 4WD",
+    "horse_power": 45,
+    "asset_cost": 845000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        838.8148148148148,
+        1184.3333333333333,
+        1046.2222222222224,
+        1263.9629629629628
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        796.2222222222222,
+        1138.037037037037,
+        990.6666666666666,
+        1326.9259259259259
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=1.640; please verify"
+}

@@ -1,0 +1,16 @@
+Changes made (Scenic repo at /home/nitin/scenic):
+- Added CUSTOM_LABEL_MAPS and DecodeCocoSigStamp decoder (promptable, negatives padded) to scenic/projects/owl_vit/preprocessing/label_ops.py; label ids: 0 padding, 1 signature, 2 stamp.
+- Registered decoder key coco_sigstamp:0.0.1 in scenic/projects/owl_vit/preprocessing/input_pipeline.py DECODERS.
+- Added TFRecord exporter scenic/projects/owl_vit/tools/write_coco_sigstamp_tfrecord.py (plus __init__.py in tools/).
+
+How to export TFRecords:
+- Example: PYTHONPATH=/home/nitin/scenic:$PYTHONPATH /home/nitin/gdinovenv/bin/python scenic/projects/owl_vit/tools/write_coco_sigstamp_tfrecord.py --annotations /mnt/e/idfc_genai/owlv2_data/annotations.json --images_dir /mnt/e/idfc_genai/owlv2_data/images --output_dir /mnt/e/idfc_genai/owlv2_tfrecords --split train --examples_per_shard 512
+- Output shards: /mnt/e/idfc_genai/owlv2_tfrecords/train-00000-of-XXXXX.tfrecord
+- Boxes normalized to [ymin, xmin, ymax, xmax]; labels forced to signature=1, stamp=2; skips unknown/malformed boxes.
+
+Using the decoder:
+- Decoder name: coco_sigstamp:0.0.1; use decoder_kwarg_list=({'name': 'coco_sigstamp:0.0.1'},).
+- The pipeline still expects a TFDS builder; since only an export script was added, you can parse the shards with the same FeaturesDict inside the script (tfds.features.FeaturesDict) or add a minimal TFDS builder later if you prefer tfds.builder(...).
+
+Training reminders:
+- Point dataset configs at the generated shard pattern (e.g., /mnt/e/idfc_genai/owlv2_tfrecords/train-*.tfrecord), set class_names ['signature','stamp'], trainer_name=owlv2, and init_from the HF checkpoint noted in work.txt.

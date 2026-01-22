@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019370158_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Shree Traders",
+    "model_name": "SONALIKA T.G 42",
+    "horse_power": 42,
+    "asset_cost": 670000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        845.0000000000001,
+        1334.0454545454545,
+        1063.1818181818182,
+        1443.1363636363635
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        876.8181818181819,
+        1318.1363636363635,
+        1035.9090909090908,
+        1470.4090909090908
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.829; VLM logprob=-0.150; please verify"
+}

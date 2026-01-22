@@ -1,0 +1,32 @@
+{
+  "doc_id": "173649319_1_pg35",
+  "fields": {
+    "dealer_name": "SHRI GANESH MOTORS",
+    "model_name": "SWARAJ 744 TRACTOR",
+    "horse_power": 50,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        862.1842651367188,
+        1470.1571044921875,
+        1045.525634765625,
+        1590.4422607421875
+      ],
+      "conf": 0.8328306078910828
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        833.4315185546875,
+        1465.485595703125,
+        1014.8973388671875,
+        1632.0
+      ],
+      "conf": 0.9412415027618408
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.774; VLM logprob=-0.013; please verify",
+  "vlm_conf_logprob": -0.01297626039534805
+}

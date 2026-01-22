@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018778186_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Sai V.K. Tractors",
+    "model_name": "Mahindra SP PLUS",
+    "horse_power": 47,
+    "asset_cost": 825000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1010.8333333333334,
+        1322.8333333333335,
+        1100.8333333333333,
+        1462.8333333333335
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        924.1666666666667,
+        1329.5,
+        1092.5,
+        1501.1666666666667
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.817; VLM logprob=-0.036; please verify"
+}

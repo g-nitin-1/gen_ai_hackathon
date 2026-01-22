@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019365452_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Sanjivani Traders",
+    "model_name": "NEW HOLLAND 3630 SPECIAL EDITION",
+    "horse_power": 55,
+    "asset_cost": 1080000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1446.9354838709678,
+        2135.225806451613,
+        1621.1290322580646,
+        2270.709677419355
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1356.6129032258066,
+        2051.3548387096776,
+        1601.7741935483873,
+        2299.741935483871
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.806; VLM logprob=-0.046; please verify"
+}

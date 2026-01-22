@@ -1,0 +1,29 @@
+{
+  "doc_id": "173152811_1_pg9",
+  "fields": {
+    "dealer_name": "S. D. Trading Corporation",
+    "model_name": "Farmtrac 35 Premium Tractor DC PS",
+    "horse_power": 38,
+    "asset_cost": 590000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        731.8382352941176,
+        1115.3676470588234,
+        878.1617647058824,
+        1149.191176470588
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        724.4852941176471,
+        1154.3382352941176,
+        852.4264705882354,
+        1188.8970588235293
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=0.98; please verify"
+}

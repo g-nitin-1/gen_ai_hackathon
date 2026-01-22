@@ -1,0 +1,29 @@
+{
+  "doc_id": "173465836_1_pg45",
+  "fields": {
+    "dealer_name": ": Sonalika International Tractors Ltd., Sales, Service & Spare Parts",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        45,
+        1384,
+        254,
+        1403
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        780,
+        1383,
+        967,
+        1561
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

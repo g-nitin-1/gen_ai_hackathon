@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019597614_1_v2_pg1",
+  "fields": {
+    "dealer_name": "Sharma Tractors",
+    "model_name": "NEW HOLLAND FORD 8630 TX",
+    "horse_power": 55,
+    "asset_cost": 870000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        974.591836734694,
+        1379.7551020408164,
+        1188.8775510204082,
+        1465.469387755102
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        966.4285714285713,
+        1334.857142857143,
+        1129.6938775510205,
+        1498.1224489795918
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.863; VLM logprob=0.000; please verify"
+}

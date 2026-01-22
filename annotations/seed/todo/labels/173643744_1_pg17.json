@@ -1,0 +1,19 @@
+{
+  "doc_id": "173643744_1_pg17",
+  "fields": {
+    "dealer_name": ": Parts & POWERTRAC TRACTOR",
+    "model_name": "p - 439 Rs 5 50006",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

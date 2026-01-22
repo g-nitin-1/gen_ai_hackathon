@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019327563_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Dharti TRACTORS",
+    "model_name": "MAHINDRA 275 DI",
+    "horse_power": 39,
+    "asset_cost": 730115,
+    "signature": {
+      "present": true,
+      "bbox": [
+        758.0434782608695,
+        1387.6521739130435,
+        1018.9130434782608,
+        1483.304347826087
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        827.608695652174,
+        1348.5217391304348,
+        988.4782608695652,
+        1518.086956521739
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

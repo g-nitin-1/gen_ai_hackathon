@@ -1,0 +1,29 @@
+{
+  "doc_id": "172561841_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "-DI-745 INHDM+4wD 50 HP",
+    "horse_power": 50,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        253,
+        1218,
+        548,
+        1246
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        831,
+        1261,
+        1076,
+        1491
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "172677667_2_pg30",
+  "fields": {
+    "dealer_name": "Sales, Service & Spare Swaraj tractors",
+    "model_name": "",
+    "horse_power": 39,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        726,
+        1473,
+        1131,
+        1573
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

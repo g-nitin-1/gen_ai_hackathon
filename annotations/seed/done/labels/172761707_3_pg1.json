@@ -1,0 +1,32 @@
+{
+  "doc_id": "172761707_3_pg1",
+  "fields": {
+    "dealer_name": "Manjeet Motors",
+    "model_name": "NOVO 605 DI 2WD",
+    "horse_power": 57,
+    "asset_cost": 1100000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        938.93359375,
+        1239.68603515625,
+        1120.71826171875,
+        1328.476806640625
+      ],
+      "conf": 0.8439151644706726
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        921.47607421875,
+        1218.187744140625,
+        1108.906005859375,
+        1374.0
+      ],
+      "conf": 0.9411114454269409
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.785; VLM logprob=-0.037; please verify",
+  "vlm_conf_logprob": -0.03712901161545249
+}

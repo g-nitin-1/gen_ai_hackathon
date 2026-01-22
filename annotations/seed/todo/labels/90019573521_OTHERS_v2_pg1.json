@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019573521_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "For: SONALIKA INTERNATIONAL TRACTRS LTD.,",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 9538789835,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        756,
+        1397,
+        1002,
+        1588
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

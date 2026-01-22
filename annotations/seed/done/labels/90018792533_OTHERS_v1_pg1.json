@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018792533_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "AK.. Tractors",
+    "model_name": "Mahindra OJA 2121 4WD",
+    "horse_power": 21,
+    "asset_cost": 633000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        911.6666666666667,
+        1462.8333333333335,
+        1153.3333333333333,
+        1554.5000000000002
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        936.6666666666667,
+        1362.8333333333335,
+        1139.4444444444446,
+        1585.0555555555557
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.833; VLM logprob=-0.161; please verify"
+}

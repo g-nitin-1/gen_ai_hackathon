@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018603703_VEHICLE QUOTATION_pg1",
+  "fields": {
+    "dealer_name": "MK.MOTORS",
+    "model_name": "SONALIKA DI RX 734 Power Plus OIB",
+    "horse_power": 37,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1042.5,
+        1310.75,
+        1117.5,
+        1358.25
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        960.0,
+        1275.75,
+        1165.0,
+        1468.25
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

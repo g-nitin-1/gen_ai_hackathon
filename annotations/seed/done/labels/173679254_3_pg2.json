@@ -1,0 +1,32 @@
+{
+  "doc_id": "173679254_3_pg2",
+  "fields": {
+    "dealer_name": "Sandeep Eicher",
+    "model_name": "Eicher 242 Extra Premium",
+    "horse_power": 25,
+    "asset_cost": 550000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        879.1871948242188,
+        1414.556640625,
+        1108.362060546875,
+        1530.0302734375
+      ],
+      "conf": 0.9336690306663513
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        852.9580688476562,
+        1369.5167236328125,
+        1038.3494873046875,
+        1542.0076904296875
+      ],
+      "conf": 0.9507882595062256
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.884; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.034138161840098775
+}

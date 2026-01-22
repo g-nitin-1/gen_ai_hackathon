@@ -1,0 +1,29 @@
+{
+  "doc_id": "172726090_3_pg9",
+  "fields": {
+    "dealer_name": "M/S. SARWAMANGALA TRACTOR",
+    "model_name": "Swaraj 735 FEER",
+    "horse_power": 40,
+    "asset_cost": 759000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        871.1132075471697,
+        1383.5471698113208,
+        1022.0566037735848,
+        1453.3584905660377
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        837.1025641025641,
+        1327.2820512820513,
+        990.948717948718,
+        1476.0
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.791; VLM logprob=-0.011; please verify"
+}

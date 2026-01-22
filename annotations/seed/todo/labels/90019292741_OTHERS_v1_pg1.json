@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019292741_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "for JOHN DEERE INDI. vie |",
+    "model_name": "No..... be Y a HP.........2.2 oe",
+    "horse_power": null,
+    "asset_cost": 9815343376,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3909,
+        6860,
+        4797,
+        7598
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

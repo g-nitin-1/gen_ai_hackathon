@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019575948_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Amar Tractors & Motors",
+    "model_name": "Mahindra 575 DI Yuvo Tech Plus",
+    "horse_power": 47,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        815.3703703703704,
+        1443.2345679012346,
+        1109.1975308641975,
+        1508.6666666666667
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        889.4444444444446,
+        1385.0555555555557,
+        1083.888888888889,
+        1568.3888888888891
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=0.98; please verify"
+}

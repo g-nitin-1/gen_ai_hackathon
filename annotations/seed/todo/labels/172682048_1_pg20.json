@@ -1,0 +1,29 @@
+{
+  "doc_id": "172682048_1_pg20",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "Name: JOHN DEERE 5210 GEAR PRO",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        33,
+        1358,
+        650,
+        1382
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        989,
+        1226,
+        1080,
+        1336
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019275252_175947343_1_pg14",
+  "fields": {
+    "dealer_name": "M/S RAJ TRACTORS",
+    "model_name": "NH 3630 TX Plus Gears",
+    "horse_power": 55,
+    "asset_cost": 998000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        462.1162109375,
+        1411.705078125,
+        651.6389770507812,
+        1525.6212158203125
+      ],
+      "conf": 0.8419987559318542
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        446.40838623046875,
+        1356.35693359375,
+        608.8726196289062,
+        1527.02001953125
+      ],
+      "conf": 0.9495874643325806
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.792; VLM logprob=-0.135; please verify",
+  "vlm_conf_logprob": -0.13531860964143505
+}

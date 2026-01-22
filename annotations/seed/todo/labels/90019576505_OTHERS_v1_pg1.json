@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019576505_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": ": Escort Tractor",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 34496058431,
+    "signature": {
+      "present": true,
+      "bbox": [
+        250,
+        1672,
+        897,
+        1679
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

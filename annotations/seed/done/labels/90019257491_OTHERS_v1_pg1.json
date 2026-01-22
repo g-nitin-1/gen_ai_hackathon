@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019257491_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "MAA TRACTORS",
+    "model_name": "Sonalika DI 55 III",
+    "horse_power": 55,
+    "asset_cost": 790000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        885.0,
+        1320.75,
+        1025.0,
+        1410.75
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        887.5,
+        1270.75,
+        1102.5,
+        1490.75
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.828; VLM logprob=-0.094; please verify"
+}

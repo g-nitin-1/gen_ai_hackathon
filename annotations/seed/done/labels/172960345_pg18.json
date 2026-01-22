@@ -1,0 +1,32 @@
+{
+  "doc_id": "172960345_pg18",
+  "fields": {
+    "dealer_name": "R.S.Tractor House",
+    "model_name": "PT 439 Plus",
+    "horse_power": 41,
+    "asset_cost": 651000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        864.6353759765625,
+        1280.6060791015625,
+        994.6849975585938,
+        1424.2828369140625
+      ],
+      "conf": 0.7978355288505554
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        823.425048828125,
+        1283.296142578125,
+        1003.9593505859375,
+        1454.6392822265625
+      ],
+      "conf": 0.943801760673523
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.742; VLM logprob=-0.068; please verify",
+  "vlm_conf_logprob": -0.06836417904020403
+}

@@ -1,0 +1,64 @@
+0.997	QUOTATION
+0.972	Sunil Automobiles
+0.972	Voucher No.
+0.994	Dated
+0.952	Near Brahman Maha Sabha
+0.995	Fy-25-26/0094
+0.968	6-Jul-25
+0.958	Malviya Road,Gandhi Nagar
+0.957	Mode/Terms of Payment
+0.988	Basti-272001
+0.977	GSTIN/UIN:09AASFS8851M1Z2
+0.949	State Name:Uttar PradeshCode09
+0.937	Buyer's Ret./Order No.
+0.966	Other References
+0.948	E-Mail :tafebasti@gmail.com
+0.994	Fy-25-26/0094
+0.954	Buyer Bill to
+0.982	Dispatched through
+0.971	Destination
+0.965	Terms of Delivery
+0.954	Hypoto-IDFC First Bank
+0.956	State Name
+0.949	Uttar PradeshCode:09
+0.917	SI
+0.952	Description of Goods
+0.954	HSN/SAC Due on
+0.996	Quantity
+0.996	Rate
+0.997	per
+0.999	Amount
+0.972	No.
+0.931	1Massey MF7250 DIV1.1
+0.989	870192005-Aug-25
+0.949	1 pcs6,60,714.29pcs
+0.972	6,60,714.29
+0.996	50HP
+0.998	CGST@6%
+0.990	6%
+0.974	39,642.86
+0.939	SGST@6%
+0.989	6%
+0.984	39,642.86
+0.953	Less:
+0.970	Rounded Off
+0.986	0.01
+0.998	Total
+0.889	1 pcs
+0.947	7,40,000.00
+0.967	Amount Chargeable (in words)
+0.906	E.&O.E
+0.955	INR Seven Lakh FortyThousand Only
+0.966	Company's Bank Details
+0.956	A/c Holder's Name:Sunil Automobiles
+0.969	Bank Name
+0.931	SBICC A/C 43390750219
+0.962	Remarks:
+0.894	A/c No.
+0.998	43390750219
+0.994	02/35
+0.948	Branch &IFSCode:SBIN0063731
+0.982	for Sunil Automobiles
+0.939	Sunil Automobiles
+0.969	Authorised Signatory
+0.976	This is a Computer Generated Document

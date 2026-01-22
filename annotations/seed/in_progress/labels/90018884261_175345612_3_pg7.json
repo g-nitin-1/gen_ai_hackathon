@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018884261_175345612_3_pg7",
+  "fields": {
+    "dealer_name": "Shri Shakti Tractors",
+    "model_name": "TAFE/Massey Ferguson MF-244",
+    "horse_power": 45,
+    "asset_cost": 1050000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        853.1459350585938,
+        1284.27880859375,
+        1054.392333984375,
+        1407.5855712890625
+      ],
+      "conf": 0.7553473711013794
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        891.262451171875,
+        1241.6087646484375,
+        1067.7850341796875,
+        1417.610107421875
+      ],
+      "conf": 0.91219162940979
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.668; VLM logprob=-0.068; please verify",
+  "vlm_conf_logprob": -0.06816387379638765
+}

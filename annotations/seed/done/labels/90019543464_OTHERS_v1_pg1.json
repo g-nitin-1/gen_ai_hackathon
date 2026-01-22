@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019543464_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "R.S. TRACTOR HOUSE, NIPHAD",
+    "model_name": "Euro 47 Power House",
+    "horse_power": 50,
+    "asset_cost": 851000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        54.441402435302734,
+        1500.9091796875,
+        187.4910430908203,
+        1572.9666748046875
+      ],
+      "conf": 0.9079338908195496
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        848.16845703125,
+        1432.6280517578125,
+        1047.552490234375,
+        1637.89599609375
+      ],
+      "conf": 0.9567026495933533
+    }
+  },
+  "source": "vlm+yolo_v5",
+  "notes": "YOLO score=1.865; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.1858761983128061
+}

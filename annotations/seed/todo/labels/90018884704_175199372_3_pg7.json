@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018884704_175199372_3_pg7",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "No interest is Payable for any delay in supplies Tractor Will",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        537,
+        1332,
+        1069,
+        1424
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        796,
+        1138,
+        1040,
+        1323
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019622433_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": ": SWARAJ Tractors, Harvester Combines, Forklifts",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 9270000022222,
+    "signature": {
+      "present": true,
+      "bbox": [
+        399,
+        1616,
+        778,
+        1635
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

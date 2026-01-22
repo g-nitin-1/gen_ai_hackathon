@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019665101_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "S :",
+    "model_name": "...3.9..PRAMAXLY DCPS (2gYpRS....b2OQON,",
+    "horse_power": null,
+    "asset_cost": 361305000086,
+    "signature": {
+      "present": true,
+      "bbox": [
+        863,
+        1200,
+        956,
+        1227
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        859,
+        1228,
+        987,
+        1344
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

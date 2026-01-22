@@ -1,0 +1,29 @@
+{
+  "doc_id": "172827538_2_pg33",
+  "fields": {
+    "dealer_name": "SELVA MOTORS",
+    "model_name": "Swaraj 744 (4WD)",
+    "horse_power": 48,
+    "asset_cost": 1000000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        847.2222222222222,
+        1526.9444444444446,
+        970.5555555555555,
+        1604.7222222222222
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        819.4444444444445,
+        1431.388888888889,
+        998.3333333333334,
+        1605.8333333333335
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.717; VLM logprob=-0.046; please verify"
+}

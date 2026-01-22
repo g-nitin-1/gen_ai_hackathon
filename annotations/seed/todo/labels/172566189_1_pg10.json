@@ -1,0 +1,24 @@
+{
+  "doc_id": "172566189_1_pg10",
+  "fields": {
+    "dealer_name": "for Sonalika Tractor (Thoothukudi District) Sales, Services & Spares Parts",
+    "model_name": "SOWALKA TIAER 55 ~} wD",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1008,
+        1291,
+        1154,
+        1417
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018918722_175278173_1_pg22",
+  "fields": {
+    "dealer_name": "Sonalika Tractors, Sale Service & Spare Parts , a",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        177,
+        1210,
+        673,
+        1259
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        924,
+        1280,
+        1112,
+        1395
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

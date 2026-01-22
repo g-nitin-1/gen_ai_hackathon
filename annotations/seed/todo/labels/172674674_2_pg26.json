@@ -1,0 +1,29 @@
+{
+  "doc_id": "172674674_2_pg26",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "Quantity | (Full cost)",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        409,
+        1341,
+        782,
+        1366
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        848,
+        1046,
+        903,
+        1083
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

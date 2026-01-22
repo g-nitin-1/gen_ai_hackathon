@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019392984_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SANDEEP EICHER",
+    "model_name": "333-3 Cylinder Super DI",
+    "horse_power": 36,
+    "asset_cost": 720000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        901.3999633789062,
+        1513.8345947265625,
+        1146.5460205078125,
+        1631.7218017578125
+      ],
+      "conf": 0.888046145439148
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        882.15380859375,
+        1466.9393310546875,
+        1079.6156005859375,
+        1665.48095703125
+      ],
+      "conf": 0.9614111185073853
+    }
+  },
+  "source": "vlm+yolo_v5",
+  "notes": "YOLO score=1.849; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.039265759193021006
+}

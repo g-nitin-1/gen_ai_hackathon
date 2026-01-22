@@ -1,0 +1,19 @@
+{
+  "doc_id": "90018813452_175117537_1_pg5",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "Name: DIGITRAC PP 46 | 1 12% 890,000.00",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

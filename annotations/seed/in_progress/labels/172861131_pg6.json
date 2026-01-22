@@ -1,0 +1,29 @@
+{
+  "doc_id": "172861131_pg6",
+  "fields": {
+    "dealer_name": "SAI WHEELS",
+    "model_name": "John Deere 5042D",
+    "horse_power": null,
+    "asset_cost": 302000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        866.8979591836734,
+        785.8163265306123,
+        934.2448979591836,
+        887.857142857143
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        879.1428571428571,
+        716.4285714285714,
+        1077.1020408163265,
+        910.3061224489796
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.659; VLM logprob=-0.021; please verify"
+}

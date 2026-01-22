@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019441822_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "R.S.Tractor House",
+    "model_name": "Digitrac PP 46i 16g",
+    "horse_power": 50,
+    "asset_cost": 851000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        878.6734693877551,
+        1500.1632653061224,
+        1052.142857142857,
+        1577.7142857142858
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        829.6938775510204,
+        1426.6938775510203,
+        1021.5306122448978,
+        1622.612244897959
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.842; VLM logprob=-0.223; please verify"
+}

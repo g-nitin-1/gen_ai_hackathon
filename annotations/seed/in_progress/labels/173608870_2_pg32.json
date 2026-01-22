@@ -1,0 +1,32 @@
+{
+  "doc_id": "173608870_2_pg32",
+  "fields": {
+    "dealer_name": "M/s R.S. AUTOMOBILES",
+    "model_name": "DIGITRAC PP 46 I",
+    "horse_power": 50,
+    "asset_cost": 950000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        914.4238891601562,
+        1429.768798828125,
+        1176.6123046875,
+        1596.5228271484375
+      ],
+      "conf": 0.7281047701835632
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        949.3431396484375,
+        1442.887939453125,
+        1139.453857421875,
+        1613.5350341796875
+      ],
+      "conf": 0.9389533400535583
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.667; VLM logprob=-0.019; please verify",
+  "vlm_conf_logprob": -0.018859451235515613
+}

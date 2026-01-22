@@ -1,0 +1,29 @@
+{
+  "doc_id": "172935426_3_pg4",
+  "fields": {
+    "dealer_name": "SUNSHINE MOTORS",
+    "model_name": "KUBOTA MU5502 (4WD)",
+    "horse_power": 55.0,
+    "asset_cost": 1000000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        876.9099731445312,
+        1180.426513671875,
+        1097.1634521484375,
+        1290.769775390625
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        856.2791748046875,
+        1144.8853759765625,
+        1037.6302490234375,
+        1317.1103515625
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "text_score=1.992; please verify hp/cost"
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018750491_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Swaraj Machinery and Tractors",
+    "model_name": "955 FE",
+    "horse_power": 52,
+    "asset_cost": 820000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1032.3701171875,
+        1455.83740234375,
+        1154.9620361328125,
+        1540.1138916015625
+      ],
+      "conf": 0.7312593460083008
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        988.2351684570312,
+        1377.328125,
+        1179.7437744140625,
+        1566.7916259765625
+      ],
+      "conf": 0.9352341294288635
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.666; VLM logprob=-0.082; please verify",
+  "vlm_conf_logprob": -0.08227733575488504
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019301646_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Vijayshree Motors",
+    "model_name": "MF 5118 4WD - 80HP",
+    "horse_power": 80,
+    "asset_cost": 380000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1974.0552978515625,
+        2724.239501953125,
+        2252.803955078125,
+        3096.2314453125
+      ],
+      "conf": 0.7347080707550049
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1904.97314453125,
+        2721.193359375,
+        2277.07958984375,
+        3100.400634765625
+      ],
+      "conf": 0.9228416085243225
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.658; VLM logprob=-0.036; please verify",
+  "vlm_conf_logprob": -0.03566025218859972
+}

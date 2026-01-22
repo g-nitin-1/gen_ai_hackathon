@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018881950_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Basava Equipments",
+    "model_name": "JOHN DEERE 5210E",
+    "horse_power": 50,
+    "asset_cost": 980000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        977.5269165039062,
+        1364.309326171875,
+        1126.9605712890625,
+        1481.20654296875
+      ],
+      "conf": 0.8196442127227783
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        963.9707641601562,
+        1360.70263671875,
+        1144.6668701171875,
+        1546.1942138671875
+      ],
+      "conf": 0.9435847401618958
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.763; VLM logprob=-0.033; please verify",
+  "vlm_conf_logprob": -0.032996565469659345
+}

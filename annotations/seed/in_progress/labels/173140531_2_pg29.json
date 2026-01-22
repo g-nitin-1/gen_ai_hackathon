@@ -1,0 +1,32 @@
+{
+  "doc_id": "173140531_2_pg29",
+  "fields": {
+    "dealer_name": "COPPERCITY TRACTORS",
+    "model_name": "SONALIKA GT-22 4WD",
+    "horse_power": 22,
+    "asset_cost": 480000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        956.7833862304688,
+        1381.99462890625,
+        1115.1014404296875,
+        1474.1343994140625
+      ],
+      "conf": 0.7564142942428589
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        946.809814453125,
+        1356.2362060546875,
+        1131.790283203125,
+        1514.0
+      ],
+      "conf": 0.913468599319458
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.670; VLM logprob=-0.013; please verify",
+  "vlm_conf_logprob": -0.012515754267587751
+}

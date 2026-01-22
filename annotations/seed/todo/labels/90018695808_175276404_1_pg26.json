@@ -1,0 +1,19 @@
+{
+  "doc_id": "90018695808_175276404_1_pg26",
+  "fields": {
+    "dealer_name": "for Solis Yanmar Tractors, Tiruvannamalai. YANMAR",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

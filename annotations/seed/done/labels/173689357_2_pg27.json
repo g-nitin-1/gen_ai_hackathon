@@ -1,0 +1,29 @@
+{
+  "doc_id": "173689357_2_pg27",
+  "fields": {
+    "dealer_name": "PATIDHAR TRACTORS",
+    "model_name": "Swaraj 724 XM",
+    "horse_power": 24.0,
+    "asset_cost": 550000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        949.4716981132077,
+        1272.5471698113208,
+        1109.8490566037735,
+        1363.1132075471698
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        943.811320754717,
+        1251.7924528301887,
+        1113.6226415094338,
+        1419.7169811320755
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "text_score=1.999; please verify hp/cost"
+}

@@ -1,0 +1,31 @@
+{
+  "doc_id": "172615270_3_pg24",
+  "fields": {
+    "dealer_name": "Raigarh Automobiles (P) Ltd.",
+    "model_name": "MAHINDRA 415 DI NBP PS",
+    "horse_power": 40,
+    "asset_cost": 650000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        77.52406311035156,
+        1226.277099609375,
+        257.08001708984375,
+        1338.2265625
+      ],
+      "conf": 0.8845455646514893
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        52.515655517578125,
+        1212.6966552734375,
+        267.938232421875,
+        1405.62060546875
+      ],
+      "conf": 0.9626353979110718
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.847; VLM logprob=-0.080; please verify"
+}

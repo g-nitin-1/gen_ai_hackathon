@@ -1,0 +1,24 @@
+{
+  "doc_id": "90018887350_1_v2_pg1",
+  "fields": {
+    "dealer_name": "of Te",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        8042,
+        2368,
+        8166,
+        2615
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

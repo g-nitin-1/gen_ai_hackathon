@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018869965_175601032_2_pg33",
+  "fields": {
+    "dealer_name": "Starline Tractors Pvt. Ltd.",
+    "model_name": "MF 211 DI",
+    "horse_power": 42,
+    "asset_cost": 690000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        771.5297241210938,
+        1385.7789306640625,
+        1057.132080078125,
+        1490.2691650390625
+      ],
+      "conf": 0.7871469259262085
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        842.5130004882812,
+        1345.1884765625,
+        1019.0818481445312,
+        1524.588134765625
+      ],
+      "conf": 0.932475745677948
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.720; VLM logprob=-0.190; please verify",
+  "vlm_conf_logprob": -0.19015488637754718
+}

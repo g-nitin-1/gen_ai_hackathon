@@ -1,0 +1,29 @@
+{
+  "doc_id": "172927528_pg22",
+  "fields": {
+    "dealer_name": "YASH TRACTORS",
+    "model_name": "RX 32 BAAGBAN",
+    "horse_power": 32,
+    "asset_cost": 620000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1011.75,
+        1376.0,
+        1169.25,
+        1483.5
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        944.25,
+        1296.0,
+        1174.25,
+        1506.0
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.799; VLM logprob=-0.016; please verify"
+}

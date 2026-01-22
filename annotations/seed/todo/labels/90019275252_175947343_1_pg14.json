@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019275252_175947343_1_pg14",
+  "fields": {
+    "dealer_name": "New Holland Agriculture Machinery",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 6580115,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        448,
+        1356,
+        565,
+        1500
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

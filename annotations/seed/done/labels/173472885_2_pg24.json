@@ -1,0 +1,29 @@
+{
+  "doc_id": "173472885_2_pg24",
+  "fields": {
+    "dealer_name": "Preet Tractors",
+    "model_name": "New Preet 351",
+    "horse_power": 50,
+    "asset_cost": 720000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        809.6666666666667,
+        1296.1666666666667,
+        1039.6666666666667,
+        1356.1666666666667
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        878.0000000000001,
+        1271.1666666666667,
+        1056.3333333333333,
+        1446.1666666666667
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.711; VLM logprob=-0.186; please verify"
+}

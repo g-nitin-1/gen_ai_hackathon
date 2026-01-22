@@ -1,0 +1,32 @@
+{
+  "doc_id": "173688640_1_pg45",
+  "fields": {
+    "dealer_name": "Guru Kirpa Automobiles",
+    "model_name": "SWARAJ 855 GXR IPTO",
+    "horse_power": null,
+    "asset_cost": 825000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        534.5045776367188,
+        1111.3824462890625,
+        741.843017578125,
+        1284.76513671875
+      ],
+      "conf": 0.846163272857666
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        550.2786865234375,
+        1122.031005859375,
+        740.7456665039062,
+        1315.335205078125
+      ],
+      "conf": 0.9408015608787537
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.787; VLM logprob=-0.091; please verify",
+  "vlm_conf_logprob": -0.09099531380052817
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019355736_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "YOG TRACTERS",
+    "model_name": "SONALIKA DI 745 III POWER PLUS 2WD",
+    "horse_power": 50,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        860.577880859375,
+        1290.8546142578125,
+        1041.22509765625,
+        1426.8966064453125
+      ],
+      "conf": 0.8566460609436035
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        861.1696166992188,
+        1289.6690673828125,
+        1051.8140869140625,
+        1463.319091796875
+      ],
+      "conf": 0.9474452137947083
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.804; VLM logprob=-0.107; please verify",
+  "vlm_conf_logprob": -0.10682365739813107
+}

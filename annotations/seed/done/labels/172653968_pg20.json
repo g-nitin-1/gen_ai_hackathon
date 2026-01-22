@@ -1,0 +1,31 @@
+{
+  "doc_id": "172653968_pg20",
+  "fields": {
+    "dealer_name": "M. Saras Evolution",
+    "model_name": "Farmtrac - 30",
+    "horse_power": 30,
+    "asset_cost": 690000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        921.8242797851562,
+        1307.7705078125,
+        1059.8958740234375,
+        1380.1446533203125
+      ],
+      "conf": 0.8831878304481506
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        892.1655883789062,
+        1251.532470703125,
+        1070.3236083984375,
+        1422.52734375
+      ],
+      "conf": 0.9619508981704712
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.845; VLM logprob=-0.056; please verify"
+}

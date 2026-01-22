@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019035429_1_v1_pg2",
+  "fields": {
+    "dealer_name": "'s Offered Price:- Rs.923637/-",
+    "model_name": "744 FE 4X4N1",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        146,
+        1661,
+        1040,
+        1671
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "172826770_1_pg14",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        946,
+        1012,
+        1050,
+        1044
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        861,
+        849,
+        1113,
+        1012
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

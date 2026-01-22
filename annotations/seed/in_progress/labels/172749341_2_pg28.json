@@ -1,0 +1,32 @@
+{
+  "doc_id": "172749341_2_pg28",
+  "fields": {
+    "dealer_name": "M. Vikas Agencies",
+    "model_name": "SONALIKA INTERNATIONAL 795 DI COMPANY STAR SPECIFICATION MUGGER",
+    "horse_power": 50,
+    "asset_cost": 780000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        873.198974609375,
+        1333.37451171875,
+        1128.8929443359375,
+        1457.96923828125
+      ],
+      "conf": 0.7218058109283447
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        970.5122680664062,
+        1320.253173828125,
+        1131.876953125,
+        1477.74853515625
+      ],
+      "conf": 0.9454658627510071
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.667; VLM logprob=-0.299; please verify",
+  "vlm_conf_logprob": -0.2991326835553348
+}

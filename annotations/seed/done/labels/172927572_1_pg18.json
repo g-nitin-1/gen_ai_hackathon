@@ -1,0 +1,32 @@
+{
+  "doc_id": "172927572_1_pg18",
+  "fields": {
+    "dealer_name": "Dharani Motors",
+    "model_name": "Mahindra Tractor 585 YUW TECH+ 4WD",
+    "horse_power": 49,
+    "asset_cost": 1050000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        967.7644653320312,
+        1312.00927734375,
+        1102.544921875,
+        1385.9991455078125
+      ],
+      "conf": 0.8649039268493652
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        951.17041015625,
+        1309.0430908203125,
+        1108.03857421875,
+        1454.9959716796875
+      ],
+      "conf": 0.9462670087814331
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.811; VLM logprob=-0.083; please verify",
+  "vlm_conf_logprob": -0.08276881393545864
+}

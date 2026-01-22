@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019597614_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "3630 TP _ HP 5S)",
+    "horse_power": null,
+    "asset_cost": 23742005955,
+    "signature": {
+      "present": true,
+      "bbox": [
+        180,
+        1286,
+        1137,
+        1337
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        931,
+        1342,
+        1145,
+        1569
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

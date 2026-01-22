@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019712591_1_v1_pg1",
+  "fields": {
+    "dealer_name": "for JOHN DEERE India Pvt. Ltd",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 282605002764,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        952,
+        1400,
+        1078,
+        1485
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

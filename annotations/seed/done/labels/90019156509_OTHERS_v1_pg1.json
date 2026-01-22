@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019156509_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "VIRAJ AGROTECH",
+    "model_name": "MF9500",
+    "horse_power": 50,
+    "asset_cost": 880000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        779.4226684570312,
+        1378.41162109375,
+        998.611572265625,
+        1513.415771484375
+      ],
+      "conf": 0.9285098910331726
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        863.261962890625,
+        1346.9615478515625,
+        1010.63525390625,
+        1499.8382568359375
+      ],
+      "conf": 0.9441817998886108
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.873; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.029527336947626208
+}

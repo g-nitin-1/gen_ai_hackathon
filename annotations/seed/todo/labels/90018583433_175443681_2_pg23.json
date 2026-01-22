@@ -1,0 +1,24 @@
+{
+  "doc_id": "90018583433_175443681_2_pg23",
+  "fields": {
+    "dealer_name": "'s Offered Price:- Rs.911769/-",
+    "model_name": "DI-745 Ul HDM+ 4WD",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        73,
+        1605,
+        256,
+        1623
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

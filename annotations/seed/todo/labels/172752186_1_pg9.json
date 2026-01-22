@@ -1,0 +1,24 @@
+{
+  "doc_id": "172752186_1_pg9",
+  "fields": {
+    "dealer_name": "of Mahindra Ltd.(M&M). Our relationship with",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        811,
+        1165,
+        1051,
+        1338
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

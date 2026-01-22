@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019597614_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Sharma Tractors",
+    "model_name": "3630 TY",
+    "horse_power": 55,
+    "asset_cost": 870000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        992.6115112304688,
+        1341.5098876953125,
+        1104.9857177734375,
+        1548.09228515625
+      ],
+      "conf": 0.743445098400116
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        958.5912475585938,
+        1355.3968505859375,
+        1130.8018798828125,
+        1554.7235107421875
+      ],
+      "conf": 0.9191014766693115
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.663; VLM logprob=-0.033; please verify",
+  "vlm_conf_logprob": -0.03334565520134379
+}

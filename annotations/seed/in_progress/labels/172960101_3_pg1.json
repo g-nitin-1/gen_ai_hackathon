@@ -1,0 +1,32 @@
+{
+  "doc_id": "172960101_3_pg1",
+  "fields": {
+    "dealer_name": "Nayak Auto Care",
+    "model_name": "EICHER YARCOULD 242",
+    "horse_power": 25,
+    "asset_cost": 550000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        916.2020874023438,
+        1249.076171875,
+        1051.316162109375,
+        1326.8524169921875
+      ],
+      "conf": 0.7293161153793335
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        858.6558227539062,
+        1180.923095703125,
+        1064.6273193359375,
+        1386.748046875
+      ],
+      "conf": 0.9511723518371582
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.680; VLM logprob=-0.178; please verify",
+  "vlm_conf_logprob": -0.17756669085448024
+}

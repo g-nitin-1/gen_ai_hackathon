@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019055868_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "ISHWAR MOTORS",
+    "model_name": "DIGITRAC PP43iE1",
+    "horse_power": 50,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        3513.090909090909,
+        4389.272727272727,
+        4094.909090909091,
+        4762.0
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3394.909090909091,
+        4225.636363636364,
+        4022.181818181818,
+        4807.454545454546
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.873; VLM logprob=0.000; please verify"
+}

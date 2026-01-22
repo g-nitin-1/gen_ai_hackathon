@@ -1,0 +1,29 @@
+{
+  "doc_id": "173779463_1_pg5",
+  "fields": {
+    "dealer_name": "Ishwar Motors",
+    "model_name": "DIGITRAC PP 43i E1",
+    "horse_power": 47,
+    "asset_cost": 600000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        932.1929824561403,
+        1223.7543859649122,
+        1086.5789473684208,
+        1313.2280701754385
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        902.3684210526314,
+        1174.6315789473683,
+        1069.0350877192982,
+        1334.280701754386
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.841; VLM logprob=-0.274; please verify"
+}

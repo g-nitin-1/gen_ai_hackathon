@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018914372_175263381_1_pg18",
+  "fields": {
+    "dealer_name": "Shree Sai Automobiles",
+    "model_name": "Farmtrac 60 PowerMaxx",
+    "horse_power": 55,
+    "asset_cost": 830000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        824.1292724609375,
+        1185.85791015625,
+        956.8401489257812,
+        1302.1162109375
+      ],
+      "conf": 0.8520455956459045
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        771.3521728515625,
+        1156.8470458984375,
+        963.160400390625,
+        1331.875
+      ],
+      "conf": 0.9586726427078247
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.811; VLM logprob=-0.052; please verify",
+  "vlm_conf_logprob": -0.05240129916895016
+}

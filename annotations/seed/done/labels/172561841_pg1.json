@@ -1,0 +1,32 @@
+{
+  "doc_id": "172561841_pg1",
+  "fields": {
+    "dealer_name": "THE ODISHA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "DI-745 III HDM+4WD",
+    "horse_power": 50,
+    "asset_cost": 911769,
+    "signature": {
+      "present": true,
+      "bbox": [
+        837.0286865234375,
+        1264.9066162109375,
+        1079.0540771484375,
+        1407.1219482421875
+      ],
+      "conf": 0.7583512663841248
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        831.771240234375,
+        1259.9119873046875,
+        1064.0352783203125,
+        1494.39208984375
+      ],
+      "conf": 0.9522705078125
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.711; VLM logprob=-0.028; please verify",
+  "vlm_conf_logprob": -0.027528295008447237
+}

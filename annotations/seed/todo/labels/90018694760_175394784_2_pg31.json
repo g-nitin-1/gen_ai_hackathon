@@ -1,0 +1,24 @@
+{
+  "doc_id": "90018694760_175394784_2_pg31",
+  "fields": {
+    "dealer_name": "- EICHER TRACTORS (Sales, Service and Spares)",
+    "model_name": "—_ BEE of _ 3S __ HP. Tractor z",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        983,
+        1066,
+        1151,
+        1086
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "172960101_2_pg34",
+  "fields": {
+    "dealer_name": "NAYAK AUTO CARE",
+    "model_name": "EICHER 242 X-trac",
+    "horse_power": 25,
+    "asset_cost": 550000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        542.5925925925926,
+        1279.8148148148148,
+        794.4444444444443,
+        1390.9259259259259
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        661.1111111111111,
+        1209.4444444444443,
+        864.8148148148148,
+        1416.8518518518517
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.847; VLM logprob=0.000; please verify"
+}

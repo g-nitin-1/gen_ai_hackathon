@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019397354_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Sandeep Eicher",
+    "model_name": "EICHER 333-3 Cylinder Super DI",
+    "horse_power": 36,
+    "asset_cost": 720000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        955.4166666666666,
+        1503.4583333333333,
+        1189.0,
+        1630.4948830409357
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        936.6666666666666,
+        1455.5416666666667,
+        1138.75,
+        1659.7083333333333
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=0.98; please verify"
+}

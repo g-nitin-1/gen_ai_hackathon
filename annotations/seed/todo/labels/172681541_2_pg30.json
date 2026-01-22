@@ -1,0 +1,29 @@
+{
+  "doc_id": "172681541_2_pg30",
+  "fields": {
+    "dealer_name": "for V.S.T. ZETOR & V.S.T. TILLERS TRACTORS LTD.",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        67,
+        1273,
+        265,
+        1290
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        888,
+        1283,
+        1098,
+        1455
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

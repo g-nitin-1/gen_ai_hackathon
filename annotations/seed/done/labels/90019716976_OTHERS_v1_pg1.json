@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019716976_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "CHANDRA AGENCIES",
+    "model_name": "EICHER 551",
+    "horse_power": 49,
+    "asset_cost": 790000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1794.7692307692307,
+        2121.4358974358975,
+        2266.5641025641025,
+        2336.8205128205127
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1733.2307692307693,
+        2065.025641025641,
+        2087.076923076923,
+        2408.6153846153843
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=1.865; please verify"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018790122_175101938_1_pg7",
+  "fields": {
+    "dealer_name": "Vishwakarma Kushi Seva Kendra",
+    "model_name": "Sonalika International DI 55 OIB PS Multispeed Suttel tack",
+    "horse_power": 50,
+    "asset_cost": 960000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        808.8333333333334,
+        1193.5,
+        907.1666666666667,
+        1265.1666666666665
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        785.5,
+        1160.1666666666665,
+        943.8333333333335,
+        1313.5
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.824; VLM logprob=-0.180; please verify"
+}

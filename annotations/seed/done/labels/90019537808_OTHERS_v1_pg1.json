@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019537808_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SHIVASHANKAR MARKETING",
+    "model_name": "NEW HOLLAND 3630 SUPER PLUS",
+    "horse_power": 49.5,
+    "asset_cost": 970000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        839.0366821289062,
+        1203.6658935546875,
+        968.4814453125,
+        1357.1170654296875
+      ],
+      "conf": 0.7742090225219727
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        805.9251098632812,
+        1201.8203125,
+        1004.3103637695312,
+        1407.8079833984375
+      ],
+      "conf": 0.9705390930175781
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.745; VLM logprob=-0.031; please verify",
+  "vlm_conf_logprob": -0.030588997421801878
+}

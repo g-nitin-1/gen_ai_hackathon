@@ -1,0 +1,29 @@
+{
+  "doc_id": "172930953_3_pg2",
+  "fields": {
+    "dealer_name": "Karsa Tractors",
+    "model_name": "Mahindra 415 DI Yuvo Tech Plus",
+    "horse_power": 42,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        826.1764705882352,
+        1471.6862745098038,
+        1024.2156862745098,
+        1589.3333333333333
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        804.6078431372549,
+        1389.3333333333333,
+        1030.0980392156862,
+        1606.9803921568628
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.870; VLM logprob=0.000; please verify"
+}

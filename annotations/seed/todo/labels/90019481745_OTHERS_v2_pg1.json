@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019481745_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": ": MAHINDRA & MAHINDRA TRACTORS .",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 8073547218,
+    "signature": {
+      "present": true,
+      "bbox": [
+        220,
+        1144,
+        706,
+        1208
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        806,
+        1373,
+        1011,
+        1554
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

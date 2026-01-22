@@ -1,0 +1,29 @@
+{
+  "doc_id": "172864137_2_pg27",
+  "fields": {
+    "dealer_name": "SABAR AGROTECH",
+    "model_name": "TAFE MF 1035 DF",
+    "horse_power": 35,
+    "asset_cost": 720000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        928.9545454545454,
+        1244.0,
+        1178.9545454545455,
+        1375.8181818181818
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        928.9545454545454,
+        1244.0,
+        1124.409090909091,
+        1434.9090909090908
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.879; VLM logprob=0.000; please verify"
+}

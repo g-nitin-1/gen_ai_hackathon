@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018407639_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "SUHAS AUTOMOTIVES",
+    "model_name": "Mahindra Arjun 555",
+    "horse_power": 50,
+    "asset_cost": 875000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        850.088623046875,
+        1148.1385498046875,
+        1031.77978515625,
+        1281.8870849609375
+      ],
+      "conf": 0.8303723335266113
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        842.1439208984375,
+        1140.508544921875,
+        1051.748291015625,
+        1338.953125
+      ],
+      "conf": 0.9657995104789734
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.796; VLM logprob=-0.047; please verify",
+  "vlm_conf_logprob": -0.04699844302469171
+}

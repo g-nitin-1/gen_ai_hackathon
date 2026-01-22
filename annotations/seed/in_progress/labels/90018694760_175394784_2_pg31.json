@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018694760_175394784_2_pg31",
+  "fields": {
+    "dealer_name": "M/s GAYATRI TRACTORS",
+    "model_name": "368",
+    "horse_power": 38,
+    "asset_cost": 650000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        830.4336547851562,
+        1296.81201171875,
+        1024.0849609375,
+        1387.9024658203125
+      ],
+      "conf": 0.7314575910568237
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        877.4151000976562,
+        1247.63916015625,
+        1056.445556640625,
+        1419.1011962890625
+      ],
+      "conf": 0.9422218799591064
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.674; VLM logprob=-0.022; please verify",
+  "vlm_conf_logprob": -0.021520490688463668
+}

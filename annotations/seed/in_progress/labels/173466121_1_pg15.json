@@ -1,0 +1,32 @@
+{
+  "doc_id": "173466121_1_pg15",
+  "fields": {
+    "dealer_name": "Powerwal Motors",
+    "model_name": "SONALIKA INTERNATIONAL TRACTORS DI-740 III",
+    "horse_power": 42,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        928.461181640625,
+        1343.9901123046875,
+        1140.229248046875,
+        1471.5516357421875
+      ],
+      "conf": 0.8234670758247375
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        940.6128540039062,
+        1321.8677978515625,
+        1147.209716796875,
+        1489.520751953125
+      ],
+      "conf": 0.8403377532958984
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.664; VLM logprob=-0.070; please verify",
+  "vlm_conf_logprob": -0.07034465163223501
+}

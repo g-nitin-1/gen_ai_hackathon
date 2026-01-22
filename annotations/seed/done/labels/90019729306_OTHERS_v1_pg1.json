@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019729306_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Bhavya Motors",
+    "model_name": "NEW HOLLAND 3230 TX 2WD",
+    "horse_power": 42,
+    "asset_cost": 730000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        897.31494140625,
+        1397.1474609375,
+        1100.8170166015625,
+        1519.154296875
+      ],
+      "conf": 0.8652303218841553
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        893.4427490234375,
+        1412.5811767578125,
+        1052.5142822265625,
+        1563.27587890625
+      ],
+      "conf": 0.9010550379753113
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.766; VLM logprob=-0.055; please verify",
+  "vlm_conf_logprob": -0.05453346482574872
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018919209_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Starline Tractors Pvt. Ltd.",
+    "model_name": "Massey Ferguson MF 241 DI",
+    "horse_power": 42,
+    "asset_cost": 660000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        717.7777777777778,
+        1423.1944444444446,
+        919.1666666666667,
+        1537.0833333333333
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        737.2222222222223,
+        1399.5833333333333,
+        898.3333333333334,
+        1566.25
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.793; VLM logprob=-0.340; please verify"
+}

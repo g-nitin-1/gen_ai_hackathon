@@ -1,0 +1,32 @@
+{
+  "doc_id": "172685774_2_pg31",
+  "fields": {
+    "dealer_name": "JAY RANCHHOD TRACTOR",
+    "model_name": "PowerTrac 434 DS Plus",
+    "horse_power": 39,
+    "asset_cost": 722800,
+    "signature": {
+      "present": true,
+      "bbox": [
+        990.3058471679688,
+        1356.4053955078125,
+        1075.411376953125,
+        1427.20703125
+      ],
+      "conf": 0.8606788516044617
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        941.1984252929688,
+        1307.1007080078125,
+        1097.027099609375,
+        1460.9583740234375
+      ],
+      "conf": 0.9404852986335754
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.801; VLM logprob=-0.054; please verify",
+  "vlm_conf_logprob": -0.054062295310377165
+}

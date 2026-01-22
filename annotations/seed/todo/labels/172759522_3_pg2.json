@@ -1,0 +1,19 @@
+{
+  "doc_id": "172759522_3_pg2",
+  "fields": {
+    "dealer_name": "EICHER TRACTOR (Salese Service e Spares )",
+    "model_name": "NUMDET ........-.....:sseeeecineesens",
+    "horse_power": null,
+    "asset_cost": 2072025,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

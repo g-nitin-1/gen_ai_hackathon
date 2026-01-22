@@ -1,0 +1,29 @@
+{
+  "doc_id": "172921150_3_pg3",
+  "fields": {
+    "dealer_name": "EICHER TRACTORS IMPLEMENT, SPARES & TRACTOR TRAILER",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        142,
+        1181,
+        222,
+        1206
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        736,
+        1211,
+        933,
+        1380
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

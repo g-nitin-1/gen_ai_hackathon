@@ -1,0 +1,24 @@
+{
+  "doc_id": "173678841_1_pg20",
+  "fields": {
+    "dealer_name": ":- SONALICA International Tractor & Herro Sowing",
+    "model_name": "<DI-3.5..0TB PS 39-HP Rs. . 2 4VUOLOL —",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        798,
+        1229,
+        924,
+        1269
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019355085_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SUHAS AUTOMOTIVES",
+    "model_name": "Mahindra 585 YUVO TECH",
+    "horse_power": 45,
+    "asset_cost": 770000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        921.3551025390625,
+        1234.4019775390625,
+        1096.509521484375,
+        1396.8045654296875
+      ],
+      "conf": 0.7470299601554871
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        890.1117553710938,
+        1236.869384765625,
+        1104.9283447265625,
+        1455.5611572265625
+      ],
+      "conf": 0.9299521446228027
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.677; VLM logprob=-0.070; please verify",
+  "vlm_conf_logprob": -0.07047041501824935
+}

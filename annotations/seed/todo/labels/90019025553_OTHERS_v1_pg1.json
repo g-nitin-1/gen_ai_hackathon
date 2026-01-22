@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019025553_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": ": MAHINDRA & MAHINDRA LTD. FARM EQUIPMENT SECTOR",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        217,
+        1657,
+        945,
+        1677
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

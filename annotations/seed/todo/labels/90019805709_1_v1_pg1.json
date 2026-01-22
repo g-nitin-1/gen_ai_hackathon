@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019805709_1_v1_pg1",
+  "fields": {
+    "dealer_name": "for: Sonalika Tractors",
+    "model_name": ": SonaliKKa Wes BOs",
+    "horse_power": null,
+    "asset_cost": 33385216,
+    "signature": {
+      "present": true,
+      "bbox": [
+        166,
+        1192,
+        1103,
+        1248
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        879,
+        1246,
+        1055,
+        1419
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,19 @@
+{
+  "doc_id": "90019538958_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "PRAKASH AGRO CARE",
+    "model_name": "MAHINDRA OJA 2130 4 WD",
+    "horse_power": 30.0,
+    "asset_cost": 555000,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "text_score=1.988; please verify hp/cost"
+}

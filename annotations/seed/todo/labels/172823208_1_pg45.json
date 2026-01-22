@@ -1,0 +1,19 @@
+{
+  "doc_id": "172823208_1_pg45",
+  "fields": {
+    "dealer_name": "S : MAHINDRA & MAHINDRA TRACTORS, SPARES & IMPLEMENTS",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 2918991,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

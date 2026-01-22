@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018455419_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "AJAY TRACTORS AND MOTORS",
+    "model_name": "New Holland Ford 3600-2",
+    "horse_power": 50,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        913.000732421875,
+        1362.9371337890625,
+        1126.212646484375,
+        1469.58056640625
+      ],
+      "conf": 0.8078613877296448
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        900.3512573242188,
+        1359.2752685546875,
+        1070.568359375,
+        1516.5626220703125
+      ],
+      "conf": 0.9486905336380005
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.757; VLM logprob=-0.025; please verify",
+  "vlm_conf_logprob": -0.024516550150855573
+}

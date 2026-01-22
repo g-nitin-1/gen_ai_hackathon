@@ -1,0 +1,24 @@
+{
+  "doc_id": "172723526_1_pg17",
+  "fields": {
+    "dealer_name": "TAFE Massey Ferguson Tractors",
+    "model_name": "Tractoras per",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1011,
+        1296,
+        1049,
+        1344
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

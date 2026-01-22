@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018869965_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Starline Tractors Pvt. Ltd.",
+    "model_name": "MF 241 DI M",
+    "horse_power": 42,
+    "asset_cost": 690000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        895.5587158203125,
+        1894.2725830078125,
+        1228.32470703125,
+        2014.932373046875
+      ],
+      "conf": 0.7995749711990356
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        977.7737426757812,
+        1841.273193359375,
+        1179.035400390625,
+        2051.743408203125
+      ],
+      "conf": 0.9333901405334473
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.733; VLM logprob=-0.241; please verify",
+  "vlm_conf_logprob": -0.2407826426613857
+}

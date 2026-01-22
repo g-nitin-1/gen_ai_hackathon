@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018721003_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Shubham Motors And Tractors",
+    "model_name": "JOHN DEERE 5210",
+    "horse_power": 50,
+    "asset_cost": 900000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        958.7804878048781,
+        1383.4634146341464,
+        1041.7073170731705,
+        1461.5121951219512
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        902.6829268292682,
+        1337.1219512195123,
+        1085.6097560975609,
+        1498.09756097561
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

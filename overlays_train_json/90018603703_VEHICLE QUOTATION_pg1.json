@@ -1,0 +1,30 @@
+{
+  "doc_id": "90018603703_VEHICLE QUOTATION_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        461.2400817871094,
+        1131.5086669921875,
+        462.7171936035156,
+        1131.656005859375
+      ],
+      "conf": 0.9999998807907104
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        660.6021118164062,
+        690.5899047851562,
+        662.1985473632812,
+        690.8921508789062
+      ],
+      "conf": 1.0
+    }
+  },
+  "source": "vlm+owlv2@owlv2_custom_out"
+}

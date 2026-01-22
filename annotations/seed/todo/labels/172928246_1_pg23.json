@@ -1,0 +1,24 @@
+{
+  "doc_id": "172928246_1_pg23",
+  "fields": {
+    "dealer_name": "",
+    "model_name": ". £.1...0U860.50, NAT... HP Range I Qrunrnrne Vernal sare RE COCOES —",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        162,
+        1177,
+        271,
+        1246
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

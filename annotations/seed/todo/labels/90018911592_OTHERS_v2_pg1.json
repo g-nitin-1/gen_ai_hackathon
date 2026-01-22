@@ -1,0 +1,19 @@
+{
+  "doc_id": "90018911592_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "for: Sonalika Tractors",
+    "model_name": "D|)-—42Rxo0IB",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

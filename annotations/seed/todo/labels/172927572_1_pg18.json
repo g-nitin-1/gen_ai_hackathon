@@ -1,0 +1,29 @@
+{
+  "doc_id": "172927572_1_pg18",
+  "fields": {
+    "dealer_name": "FOR MAHINDRA TRACTORS AND FARM EQUIPMENTS",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        231,
+        1458,
+        980,
+        1499
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        956,
+        1310,
+        1106,
+        1453
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

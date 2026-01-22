@@ -1,0 +1,24 @@
+{
+  "doc_id": "172656573_1_pg4",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "Mame: 185, SC, Ft \" 1 12 % 760,000.08",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        946,
+        1094,
+        1116,
+        1252
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

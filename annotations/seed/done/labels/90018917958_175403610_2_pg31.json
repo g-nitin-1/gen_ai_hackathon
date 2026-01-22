@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018917958_175403610_2_pg31",
+  "fields": {
+    "dealer_name": "SHAKTI MOTORS, BETUL",
+    "model_name": "NEW HOLLAND FORD TRACTOR 360D-2",
+    "horse_power": 49.5,
+    "asset_cost": 802000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        603.6575342465753,
+        1211.931506849315,
+        761.1917808219179,
+        1283.1643835616437
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        570.7808219178082,
+        1168.0958904109589,
+        740.6438356164383,
+        1339.3287671232877
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.709; VLM logprob=-0.054; please verify"
+}

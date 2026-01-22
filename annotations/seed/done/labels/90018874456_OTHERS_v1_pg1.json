@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018874456_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Rathi Motors (Shujalpur) Pvt. Ltd.",
+    "model_name": "Mahindra 585 XP PLUS",
+    "horse_power": null,
+    "asset_cost": 770000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        906.3975219726562,
+        1429.4423828125,
+        1089.2064208984375,
+        1554.797607421875
+      ],
+      "conf": 0.8347035646438599
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        916.1661987304688,
+        1376.1407470703125,
+        1138.3876953125,
+        1594.14306640625
+      ],
+      "conf": 0.958351194858551
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.793; VLM logprob=-0.055; please verify",
+  "vlm_conf_logprob": -0.05453605814450271
+}

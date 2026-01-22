@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018736250_175197828_2_pg31",
+  "fields": {
+    "dealer_name": "JEEVAN & COMPANY",
+    "model_name": "SONALIKA DI 745 III POWER PLUS 2 WD",
+    "horse_power": 50,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        925.2317073170731,
+        1483.1951219512196,
+        1013.0365853658535,
+        1522.219512195122
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        805.719512195122,
+        1453.9268292682925,
+        1052.0609756097563,
+        1573.4390243902437
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

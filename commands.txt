@@ -1,0 +1,35 @@
+# IDFC GenAI Workflow Commands - Batch (185 -> 200 images)
+# FOCUS: STRONGER models for BOTH text AND segmentation
+# TOP 30 images per batch
+# Run these commands one by one in order
+# ============================================================
+
+# STEP 1: Move completed 15 annotations to done
+python3 move_to_done.py --clear-in-progress
+
+# STEP 2: Rebuild VLM training data
+python3 prepare_vlm_jsonl.py
+
+# STEP 3: Train STRONGER VLM with 200 images (more epochs, higher LoRA rank)
+python3 vlm_lora_train_v2.py --model-path models/qwen2.5-vl-7b-instruct --train-file data/vlm_gold.jsonl --output-dir vlm_lora_out --batch-size 1 --accum 8 --epochs 7 --lr 1e-4 --lora-r 64 --lora-alpha 128 --device 0 --load-4bit
+
+# STEP 4: Rebuild YOLO dataset
+python3 build_yolo_dataset.py
+
+# STEP 5: Train STRONGER YOLO v7 with 200 images (medium model + higher resolution)
+yolo detect train data=yolo_data/data.yaml model=yolo11m.pt epochs=200 imgsz=1024 batch=2 device=0 project=runs/detect name=stamp_sig_v7 patience=25
+
+# STEP 6: Re-run YOLO inference on all remaining images
+python3 workflow_stage_top15.py --device 0 --det-weights runs/detect/stamp_sig_v7/weights/best.pt
+
+# STEP 7: Stage next TOP 30 with NEW VLM LoRA
+python3 stage_next_top15_v2.py --device 0 --use-lora --top-n 30
+
+# STEP 8: Backup labels before annotation
+python3 snapshot_labels.py
+
+# STEP 9: Annotate with labelme
+labelme annotations/seed/in_progress/images/ --labels signature,stamp --output annotations/seed/in_progress/labels/
+
+# STEP 10: Merge labelme annotations back
+python3 convert_labelme_merge.py --overlays

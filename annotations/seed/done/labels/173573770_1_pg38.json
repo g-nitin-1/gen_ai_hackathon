@@ -1,0 +1,32 @@
+{
+  "doc_id": "173573770_1_pg38",
+  "fields": {
+    "dealer_name": "SHIVASHANKAR MARKETING",
+    "model_name": "3630 Super Plus",
+    "horse_power": 49.5,
+    "asset_cost": 1000000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        891.8653564453125,
+        1239.0313720703125,
+        1085.333984375,
+        1348.186279296875
+      ],
+      "conf": 0.7987902760505676
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        862.60888671875,
+        1235.5758056640625,
+        1037.2158203125,
+        1406.9405517578125
+      ],
+      "conf": 0.9514136910438538
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.750; VLM logprob=-0.036; please verify",
+  "vlm_conf_logprob": -0.036386842867806746
+}

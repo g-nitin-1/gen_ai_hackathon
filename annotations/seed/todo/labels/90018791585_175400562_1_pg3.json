@@ -1,0 +1,24 @@
+{
+  "doc_id": "90018791585_175400562_1_pg3",
+  "fields": {
+    "dealer_name": "-TAFE & MASSEY - FERGUSON Tractors, Parts and Implements",
+    "model_name": "MF#23S5° OF 2S~ HP MANUFACTURED | p, $04,464 +25",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        587,
+        1425,
+        644,
+        1457
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

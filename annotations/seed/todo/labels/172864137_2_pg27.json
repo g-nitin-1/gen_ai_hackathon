@@ -1,0 +1,24 @@
+{
+  "doc_id": "172864137_2_pg27",
+  "fields": {
+    "dealer_name": "Sales Service & Spare Parts",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        926,
+        1266,
+        1174,
+        1432
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018937344_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Kothari",
+    "model_name": "DIGITNAC PP 43i",
+    "horse_power": 50,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        3412.74658203125,
+        6053.04638671875,
+        4252.9736328125,
+        6557.98681640625
+      ],
+      "conf": 0.7483503222465515
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3575.4619140625,
+        6004.1181640625,
+        4219.73193359375,
+        6696.0224609375
+      ],
+      "conf": 0.9258160591125488
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.674; VLM logprob=-0.081; please verify",
+  "vlm_conf_logprob": -0.08060244585414517
+}

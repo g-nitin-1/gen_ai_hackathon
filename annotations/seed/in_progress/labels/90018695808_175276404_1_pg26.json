@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018695808_175276404_1_pg26",
+  "fields": {
+    "dealer_name": "AADHI BHAGAVAN TRACTORS AND IMPLEMENTS",
+    "model_name": "4515-2WD",
+    "horse_power": 48,
+    "asset_cost": 880000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        119.59669494628906,
+        60.17607879638672,
+        233.68153381347656,
+        153.90457153320312
+      ],
+      "conf": 0.7469282746315002
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        878.5245971679688,
+        1307.3287353515625,
+        1058.8614501953125,
+        1481.9378662109375
+      ],
+      "conf": 0.9290477633476257
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.676; VLM logprob=-0.030; please verify",
+  "vlm_conf_logprob": -0.029889528807737976
+}

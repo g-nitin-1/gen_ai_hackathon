@@ -1,0 +1,29 @@
+{
+  "doc_id": "173401982_1_pg51",
+  "fields": {
+    "dealer_name": "The Odisha Agro Industries Corporation Ltd.",
+    "model_name": "Escorts Ltd EURO 42",
+    "horse_power": 45,
+    "asset_cost": 734722.0,
+    "signature": {
+      "present": true,
+      "bbox": [
+        815.5,
+        1365.0,
+        1010.5,
+        1487.5
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        718.0,
+        1432.5,
+        1045.5,
+        1542.5
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=0.98; please verify"
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173481223_2_pg25",
+  "fields": {
+    "dealer_name": "Shiv Shakti Tractors",
+    "model_name": "Mf 241 DI SONA",
+    "horse_power": 42,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        906.8032836914062,
+        1307.0152587890625,
+        1188.4273681640625,
+        1386.7886962890625
+      ],
+      "conf": 0.7866402864456177
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        937.2988891601562,
+        1271.2391357421875,
+        1102.35400390625,
+        1431.718505859375
+      ],
+      "conf": 0.8980008959770203
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.685; VLM logprob=-0.099; please verify",
+  "vlm_conf_logprob": -0.09864341748513307
+}

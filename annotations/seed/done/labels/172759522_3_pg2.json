@@ -1,0 +1,31 @@
+{
+  "doc_id": "172759522_3_pg2",
+  "fields": {
+    "dealer_name": "KHODIYAR FARM EQUIPMENTS",
+    "model_name": "EICHER 255",
+    "horse_power": 28,
+    "asset_cost": 328000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        878.1652221679688,
+        1255.8355712890625,
+        1100.91748046875,
+        1405.757080078125
+      ],
+      "conf": 0.9614062309265137
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        943.9078369140625,
+        1212.985595703125,
+        1156.7138671875,
+        1423.91650390625
+      ],
+      "conf": 0.9007041454315186
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.862; VLM logprob=-0.036; please verify"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018923174_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M.Bancker Patil Tractors",
+    "model_name": "PowerTrac PT 439 PS",
+    "horse_power": 41,
+    "asset_cost": 635000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        975.8333333333334,
+        1459.5,
+        1155.8333333333333,
+        1547.8333333333335
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        842.5000000000001,
+        1451.1666666666667,
+        1017.5000000000001,
+        1612.8333333333335
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.797; VLM logprob=-0.176; please verify"
+}

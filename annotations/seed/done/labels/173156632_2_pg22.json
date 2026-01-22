@@ -1,0 +1,29 @@
+{
+  "doc_id": "173156632_2_pg22",
+  "fields": {
+    "dealer_name": "ISHWAR MOTORS",
+    "model_name": "P.T EURO 434 E21",
+    "horse_power": 39,
+    "asset_cost": 550000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        887.8571428571428,
+        1224.8571428571427,
+        1036.4285714285716,
+        1306.2857142857142
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        860.7142857142857,
+        1174.8571428571427,
+        1026.4285714285716,
+        1333.4285714285713
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.866; VLM logprob=0.000; please verify"
+}

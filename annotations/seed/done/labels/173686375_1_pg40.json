@@ -1,0 +1,32 @@
+{
+  "doc_id": "173686375_1_pg40",
+  "fields": {
+    "dealer_name": "Jeevan Traders",
+    "model_name": "PROMAXX-42-SEPS",
+    "horse_power": 42,
+    "asset_cost": 790000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        732.0506591796875,
+        1222.991455078125,
+        930.5386352539062,
+        1326.5594482421875
+      ],
+      "conf": 0.8564479351043701
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        718.2238159179688,
+        1168.7620849609375,
+        939.34765625,
+        1385.00341796875
+      ],
+      "conf": 0.9557172060012817
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.812; VLM logprob=-0.081; please verify",
+  "vlm_conf_logprob": -0.08092777284298336
+}

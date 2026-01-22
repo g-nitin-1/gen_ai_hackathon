@@ -1,0 +1,19 @@
+{
+  "doc_id": "90018816473_1_v1_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": ". 6/82. =(01.2.82...HP.... 2",
+    "horse_power": null,
+    "asset_cost": 94861,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

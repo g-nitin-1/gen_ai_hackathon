@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019616205_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "FOR Authorised Dealers",
+    "model_name": "39 XP414 43 60 6050",
+    "horse_power": null,
+    "asset_cost": 9414080132,
+    "signature": {
+      "present": true,
+      "bbox": [
+        3139,
+        5464,
+        3957,
+        5668
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3274,
+        5689,
+        3493,
+        5854
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

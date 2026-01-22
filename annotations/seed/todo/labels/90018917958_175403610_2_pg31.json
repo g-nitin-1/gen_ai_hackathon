@@ -1,0 +1,19 @@
+{
+  "doc_id": "90018917958_175403610_2_pg31",
+  "fields": {
+    "dealer_name": ": NEW HOLLAND Tractor (I) Pvt. Ltd.",
+    "model_name": ".SE.RD=.2m. Allxpantéoliowing Features :-",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018465649_175159546_1_pg5",
+  "fields": {
+    "dealer_name": "VIPIN MOTORS",
+    "model_name": "DIGITRAC PP 46 T",
+    "horse_power": 50,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        833.62646484375,
+        1134.0391845703125,
+        941.6237182617188,
+        1218.233154296875
+      ],
+      "conf": 0.9084962010383606
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        792.4130859375,
+        1089.8292236328125,
+        974.5501708984375,
+        1268.547607421875
+      ],
+      "conf": 0.962931215763092
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.871; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.05142026930561475
+}

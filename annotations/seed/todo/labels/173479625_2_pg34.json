@@ -1,0 +1,19 @@
+{
+  "doc_id": "173479625_2_pg34",
+  "fields": {
+    "dealer_name": "S OF EICHER TRACTORS, ENGINE & SPARES",
+    "model_name": "188, 242, 312, 333, 368, 380, 480",
+    "horse_power": null,
+    "asset_cost": 233304,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

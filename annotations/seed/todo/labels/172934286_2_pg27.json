@@ -1,0 +1,19 @@
+{
+  "doc_id": "172934286_2_pg27",
+  "fields": {
+    "dealer_name": "for John Deere India Pvt. Ltd. Surendranagar Dist",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 2493101,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

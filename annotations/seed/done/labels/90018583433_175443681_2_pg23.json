@@ -1,0 +1,27 @@
+{
+  "doc_id": "90018583433_175443681_2_pg23",
+  "fields": {
+    "dealer_name": "Directorate of Agriculture and Food Production",
+    "model_name": "International Tractors Limited DI-745 III HDM+ 4WD",
+    "horse_power": null,
+    "asset_cost": 911769,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.8329144716262817
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        548.4583129882812,
+        330.1416320800781,
+        659.2843017578125,
+        444.9486389160156
+      ],
+      "conf": 0.8948110342025757
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.728; VLM logprob=-0.047; please verify",
+  "vlm_conf_logprob": -0.04656364039604861
+}

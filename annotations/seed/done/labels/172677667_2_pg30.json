@@ -1,0 +1,29 @@
+{
+  "doc_id": "172677667_2_pg30",
+  "fields": {
+    "dealer_name": "Santosh MOTORS",
+    "model_name": "SWARAJ 735 FE",
+    "horse_power": 39.0,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        912.9565217391305,
+        1305.3478260869567,
+        1119.4782608695652,
+        1468.3913043478262
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        912.9565217391305,
+        1287.9565217391305,
+        1084.695652173913,
+        1468.3913043478262
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "text_score=1.993; please verify hp/cost"
+}

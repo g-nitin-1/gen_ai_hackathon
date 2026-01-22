@@ -1,0 +1,29 @@
+{
+  "doc_id": "173216984_2_pg34",
+  "fields": {
+    "dealer_name": "M/s. JASMAN TRACTORS",
+    "model_name": "YUVO TECH+ 405 DI",
+    "horse_power": 39,
+    "asset_cost": 796000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        956.9811320754717,
+        1314.566037735849,
+        1075.8490566037735,
+        1382.4905660377358
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        934.3396226415094,
+        1286.264150943396,
+        1075.8490566037735,
+        1429.6603773584907
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.676; VLM logprob=-0.050; please verify"
+}

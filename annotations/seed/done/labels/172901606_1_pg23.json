@@ -1,0 +1,29 @@
+{
+  "doc_id": "172901606_1_pg23",
+  "fields": {
+    "dealer_name": "BIDHAN TRACTORS",
+    "model_name": "SONALIKA DI 35",
+    "horse_power": 39,
+    "asset_cost": 560000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        671.0,
+        1347.0,
+        807.0,
+        1475.0
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        675.0,
+        1347.0,
+        863.0,
+        1527.0
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify"
+}

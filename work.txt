@@ -1,0 +1,42 @@
+
+Scenic OWL-ViT + COCO (signature/stamp) integration: remaining steps
+
+Context: Current Scenic repo lacks a COCO decoder/builder. Need to add one so OWL-ViT can train on owlv2_data/annotations.json + images.
+
+What’s done in this session:
+- Investigated Scenic code; found decoders only for VisualGenome, LVIS, Objects365. No create_coco_tf_record tool.
+- Identified DecodeCocoExample helper in image_ops.py that can be reused.
+
+Remaining to implement (next session):
+1) Add a COCO decoder class in scenic/projects/owl_vit/preprocessing/label_ops.py
+   - Class: DecodeCocoSigStamp(DecodeCocoExample)
+   - Uses get_label_map for a 2-class map: {0:'signature',1:'stamp'} (or build inline)
+   - Set is_promptable=True; add NEGATIVE_LABELS = [-1] to match others.
+
+2) Register decoder in DECODERS (input_pipeline.py)
+   - Add entry 'coco_sigstamp:0.0.1': label_ops.DecodeCocoSigStamp
+
+3) Provide a TFRecord/TFDS builder or export script
+   - Create a simple TFRecord writer under scenic/projects/owl_vit/tools/ (e.g., write_coco_sigstamp_tfrecord.py)
+   - It should read COCO JSON + images and write sharded TFRecords with features:
+     image/encoded (or image as bytes), image/id (int), objects/bbox (normalized [ymin,xmin,ymax,xmax]), objects/label (int), objects/id (int), objects/is_crowd (int, 0), objects/area (float).
+   - Normalize boxes from COCO (x,y,w,h) to [ymin,xmin,ymax,xmax]/[H,W].
+   - Write shards to /mnt/e/idfc_genai/owlv2_tfrecords/train-*.tfrecord (and val if desired).
+
+4) Config override for training
+   - Use scenic.train with config_file=scenic/projects/owl_vit/configs/finetune.py (or another OWL-ViT config), overrides:
+     --config.dataset_configs.train_file_pattern="/mnt/e/idfc_genai/owlv2_tfrecords/train-*.tfrecord"
+     --config.dataset_configs.validation_file_pattern="/mnt/e/idfc_genai/owlv2_tfrecords/train-*.tfrecord" (or val path)
+     --config.dataset_configs.class_names='["signature","stamp"]'
+     --config.init_from.checkpoint_path=/home/nitin/.cache/huggingface/hub/models--google--owlv2-base-patch16-ensemble/snapshots/cfd3195ba4ea9592eec887ded089f4c08eff231d
+     --config.trainer_name=owlv2
+     --config.batch_size=1 --config.num_training_steps=20000 --config.log_loss_every_steps=100 --config.eval_every_steps=1000
+   - Ensure PYTHONPATH includes /home/nitin/scenic and use /home/nitin/gdinovenv/bin/python.
+
+5) Testing
+   - After writing TFRecords and decoder, run scenic.train and verify it reads the shards without decoder errors.
+
+Notes:
+- Writable roots: /mnt/e/idfc_genai. Scenic code lives in /home/nitin/scenic (needs approval to edit; approved in prior session).
+- No existing COCO tool in this Scenic repo; we must add it.
+- If time is short, fallback to YOLO pipeline (already works with your labels).

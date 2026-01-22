@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019236119_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "AK.. TRACTORS",
+    "model_name": "OJA 2121 4WD",
+    "horse_power": 21,
+    "asset_cost": 633000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        894.312744140625,
+        1454.9490966796875,
+        1123.296630859375,
+        1563.5469970703125
+      ],
+      "conf": 0.9034102559089661
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        955.6176147460938,
+        1401.987060546875,
+        1167.431884765625,
+        1613.84033203125
+      ],
+      "conf": 0.9546149373054504
+    }
+  },
+  "source": "vlm+yolo_v5",
+  "notes": "YOLO score=1.858; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.06212560667286053
+}

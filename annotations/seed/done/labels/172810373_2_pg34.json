@@ -1,0 +1,29 @@
+{
+  "doc_id": "172810373_2_pg34",
+  "fields": {
+    "dealer_name": "VIKAS TRACTORS",
+    "model_name": "EICHER 485 SUPER PLUS",
+    "horse_power": 49,
+    "asset_cost": 849717,
+    "signature": {
+      "present": true,
+      "bbox": [
+        782.3030303030303,
+        1333.939393939394,
+        932.3030303030303,
+        1403.6363636363635
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        786.8484848484849,
+        1323.3333333333333,
+        955.030303030303,
+        1490.0
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.709; VLM logprob=-0.054; please verify"
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173208707_2_pg22",
+  "fields": {
+    "dealer_name": "THE ODISHA AGRO INDUSTRIES CORPORATION LTD.",
+    "model_name": "EURO 50",
+    "horse_power": 50,
+    "asset_cost": 823870,
+    "signature": {
+      "present": true,
+      "bbox": [
+        855.9501342773438,
+        1434.554931640625,
+        1065.968017578125,
+        1552.9656982421875
+      ],
+      "conf": 0.9182214736938477
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        737.7276000976562,
+        1501.793212890625,
+        1107.73876953125,
+        1610.701904296875
+      ],
+      "conf": 0.9094706177711487
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.828; VLM logprob=-0.047; please verify",
+  "vlm_conf_logprob": -0.047131901161747564
+}

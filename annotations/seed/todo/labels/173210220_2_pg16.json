@@ -1,0 +1,29 @@
+{
+  "doc_id": "173210220_2_pg16",
+  "fields": {
+    "dealer_name": "of International Tractor Limited Payment of purchases of tractors made / give by the customer / thei Bark tu",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        674,
+        1082,
+        1159,
+        1088
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        961,
+        1305,
+        1055,
+        1369
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018935306_1_v2_pg1",
+  "fields": {
+    "dealer_name": "Kothari Agro Chemist",
+    "model_name": "ESCORTS PO Digitrac PP46I",
+    "horse_power": 50,
+    "asset_cost": 880000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        3007.846153846154,
+        5484.461538461538,
+        4300.153846153846,
+        5922.923076923077
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3215.5384615384614,
+        5376.7692307692305,
+        3900.153846153846,
+        6061.384615384615
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=0.98; please verify"
+}

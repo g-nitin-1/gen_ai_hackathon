@@ -1,0 +1,29 @@
+{
+  "doc_id": "172926676_2_pg34",
+  "fields": {
+    "dealer_name": "A.B.C. Corporation",
+    "model_name": "Solis Yanmar - 4215 2WD",
+    "horse_power": 43,
+    "asset_cost": 820000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        966.5849056603774,
+        1354.3584905660375,
+        1128.8490566037735,
+        1416.6226415094338
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        962.8113207547169,
+        1331.7169811320753,
+        1125.0754716981132,
+        1488.320754716981
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=0.98; please verify"
+}

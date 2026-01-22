@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019347483_1_v1_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "a y | = 3 S Sy 3S, sUUD",
+    "horse_power": null,
+    "asset_cost": 9896257816,
+    "signature": {
+      "present": true,
+      "bbox": [
+        5,
+        1649,
+        1176,
+        1684
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

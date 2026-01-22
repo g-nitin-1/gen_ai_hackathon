@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019241519_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "|jHP",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1473,
+        2421,
+        3380,
+        2799
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        2902,
+        2956,
+        3256,
+        3156
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

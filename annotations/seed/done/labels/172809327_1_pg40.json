@@ -1,0 +1,29 @@
+{
+  "doc_id": "172809327_1_pg40",
+  "fields": {
+    "dealer_name": "Balaji Tractors",
+    "model_name": "KUBOTA TRACTOR MU4501(2WD-STD)",
+    "horse_power": 45,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        697.6666666666666,
+        1324.5,
+        964.3333333333333,
+        1379.5
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        722.6666666666666,
+        1291.1666666666667,
+        891.0,
+        1459.5
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.711; VLM logprob=-0.033; please verify"
+}

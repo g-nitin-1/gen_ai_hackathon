@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019389310_2_v1_pg1",
+  "fields": {
+    "dealer_name": "Maa Vijashan Tractor",
+    "model_name": "SONALIKA DI PLUS POWER PLUS HARROW POWER",
+    "horse_power": 50,
+    "asset_cost": 830000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        2074.326171875,
+        2953.370849609375,
+        2516.0087890625,
+        3249.49169921875
+      ],
+      "conf": 0.7282860279083252
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        2075.551025390625,
+        2965.122314453125,
+        2417.524169921875,
+        3317.84375
+      ],
+      "conf": 0.9291218519210815
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.657; VLM logprob=-0.186; please verify",
+  "vlm_conf_logprob": -0.18592509014280803
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "172607979_4_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "Name: PT 434 DS PLUS HR 1 | 12% 550,000.00",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        537,
+        1016,
+        962,
+        1026
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        918,
+        1036,
+        1153,
+        1208
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

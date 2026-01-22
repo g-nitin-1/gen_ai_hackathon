@@ -1,0 +1,19 @@
+{
+  "doc_id": "172961598_1_pg14",
+  "fields": {
+    "dealer_name": ": EICHER TRACTORS ;",
+    "model_name": "12.5.",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

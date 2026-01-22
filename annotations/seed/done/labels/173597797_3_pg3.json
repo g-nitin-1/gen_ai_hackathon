@@ -1,0 +1,32 @@
+{
+  "doc_id": "173597797_3_pg3",
+  "fields": {
+    "dealer_name": "SANDEEP EICHER",
+    "model_name": "EICHER 242 Extra Premium",
+    "horse_power": 25,
+    "asset_cost": 550000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        863.1103515625,
+        1410.4384765625,
+        1104.8782958984375,
+        1520.918701171875
+      ],
+      "conf": 0.7945307493209839
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        847.3582153320312,
+        1375.085693359375,
+        1031.951904296875,
+        1550.046875
+      ],
+      "conf": 0.95159912109375
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.746; VLM logprob=-0.099; please verify",
+  "vlm_conf_logprob": -0.09866745642295882
+}

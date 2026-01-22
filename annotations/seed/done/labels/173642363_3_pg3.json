@@ -1,0 +1,32 @@
+{
+  "doc_id": "173642363_3_pg3",
+  "fields": {
+    "dealer_name": "MAA SHARDA MOTORS",
+    "model_name": "Eicher 551 Prima",
+    "horse_power": 45,
+    "asset_cost": 860000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        827.4938354492188,
+        1352.570068359375,
+        977.1163330078125,
+        1476.9501953125
+      ],
+      "conf": 0.7979252934455872
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        814.7269897460938,
+        1310.017578125,
+        987.105712890625,
+        1483.5289306640625
+      ],
+      "conf": 0.9244165420532227
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.722; VLM logprob=-0.025; please verify",
+  "vlm_conf_logprob": -0.024665535195138588
+}

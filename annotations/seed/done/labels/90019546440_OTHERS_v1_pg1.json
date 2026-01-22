@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019546440_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "BANDEWAR TRACTORS",
+    "model_name": "Mahindra Tractor Arjun 605 Novo DI",
+    "horse_power": 60,
+    "asset_cost": 1075000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        533.0654907226562,
+        1497.952880859375,
+        659.2235717773438,
+        1578.1318359375
+      ],
+      "conf": 0.7728802561759949
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        504.4352111816406,
+        1443.3052978515625,
+        693.981689453125,
+        1634.0521240234375
+      ],
+      "conf": 0.9622108340263367
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.735; VLM logprob=-0.206; please verify",
+  "vlm_conf_logprob": -0.20569913231891598
+}

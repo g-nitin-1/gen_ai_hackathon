@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018824033_175118795_2_pg33",
+  "fields": {
+    "dealer_name": "Amar Tractors & Farm Implement",
+    "model_name": "275 NBP",
+    "horse_power": 39,
+    "asset_cost": 730115,
+    "signature": {
+      "present": true,
+      "bbox": [
+        766.8827514648438,
+        1070.1671142578125,
+        926.656982421875,
+        1186.810302734375
+      ],
+      "conf": 0.7695974111557007
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        747.179443359375,
+        1054.1612548828125,
+        934.7300415039062,
+        1243.213134765625
+      ],
+      "conf": 0.9566330313682556
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.726; VLM logprob=-0.044; please verify",
+  "vlm_conf_logprob": -0.04367765506294682
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "172966285_1_pg11",
+  "fields": {
+    "dealer_name": "NATIONAL TRACTOR SALES",
+    "model_name": "MF 241 DI",
+    "horse_power": 45,
+    "asset_cost": 638500,
+    "signature": {
+      "present": true,
+      "bbox": [
+        998.1013793945312,
+        1333.03857421875,
+        1101.9644775390625,
+        1384.6968994140625
+      ],
+      "conf": 0.7954440116882324
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        950.0814208984375,
+        1289.552734375,
+        1107.2137451171875,
+        1443.79541015625
+      ],
+      "conf": 0.9430853128433228
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.739; VLM logprob=-0.094; please verify",
+  "vlm_conf_logprob": -0.09364014769668062
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "172610467_2_pg21",
+  "fields": {
+    "dealer_name": "SABAR AGROTECH",
+    "model_name": "TAFE MF 291 DI",
+    "horse_power": 42,
+    "asset_cost": 830000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        948.5510204081633,
+        1234.795918367347,
+        1160.795918367347,
+        1351.122448979592
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        936.3061224489796,
+        1177.6530612244899,
+        1128.1428571428573,
+        1369.4897959183675
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.844; VLM logprob=-0.048; please verify"
+}

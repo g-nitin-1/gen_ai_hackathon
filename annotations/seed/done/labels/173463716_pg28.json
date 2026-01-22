@@ -1,0 +1,29 @@
+{
+  "doc_id": "173463716_pg28",
+  "fields": {
+    "dealer_name": "Krishna Tractor House",
+    "model_name": "Sonalika International Tractor Rx 32 Baagban",
+    "horse_power": 32,
+    "asset_cost": 551000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        910.2040816326531,
+        1206.4285714285716,
+        1063.265306122449,
+        1294.1836734693877
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        885.7142857142858,
+        1165.6122448979593,
+        1093.8775510204082,
+        1369.6938775510205
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.829; VLM logprob=-0.091; please verify"
+}

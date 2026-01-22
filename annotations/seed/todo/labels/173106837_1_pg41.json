@@ -1,0 +1,29 @@
+{
+  "doc_id": "173106837_1_pg41",
+  "fields": {
+    "dealer_name": ": SONALIKA TRACTOR. SALE, SERVICE & IMPLEMENTS",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        675,
+        1044,
+        1161,
+        1052
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        434,
+        1305,
+        497,
+        1345
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "90018777351_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Shivshanta Motors",
+    "model_name": "Swaraj 724 XM",
+    "horse_power": 24.0,
+    "asset_cost": 600000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        880.5,
+        1358.25,
+        1050.5,
+        1440.75
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "text_score=1.983; please verify hp/cost"
+}

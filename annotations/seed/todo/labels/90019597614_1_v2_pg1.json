@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019597614_1_v2_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "_ 630 7x HPSS",
+    "horse_power": 630,
+    "asset_cost": 7332221037,
+    "signature": {
+      "present": true,
+      "bbox": [
+        165,
+        1262,
+        1153,
+        1316
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        967,
+        1337,
+        1190,
+        1510
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

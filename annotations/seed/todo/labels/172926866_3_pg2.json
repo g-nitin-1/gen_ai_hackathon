@@ -1,0 +1,24 @@
+{
+  "doc_id": "172926866_3_pg2",
+  "fields": {
+    "dealer_name": "of Captain Tractor and =",
+    "model_name": "New Holland 3037TX Super Zz 8,09,872=00",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        905,
+        1271,
+        1067,
+        1452
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019377570_4_v1_pg1",
+  "fields": {
+    "dealer_name": "VAMSHI ENTRPRISES",
+    "model_name": "EICHER 380 PRIMA G3",
+    "horse_power": 40,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        3937.1111111111113,
+        5574.555555555556,
+        4259.333333333333,
+        5819.0
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3703.7777777777783,
+        5163.444444444444,
+        4526.0,
+        5985.666666666667
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

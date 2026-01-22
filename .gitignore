@@ -1,0 +1,59 @@
+# Models (too large for git)
+models/
+sam_checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.joblib
+
+# LoRA adapters
+vlm_lora_out/
+
+# Training runs and outputs
+runs/
+yolo_runs/
+yolo_data/
+yolo_data_text/
+scenic_runs/
+owlv2_tfrecords/
+owlv2_custom_out/
+text_models/
+
+# Data directories (too large)
+train/
+annotations/seed/done/images/
+annotations/seed/done/marked_images/
+annotations/seed/in_progress/images/
+annotations/seed/in_progress/labels_vlm/
+annotations/seed/backup/
+overlays/
+
+# VLM training data (contains base64 images - too large)
+data/vlm_gold.jsonl
+
+# Temporary files
+tmp_*.json
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+*.cache
+
+# Large files
+*.png
+*.jpg
+*.jpeg
+*.tfrecord
+*.xplane.pb
+*.trace.json.gz
+*.tfevents.*
+
+# PDF files (optional - remove this line if you want to keep PDFs)
+*.pdf
+
+# Misc
+=9.0

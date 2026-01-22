@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019261328_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "VIPIN MOTORS",
+    "model_name": "DIGITRAC-PP43I",
+    "horse_power": 50,
+    "asset_cost": 950000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        3054.2941176470586,
+        4674.470588235294,
+        3989.5882352941176,
+        4933.294117647059
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3042.529411764706,
+        4409.764705882352,
+        3777.8235294117644,
+        5121.529411764705
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.803; VLM logprob=-0.026; please verify"
+}

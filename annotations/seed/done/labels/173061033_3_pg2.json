@@ -1,0 +1,32 @@
+{
+  "doc_id": "173061033_3_pg2",
+  "fields": {
+    "dealer_name": "PATEL MOTORS",
+    "model_name": "Eicher 551 4WD",
+    "horse_power": 49,
+    "asset_cost": 1000000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        929.7553100585938,
+        1385.569091796875,
+        1097.9385986328125,
+        1461.717041015625
+      ],
+      "conf": 0.8073431849479675
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        912.2568969726562,
+        1332.5753173828125,
+        1104.5726318359375,
+        1518.52197265625
+      ],
+      "conf": 0.9340850710868835
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.741; VLM logprob=-0.076; please verify",
+  "vlm_conf_logprob": -0.07575444099477868
+}

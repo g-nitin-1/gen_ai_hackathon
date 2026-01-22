@@ -1,0 +1,19 @@
+{
+  "doc_id": "172927528_pg22",
+  "fields": {
+    "dealer_name": "for International Tractors Ltd. (SONALIKA) LEADING AGRI EVOLUTION",
+    "model_name": "RX 32 BAAGBAN , Model Variant : DI 32 RX , Horse Power : 32, Payment Mode :",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

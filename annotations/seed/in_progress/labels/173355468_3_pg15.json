@@ -1,0 +1,32 @@
+{
+  "doc_id": "173355468_3_pg15",
+  "fields": {
+    "dealer_name": "KARSA TRACTORS",
+    "model_name": "MAHINDRA YUVO TECH PLUS",
+    "horse_power": 39,
+    "asset_cost": 740000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        812.1744384765625,
+        1475.20751953125,
+        1010.0686645507812,
+        1596.4891357421875
+      ],
+      "conf": 0.7194529175758362
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        813.9493408203125,
+        1387.7452392578125,
+        1036.2806396484375,
+        1605.4072265625
+      ],
+      "conf": 0.9408804774284363
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.660; VLM logprob=-0.078; please verify",
+  "vlm_conf_logprob": -0.07809907743405045
+}

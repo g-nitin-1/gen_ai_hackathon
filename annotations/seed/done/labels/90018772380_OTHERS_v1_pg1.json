@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018772380_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Samarth Tractors",
+    "model_name": "Swaraj Target 630",
+    "horse_power": 29,
+    "asset_cost": 598000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        698.1111111111112,
+        1279.388888888889,
+        837.0,
+        1346.0555555555554
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        651.8148148148149,
+        1196.0555555555554,
+        862.925925925926,
+        1390.5
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "score=0.98; please verify"
+}

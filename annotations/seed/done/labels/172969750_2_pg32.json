@@ -1,0 +1,29 @@
+{
+  "doc_id": "172969750_2_pg32",
+  "fields": {
+    "dealer_name": "Krishna Traders",
+    "model_name": "Powertrac Euro 42 Plus",
+    "horse_power": 45,
+    "asset_cost": 815000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        766.2448979591836,
+        1050.2448979591836,
+        1202.9795918367347,
+        1233.9183673469388
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        970.3265306122449,
+        997.1836734693878,
+        1141.7551020408164,
+        1170.6530612244896
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.718; VLM logprob=-0.015; please verify"
+}

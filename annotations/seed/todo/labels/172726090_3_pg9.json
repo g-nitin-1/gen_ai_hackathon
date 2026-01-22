@@ -1,0 +1,29 @@
+{
+  "doc_id": "172726090_3_pg9",
+  "fields": {
+    "dealer_name": ":",
+    "model_name": "is ott 735 FEER ue l4o 7,595,000 /—",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        13,
+        1505,
+        1022,
+        1535
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        257,
+        1431,
+        321,
+        1474
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

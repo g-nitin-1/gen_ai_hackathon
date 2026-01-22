@@ -1,0 +1,19 @@
+{
+  "doc_id": "173470898_1_pg17",
+  "fields": {
+    "dealer_name": ": Swaraj Tractors, Agriculture Implements & Spare Parts",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

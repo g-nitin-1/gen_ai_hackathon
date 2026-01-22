@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019632629_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "R.S.G. Tractors",
+    "model_name": "Sonalika International Tractor DI 750 III Power Plus OIB PS 2WD",
+    "horse_power": 55,
+    "asset_cost": 870000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        826.6552124023438,
+        1275.59619140625,
+        966.8558349609375,
+        1382.858154296875
+      ],
+      "conf": 0.829533040523529
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        796.787109375,
+        1276.591552734375,
+        949.8313598632812,
+        1434.131103515625
+      ],
+      "conf": 0.9354128837585449
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.765; VLM logprob=-0.198; please verify",
+  "vlm_conf_logprob": -0.19849512936642968
+}

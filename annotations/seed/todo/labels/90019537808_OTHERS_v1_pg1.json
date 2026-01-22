@@ -1,0 +1,19 @@
+{
+  "doc_id": "90019537808_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "| NEW HOLLAND MHAGTONS",
+    "model_name": "S :",
+    "horse_power": null,
+    "asset_cost": 466505000026,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

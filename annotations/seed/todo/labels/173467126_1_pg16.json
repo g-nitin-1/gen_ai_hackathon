@@ -1,0 +1,29 @@
+{
+  "doc_id": "173467126_1_pg16",
+  "fields": {
+    "dealer_name": "S :",
+    "model_name": ". 4“4..6.LAS STC SMART",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1002,
+        1292,
+        1102,
+        1327
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        988,
+        1329,
+        1042,
+        1417
+      ]
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

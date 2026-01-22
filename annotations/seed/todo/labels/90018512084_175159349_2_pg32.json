@@ -1,0 +1,19 @@
+{
+  "doc_id": "90018512084_175159349_2_pg32",
+  "fields": {
+    "dealer_name": "S FOR: SWARAJ TRACTORS & IMPLEMENTS",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": 3052025,
+    "signature": {
+      "present": false,
+      "bbox": null
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

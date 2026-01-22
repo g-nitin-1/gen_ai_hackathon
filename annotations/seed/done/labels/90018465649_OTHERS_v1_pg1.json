@@ -1,0 +1,29 @@
+{
+  "doc_id": "90018465649_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "VIPIN MOTORS",
+    "model_name": "POWERTRAC DIGITRAC PP 46 I",
+    "horse_power": 50,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        4455.333333333334,
+        6651.555555555556,
+        4999.777777777778,
+        7096.0
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        4255.333333333334,
+        6462.666666666666,
+        5177.555555555556,
+        7340.444444444444
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

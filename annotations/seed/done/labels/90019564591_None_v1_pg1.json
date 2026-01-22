@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019564591_None_v1_pg1",
+  "fields": {
+    "dealer_name": "KRISHNA TRACTORS",
+    "model_name": "F.T 45 PROMAxx",
+    "horse_power": 45,
+    "asset_cost": 725000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        937.8787231445312,
+        1342.65185546875,
+        1118.7874755859375,
+        1484.7808837890625
+      ],
+      "conf": 0.8972103595733643
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        935.4063720703125,
+        1349.10888671875,
+        1118.7938232421875,
+        1533.358154296875
+      ],
+      "conf": 0.9610388278961182
+    }
+  },
+  "source": "vlm+yolo_v5",
+  "notes": "YOLO score=1.858; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.06904105720394266
+}

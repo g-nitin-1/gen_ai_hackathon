@@ -1,0 +1,32 @@
+{
+  "doc_id": "172964354_1_pg40",
+  "fields": {
+    "dealer_name": "Sukhdev Traders",
+    "model_name": "Swaraj 630",
+    "horse_power": 50,
+    "asset_cost": 880000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        901.9977416992188,
+        1246.497802734375,
+        1073.0279541015625,
+        1348.051513671875
+      ],
+      "conf": 0.813546895980835
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        893.8403930664062,
+        1245.765380859375,
+        1091.0245361328125,
+        1425.56103515625
+      ],
+      "conf": 0.9340804219245911
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.748; VLM logprob=-0.148; please verify",
+  "vlm_conf_logprob": -0.1481946123527035
+}

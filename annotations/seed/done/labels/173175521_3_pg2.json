@@ -1,0 +1,32 @@
+{
+  "doc_id": "173175521_3_pg2",
+  "fields": {
+    "dealer_name": "JMJ TRACTOR & EQUIIPMENTS",
+    "model_name": "EICHER 557 Prima",
+    "horse_power": 50,
+    "asset_cost": 1100000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        834.2755126953125,
+        1199.431396484375,
+        988.7064819335938,
+        1306.7408447265625
+      ],
+      "conf": 0.8613781929016113
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        824.2293090820312,
+        1188.3583984375,
+        1016.7545776367188,
+        1371.2596435546875
+      ],
+      "conf": 0.9512656927108765
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.813; VLM logprob=-0.062; please verify",
+  "vlm_conf_logprob": -0.06174291142524879
+}

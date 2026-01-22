@@ -1,0 +1,24 @@
+{
+  "doc_id": "90019103671_1_v1_pg1",
+  "fields": {
+    "dealer_name": ": FARMTRAC TRACTORS SALE & SERVICE & SPARE PARTS",
+    "model_name": "f 7- 6° fol ex MA x ¥",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": {
+      "present": true,
+      "bbox": [
+        634,
+        8186,
+        3245,
+        8225
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

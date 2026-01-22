@@ -1,0 +1,29 @@
+{
+  "doc_id": "173588817_2_pg29",
+  "fields": {
+    "dealer_name": "TIWARI AUTOMOBILES",
+    "model_name": "EICHER 557",
+    "horse_power": 50,
+    "asset_cost": 950000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        761.6153846153846,
+        1351.7692307692307,
+        1011.6153846153846,
+        1424.8461538461538
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        734.6923076923077,
+        1321.0,
+        1011.6153846153846,
+        1440.2307692307693
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

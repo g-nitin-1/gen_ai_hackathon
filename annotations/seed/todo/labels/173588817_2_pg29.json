@@ -1,0 +1,13 @@
+{
+  "doc_id": "173588817_2_pg29",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null,
+    "signature": { "present": false, "bbox": null },
+    "stamp": { "present": false, "bbox": null }
+  },
+  "source": "pending",
+  "notes": ""
+}

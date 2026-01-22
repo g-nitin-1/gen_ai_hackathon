@@ -1,0 +1,24 @@
+{
+  "doc_id": "90018820326_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "",
+    "model_name": "No Ey ;",
+    "horse_power": null,
+    "asset_cost": 9919085,
+    "signature": {
+      "present": true,
+      "bbox": [
+        204,
+        1441,
+        794,
+        1512
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null
+    }
+  },
+  "source": "auto_heuristic_tesseract",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018773075_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Shivraj Tractors",
+    "model_name": "EICHER 548",
+    "horse_power": 49,
+    "asset_cost": 850000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        920.4345703125,
+        1385.0224609375,
+        1043.22265625,
+        1492.2679443359375
+      ],
+      "conf": 0.8769469857215881
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        884.8888549804688,
+        1379.81884765625,
+        1052.08154296875,
+        1555.6209716796875
+      ],
+      "conf": 0.9541750550270081
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.831; VLM logprob=-0.086; please verify",
+  "vlm_conf_logprob": -0.0862587062708406
+}

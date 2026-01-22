@@ -1,0 +1,29 @@
+{
+  "doc_id": "173078631_1_pg7",
+  "fields": {
+    "dealer_name": "Sunil Automobiles",
+    "model_name": "Massey MF 7250 DI V1.1",
+    "horse_power": 50,
+    "asset_cost": 740000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1004.5,
+        1337.5,
+        1167.0,
+        1470.0
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        824.5,
+        1322.5,
+        1107.0,
+        1452.5
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "text_score=1.996; please verify hp/cost"
+}
