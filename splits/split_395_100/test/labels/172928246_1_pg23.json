@@ -1,0 +1,32 @@
+{
+  "doc_id": "172928246_1_pg23",
+  "fields": {
+    "dealer_name": "NAMDEV TRACTORS",
+    "model_name": "BT Euro 50 NXT",
+    "horse_power": 52,
+    "asset_cost": 800000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        156.05357360839844,
+        1151.7061767578125,
+        275.7938537597656,
+        1249.453369140625
+      ],
+      "conf": 0.8301990628242493
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        113.0269775390625,
+        1101.4498291015625,
+        294.70501708984375,
+        1256.571533203125
+      ],
+      "conf": 0.6121459603309631
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.442; VLM logprob=-0.042; please verify",
+  "vlm_conf_logprob": -0.04151927754204129
+}

@@ -1,0 +1,33 @@
+{
+  "total_documents": 495,
+  "brand_distribution": {
+    "MAHINDRA": 90,
+    "SONALIKA": 67,
+    "MF": 39,
+    "EICHER": 28,
+    "ESCORTS": 20,
+    "NEW HOLLAND": 17,
+    "JOHN DEERE": 13,
+    "POWERTRAC": 13,
+    "DIGITRAC": 9,
+    "SOLIS": 7
+  },
+  "hp_stats": {
+    "min": 2.0,
+    "max": 349.9,
+    "median": 45.0,
+    "mean": 45.071311475409836
+  },
+  "cost_stats": {
+    "min": 113.0,
+    "max": 7100000.0,
+    "median": 770000.0,
+    "mean": 780728.21010101
+  },
+  "signature_stamp": {
+    "signature_only": 16,
+    "stamp_only": 22,
+    "both": 443,
+    "neither": 14
+  }
+}

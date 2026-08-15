@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019714854_6_v1_pg1",
+  "fields": {
+    "dealer_name": "SAPNA TRACTOR",
+    "model_name": "Solis 4415 2WD",
+    "horse_power": 48,
+    "asset_cost": 700000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        790.115234375,
+        1381.402099609375,
+        961.5232543945312,
+        1490.2701416015625
+      ],
+      "conf": 0.7550206780433655
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        785.5845336914062,
+        1340.115478515625,
+        979.1217651367188,
+        1494.1129150390625
+      ],
+      "conf": 0.9128789305686951
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.668; VLM logprob=-0.013; please verify",
+  "vlm_conf_logprob": -0.013204592671267558
+}

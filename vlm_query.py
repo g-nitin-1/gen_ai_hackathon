@@ -23,10 +23,23 @@ from peft import PeftModel
 
 
 def extract_json(text: str) -> Optional[Dict[str, Any]]:
-    # Grab first {...} block
-    m = re.search(r"\{.*\}", text, re.DOTALL)
+    # Try 1: Look for quoted JSON string first: "{ ... }"
+    quoted_match = re.search(r'"(\{.*?\})"', text, re.DOTALL)
+    if quoted_match:
+        try:
+            # The content inside quotes might be escaped
+            escaped_json = quoted_match.group(1)
+            # Unescape it
+            unescaped = escaped_json.replace('\\"', '"').replace('\\\\', '\\')
+            return json.loads(unescaped)
+        except Exception:
+            pass
+
+    # Try 2: Look for unquoted {...} block
+    m = re.search(r"\{.*?\}", text, re.DOTALL)
     if not m:
         return None
+
     try:
         return json.loads(m.group(0))
     except Exception:

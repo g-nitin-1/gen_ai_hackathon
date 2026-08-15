@@ -1,0 +1,29 @@
+{
+  "doc_id": "173686358_1_pg39",
+  "fields": {
+    "dealer_name": "B. G. SHETTAR & SONS",
+    "model_name": "SWARAJ 744 TRACTOR XT",
+    "horse_power": 50,
+    "asset_cost": 820000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        734.3333333333333,
+        1496.6666666666667,
+        861.0,
+        1616.6666666666667
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        691.0,
+        1450.0,
+        902.4237288135593,
+        1639.0
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.843; VLM logprob=0.000; please verify"
+}

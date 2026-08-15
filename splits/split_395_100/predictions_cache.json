@@ -1,0 +1,2492 @@
+{
+  "172566189_1_pg10": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        977.23193359375,
+        1338.717529296875,
+        1106.320556640625,
+        1406.33154296875
+      ],
+      "conf": 0.5610119104385376
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        938.9228515625,
+        1297.681884765625,
+        1147.843017578125,
+        1496.0
+      ],
+      "conf": 0.9614236950874329
+    },
+    "dealer_name": "SRI AMUTHAM TRACTORS",
+    "model_name": "SONALIKA TIGER 55-4WD",
+    "horse_power": 55.0,
+    "asset_cost": 1200000.0
+  },
+  "172615270_3_pg24": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        88.73802185058594,
+        1256.54833984375,
+        258.5511474609375,
+        1332.473388671875
+      ],
+      "conf": 0.6989234089851379
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        51.43882751464844,
+        1213.2550048828125,
+        260.7956237792969,
+        1404.69775390625
+      ],
+      "conf": 0.9447879791259766
+    },
+    "dealer_name": "1 Mahindra",
+    "model_name": "6115 DI NIBP",
+    "horse_power": 25.0,
+    "asset_cost": 650000.0
+  },
+  "172615659_4_pg18": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        800.7068481445312,
+        1222.0374755859375,
+        972.0567016601562,
+        1339.240234375
+      ],
+      "conf": 0.6647560596466064
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        759.8325805664062,
+        1219.2376708984375,
+        936.8723754882812,
+        1394.8409423828125
+      ],
+      "conf": 0.9444665908813477
+    },
+    "dealer_name": "SULTANIA TRACTORS",
+    "model_name": "AAYSHAR TRACTOR MODEL 380 SP+",
+    "horse_power": 40.0,
+    "asset_cost": 660000.0
+  },
+  "172655019_3_pg11": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        878.68017578125,
+        1268.2650146484375,
+        1022.254638671875,
+        1370.3592529296875
+      ],
+      "conf": 0.715199887752533
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        835.4642333984375,
+        1201.5418701171875,
+        1038.7069091796875,
+        1389.427001953125
+      ],
+      "conf": 0.8894283771514893
+    },
+    "dealer_name": "Shubh Vinayak Tractors",
+    "model_name": "New Holland 3630 SUPER",
+    "horse_power": 49.5,
+    "asset_cost": 950001.0
+  },
+  "172656573_1_pg4": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        964.6048583984375,
+        1081.23291015625,
+        1126.519775390625,
+        1247.4864501953125
+      ],
+      "conf": 0.8565837144851685
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        943.20654296875,
+        1090.865234375,
+        1113.4013671875,
+        1259.4599609375
+      ],
+      "conf": 0.9390547275543213
+    },
+    "dealer_name": "Madaiv Motore Pachore",
+    "model_name": "485 SC FL",
+    "horse_power": 45.0,
+    "asset_cost": 760000.0
+  },
+  "172679241_1_pg25": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        797.0222778320312,
+        1348.7353515625,
+        918.9619750976562,
+        1410.3189697265625
+      ],
+      "conf": 0.6819131374359131
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        785.9368896484375,
+        1302.506103515625,
+        962.625244140625,
+        1473.173583984375
+      ],
+      "conf": 0.9534791111946106
+    },
+    "dealer_name": "CHAMUNDESWARI AGENCIES",
+    "model_name": "735 FE",
+    "horse_power": 40.0,
+    "asset_cost": 720000.0
+  },
+  "172679320_3_pg18": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        939.5203247070312,
+        1147.2982177734375,
+        1108.2935791015625,
+        1228.4359130859375
+      ],
+      "conf": 0.7287999391555786
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        872.5167236328125,
+        1124.0675048828125,
+        1124.8890380859375,
+        1262.2398681640625
+      ],
+      "conf": 0.7826102375984192
+    },
+    "dealer_name": "JAY BHAGWATI TRACTORS",
+    "model_name": "STEELTRAC 18",
+    "horse_power": 18.0,
+    "asset_cost": 373400.0
+  },
+  "172749341_2_pg28": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        903.2354125976562,
+        1364.5693359375,
+        1102.4716796875,
+        1445.9580078125
+      ],
+      "conf": 0.5731784701347351
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        970.8899536132812,
+        1323.464599609375,
+        1127.919189453125,
+        1477.4412841796875
+      ],
+      "conf": 0.9388261437416077
+    },
+    "dealer_name": "M. Vikas Agency",
+    "model_name": "Sonalika International DI 746 OI",
+    "horse_power": 50.0,
+    "asset_cost": 7180000.0
+  },
+  "172752186_1_pg9": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        875.5707397460938,
+        1196.64794921875,
+        1030.1890869140625,
+        1294.5003662109375
+      ],
+      "conf": 0.5437948703765869
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        854.6904296875,
+        1164.15673828125,
+        1029.7003173828125,
+        1341.5
+      ],
+      "conf": 0.9486458897590637
+    },
+    "dealer_name": "MAA TRACTOR WHEELS",
+    "model_name": "Mahindra 655 DI 4WD CRDI",
+    "horse_power": 65.0,
+    "asset_cost": 1325000.0
+  },
+  "172761707_3_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        936.867919921875,
+        1213.930419921875,
+        1092.071533203125,
+        1327.85546875
+      ],
+      "conf": 0.6645328402519226
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        923.2772827148438,
+        1216.3670654296875,
+        1111.8177490234375,
+        1374.0
+      ],
+      "conf": 0.9146121740341187
+    },
+    "dealer_name": "MANJEET MOTORS",
+    "model_name": "NOVO 605 DI 2WD",
+    "horse_power": 57.0,
+    "asset_cost": 1100000.0
+  },
+  "172808806_pg14": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        900.063720703125,
+        1184.0411376953125,
+        1062.2322998046875,
+        1309.234619140625
+      ],
+      "conf": 0.36364486813545227
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        889.4776611328125,
+        1187.5914306640625,
+        1064.3837890625,
+        1352.3050537109375
+      ],
+      "conf": 0.9657596945762634
+    },
+    "dealer_name": "M. MAITHRAKSHMI AUTOMOBILS",
+    "model_name": "SONALIKA INTERNATIONAL TRACTOR RX-32 Bagbah",
+    "horse_power": 32.0,
+    "asset_cost": 611000.0
+  },
+  "172810838_3_pg4": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        324.2220458984375,
+        1241.2674560546875,
+        572.5435180664062,
+        1378.906494140625
+      ],
+      "conf": 0.5650053024291992
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        302.25970458984375,
+        1231.1363525390625,
+        516.154541015625,
+        1438.995849609375
+      ],
+      "conf": 0.9405878186225891
+    },
+    "dealer_name": "BABA AGRICULTURE & AUTOMOBILES",
+    "model_name": "NUVO 605 DI AWD",
+    "horse_power": 50.0,
+    "asset_cost": 850000.0
+  },
+  "172812976_1_pg17": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        794.8759765625,
+        1376.62158203125,
+        1014.716064453125,
+        1478.0135498046875
+      ],
+      "conf": 0.5842153429985046
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "JAI TRACTORS",
+    "model_name": "856 241 HYD TR 1 DEF TIPS+",
+    "horse_power": 42.0,
+    "asset_cost": 630000.0
+  },
+  "172814053_pg5": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        930.2538452148438,
+        1253.052490234375,
+        1066.390380859375,
+        1337.930419921875
+      ],
+      "conf": 0.5231521129608154
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        904.584716796875,
+        1199.0550537109375,
+        1085.08203125,
+        1365.9654541015625
+      ],
+      "conf": 0.9613938927650452
+    },
+    "dealer_name": "M. Madhulakshmi Automotives",
+    "model_name": "Sonalika International Tractor GT 22 GardenTrac 4WD (D.A.Y. Engine)",
+    "horse_power": 22.0,
+    "asset_cost": 450000.0
+  },
+  "172818806_3_pg4": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        939.9763793945312,
+        1325.3193359375,
+        1140.839599609375,
+        1409.7606201171875
+      ],
+      "conf": 0.6001989245414734
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        920.7278442382812,
+        1310.6572265625,
+        1090.6546630859375,
+        1482.031982421875
+      ],
+      "conf": 0.9089527130126953
+    },
+    "dealer_name": "The Odisha Agro Industries Corporation Ltd.",
+    "model_name": "Swaraj Tractor 744 FE 4X4 N1",
+    "horse_power": 40.0,
+    "asset_cost": 923637.0
+  },
+  "172823551_2_pg21": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        880.6611938476562,
+        1348.548583984375,
+        1019.6204223632812,
+        1477.579833984375
+      ],
+      "conf": 0.7825495600700378
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        852.9091186523438,
+        1329.9443359375,
+        1023.4191284179688,
+        1503.1390380859375
+      ],
+      "conf": 0.9305316805839539
+    },
+    "dealer_name": "Kashish Automobiles",
+    "model_name": "5015",
+    "horse_power": 50.0,
+    "asset_cost": 865000.0
+  },
+  "172858047_3_pg3": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        766.8558959960938,
+        942.772705078125,
+        1000.0,
+        1064.304443359375
+      ],
+      "conf": 0.668010950088501
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        780.7543334960938,
+        935.19873046875,
+        970.2820434570312,
+        1121.121337890625
+      ],
+      "conf": 0.9365838766098022
+    },
+    "dealer_name": "Manpreet Tractors",
+    "model_name": "Sonalika DI 42 PS",
+    "horse_power": 42.0,
+    "asset_cost": 755000.0
+  },
+  "172904174_pg2": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        746.8565673828125,
+        1424.702392578125,
+        906.4816284179688,
+        1504.2813720703125
+      ],
+      "conf": 0.7671203017234802
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        715.7366333007812,
+        1363.1331787109375,
+        907.7807006835938,
+        1546.6993408203125
+      ],
+      "conf": 0.9504457116127014
+    },
+    "dealer_name": "Shinde Tractors",
+    "model_name": "SWARAJ 724 XM ORCHARD",
+    "horse_power": 24.0,
+    "asset_cost": 630000.0
+  },
+  "172928246_1_pg23": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        152.97886657714844,
+        1154.86572265625,
+        280.5087585449219,
+        1251.1922607421875
+      ],
+      "conf": 0.7495363354682922
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        136.78109741210938,
+        1146.4869384765625,
+        337.2696838378906,
+        1259.4971923828125
+      ],
+      "conf": 0.40470629930496216
+    },
+    "dealer_name": "NAMDEV TRACTORS",
+    "model_name": "ESCORT EURO 50 NXT",
+    "horse_power": 52.0,
+    "asset_cost": 800000.0
+  },
+  "172929710_1_pg40": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        190.1049041748047,
+        1263.865478515625,
+        393.1589050292969,
+        1394.59814453125
+      ],
+      "conf": 0.8580110669136047
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        166.0862579345703,
+        1261.0792236328125,
+        350.2708435058594,
+        1440.7264404296875
+      ],
+      "conf": 0.9480155110359192
+    },
+    "dealer_name": "AWANA TRACTORS",
+    "model_name": "SONALIKA RX 50 (4W)",
+    "horse_power": 50.0,
+    "asset_cost": 1054000.0
+  },
+  "172932638_3_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        926.9638671875,
+        1125.4156494140625,
+        1110.1094970703125,
+        1222.5540771484375
+      ],
+      "conf": 0.6022857427597046
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        883.9735717773438,
+        1120.28759765625,
+        1139.8349609375,
+        1237.4569091796875
+      ],
+      "conf": 0.788434624671936
+    },
+    "dealer_name": "JAY BHAGWATI TRACTORS",
+    "model_name": "STEELTRAC 18",
+    "horse_power": 18.0,
+    "asset_cost": 373400.0
+  },
+  "172961598_1_pg14": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        844.1788330078125,
+        1192.5068359375,
+        1039.5892333984375,
+        1334.7152099609375
+      ],
+      "conf": 0.7321938872337341
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        829.0148315429688,
+        1221.19189453125,
+        1089.9708251953125,
+        1341.1353759765625
+      ],
+      "conf": 0.8093812465667725
+    },
+    "dealer_name": "KISAN TRACTORS",
+    "model_name": "425",
+    "horse_power": 45.0,
+    "asset_cost": 760000.0
+  },
+  "172963371_2_pg33": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        897.1810913085938,
+        1237.1295166015625,
+        1037.828369140625,
+        1313.5277099609375
+      ],
+      "conf": 0.6963474750518799
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        872.128173828125,
+        1190.4735107421875,
+        1033.2520751953125,
+        1346.618408203125
+      ],
+      "conf": 0.9512999057769775
+    },
+    "dealer_name": "",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null
+  },
+  "173061033_3_pg2": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        941.7053833007812,
+        1385.030517578125,
+        1091.9453125,
+        1467.742431640625
+      ],
+      "conf": 0.6932669878005981
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        914.3794555664062,
+        1335.6473388671875,
+        1101.6429443359375,
+        1519.863037109375
+      ],
+      "conf": 0.9196158647537231
+    },
+    "dealer_name": "PATEL MOTORS",
+    "model_name": "551 4WD",
+    "horse_power": 45.0,
+    "asset_cost": 1000000.0
+  },
+  "173070225_1_pg11": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        880.8614501953125,
+        1229.139404296875,
+        1031.860107421875,
+        1334.6456298828125
+      ],
+      "conf": 0.703737199306488
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        872.1460571289062,
+        1232.86669921875,
+        1026.7476806640625,
+        1382.0802001953125
+      ],
+      "conf": 0.9368739128112793
+    },
+    "dealer_name": "Shri BASAV MOTORS",
+    "model_name": "DI-720 III power plus OIB PS-2 WD",
+    "horse_power": 55.0,
+    "asset_cost": 930000.0
+  },
+  "173074584_3_pg12": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        931.454345703125,
+        1243.8258056640625,
+        1072.6175537109375,
+        1329.6705322265625
+      ],
+      "conf": 0.7722079157829285
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        888.5762939453125,
+        1167.2830810546875,
+        1090.056640625,
+        1371.9605712890625
+      ],
+      "conf": 0.9451818466186523
+    },
+    "dealer_name": "Nayak Auto Care",
+    "model_name": "AAYASH EYARKOOL PLUS VACATOR COOL TRACTOR",
+    "horse_power": 40.0,
+    "asset_cost": 610000.0
+  },
+  "173078631_1_pg7": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        976.457763671875,
+        1336.14306640625,
+        1169.0067138671875,
+        1461.2025146484375
+      ],
+      "conf": 0.7486993074417114
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        963.0147705078125,
+        1327.340576171875,
+        1136.2491455078125,
+        1461.468505859375
+      ],
+      "conf": 0.5113276839256287
+    },
+    "dealer_name": "Sunil Automobiles",
+    "model_name": "Massey MF 7250 DI V1.1",
+    "horse_power": 50.0,
+    "asset_cost": 740000.0
+  },
+  "173106837_1_pg41": {
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "PATHAN MOTORS AND TRACTORS",
+    "model_name": "DI-745 III POWER PLUS OIB PS",
+    "horse_power": 47.0,
+    "asset_cost": 750000.0
+  },
+  "173134085_1_pg14": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        870.3837280273438,
+        1355.726806640625,
+        976.7831420898438,
+        1399.752685546875
+      ],
+      "conf": 0.7608892917633057
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        790.3592529296875,
+        1332.388916015625,
+        981.02783203125,
+        1445.693603515625
+      ],
+      "conf": 0.6091169118881226
+    },
+    "dealer_name": "M/s. SHRI RAM TRACTORS",
+    "model_name": "DIGITRAC PP 46i",
+    "horse_power": 50.0,
+    "asset_cost": 890000.0
+  },
+  "173146045_2_pg19": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        909.048095703125,
+        1343.0496826171875,
+        1030.369140625,
+        1420.6849365234375
+      ],
+      "conf": 0.7897400856018066
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        867.3087768554688,
+        1277.76220703125,
+        1040.7135009765625,
+        1446.065673828125
+      ],
+      "conf": 0.9467874765396118
+    },
+    "dealer_name": "SWASTIK AGRO SOLUTIONS",
+    "model_name": "MAHINDRA NOVO-605-4WD",
+    "horse_power": 49.3,
+    "asset_cost": 910000.0
+  },
+  "173186866_1_pg16": {
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "Baba Jagannath Tractors",
+    "model_name": "MF 245 DI",
+    "horse_power": 50.0,
+    "asset_cost": 670000.0
+  },
+  "173308285_1_pg21": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        894.4214477539062,
+        1342.5372314453125,
+        1032.072021484375,
+        1431.45947265625
+      ],
+      "conf": 0.8170149922370911
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        915.1141967773438,
+        1335.989501953125,
+        1082.0069580078125,
+        1444.411865234375
+      ],
+      "conf": 0.6906946897506714
+    },
+    "dealer_name": "Kaler & Gill Tractors",
+    "model_name": "Swaraj 744 XT",
+    "horse_power": 50.0,
+    "asset_cost": 788000.0
+  },
+  "173313344_1_pg19": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        733.2732543945312,
+        1120.83251953125,
+        904.551513671875,
+        1223.2921142578125
+      ],
+      "conf": 0.6734656095504761
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        797.8242797851562,
+        1112.7188720703125,
+        957.15087890625,
+        1248.129638671875
+      ],
+      "conf": 0.2519480884075165
+    },
+    "dealer_name": "M/s Bharat Tractors",
+    "model_name": "DI 745 III PS Power Plus OIB",
+    "horse_power": 50.0,
+    "asset_cost": 665000.0
+  },
+  "173430097_3_pg4": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        777.0931396484375,
+        1201.8544921875,
+        951.8992309570312,
+        1299.5364990234375
+      ],
+      "conf": 0.6274716258049011
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        807.3851318359375,
+        1178.6588134765625,
+        972.7928466796875,
+        1343.263427734375
+      ],
+      "conf": 0.8769344091415405
+    },
+    "dealer_name": "KISSAN TRACTOR AGENCY",
+    "model_name": "SWARAJ 785 FE BP",
+    "horse_power": 29.0,
+    "asset_cost": 680000.0
+  },
+  "173441333_1_pg28": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        833.8831787109375,
+        1393.3812255859375,
+        942.3898315429688,
+        1465.6781005859375
+      ],
+      "conf": 0.7403370141983032
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        802.9186401367188,
+        1350.7921142578125,
+        979.6118774414062,
+        1521.0638427734375
+      ],
+      "conf": 0.9638978242874146
+    },
+    "dealer_name": "CHAMUNDESWARI AGENCIES",
+    "model_name": "Swaraj 803 XM",
+    "horse_power": 42.0,
+    "asset_cost": 550000.0
+  },
+  "173467126_1_pg16": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        969.1951904296875,
+        1245.53466796875,
+        1176.900390625,
+        1419.75927734375
+      ],
+      "conf": 0.4770001769065857
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        964.343994140625,
+        1262.6429443359375,
+        1138.6959228515625,
+        1434.8570556640625
+      ],
+      "conf": 0.9292988777160645
+    },
+    "dealer_name": "USHA MOTORS",
+    "model_name": "45 CLASSIC SMART",
+    "horse_power": 48.0,
+    "asset_cost": 725000.0
+  },
+  "173470257_2_pg23": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        745.0908203125,
+        1180.6785888671875,
+        944.3896484375,
+        1302.21533203125
+      ],
+      "conf": 0.6746739149093628
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        741.669189453125,
+        1189.0196533203125,
+        918.8885498046875,
+        1350.3555908203125
+      ],
+      "conf": 0.9605796933174133
+    },
+    "dealer_name": "RAJ MOTORS",
+    "model_name": "3630 TX PLUS",
+    "horse_power": 49.5,
+    "asset_cost": 950000.0
+  },
+  "173613183_1_pg38": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        903.4270629882812,
+        1307.462158203125,
+        1089.0440673828125,
+        1433.1729736328125
+      ],
+      "conf": 0.6745904088020325
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        898.6566772460938,
+        1308.8677978515625,
+        1045.3092041015625,
+        1465.07275390625
+      ],
+      "conf": 0.6781918406486511
+    },
+    "dealer_name": "Shri Laxmi Traders",
+    "model_name": "FT 45 POWERMAXX",
+    "horse_power": 50.0,
+    "asset_cost": 795000.0
+  },
+  "173615098_2_pg29": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        866.75048828125,
+        1286.48046875,
+        988.4796142578125,
+        1361.451171875
+      ],
+      "conf": 0.669501781463623
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        857.0137329101562,
+        1215.9320068359375,
+        1003.2880859375,
+        1378.262451171875
+      ],
+      "conf": 0.8463956117630005
+    },
+    "dealer_name": "S. L. AGARWAL & CO.",
+    "model_name": "FARMTRAC CHAMPION XP41",
+    "horse_power": 42.0,
+    "asset_cost": 750000.0
+  },
+  "173638911_3_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        1078.86328125,
+        1079.79541015625,
+        1200.1844482421875,
+        1165.935302734375
+      ],
+      "conf": 0.48970022797584534
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1013.2225952148438,
+        1076.6751708984375,
+        1249.3050537109375,
+        1170.19091796875
+      ],
+      "conf": 0.5623263716697693
+    },
+    "dealer_name": "The Odisha Agro Industries Corporation Ltd.",
+    "model_name": "Mahindra YUVO Tech+ 575 DI 4WD",
+    "horse_power": 47.0,
+    "asset_cost": 925039.0
+  },
+  "173649668_2_pg21": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        793.423583984375,
+        1348.647216796875,
+        978.890625,
+        1408.5753173828125
+      ],
+      "conf": 0.4035768508911133
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "SRI RANGANATHA EICHER TRACTORS",
+    "model_name": "480",
+    "horse_power": 45.0,
+    "asset_cost": 650000.0
+  },
+  "173653929_1_pg38": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        149.10874938964844,
+        1174.194091796875,
+        296.2658386230469,
+        1242.2088623046875
+      ],
+      "conf": 0.6944621205329895
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        778.5390625,
+        1125.2623291015625,
+        960.029296875,
+        1303.109619140625
+      ],
+      "conf": 0.9232407808303833
+    },
+    "dealer_name": "RAJARAJESHWARI AGENCIES",
+    "model_name": "EICHER 380(2WD) PRIMA-673",
+    "horse_power": 40.0,
+    "asset_cost": 850000.0
+  },
+  "173661108_1_pg38": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        695.3256225585938,
+        1149.9224853515625,
+        835.8947143554688,
+        1280.0103759765625
+      ],
+      "conf": 0.5383151173591614
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        656.6046752929688,
+        1112.6297607421875,
+        874.2476196289062,
+        1330.4962158203125
+      ],
+      "conf": 0.9512616991996765
+    },
+    "dealer_name": "Sri Kalleshwar Tractors",
+    "model_name": "PT EURO 42 PLUS",
+    "horse_power": 45.0,
+    "asset_cost": 850000.0
+  },
+  "173673066_3_pg5": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        909.712158203125,
+        1316.961181640625,
+        1113.575439453125,
+        1424.266357421875
+      ],
+      "conf": 0.4310266673564911
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        907.6298217773438,
+        1287.45263671875,
+        1077.219482421875,
+        1452.08056640625
+      ],
+      "conf": 0.9561775922775269
+    },
+    "dealer_name": "Raj Auto Traders Pvt. Ltd.",
+    "model_name": "275 MIBIO",
+    "horse_power": 39.0,
+    "asset_cost": 730000.0
+  },
+  "173679851_1_pg30": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        792.7462768554688,
+        1233.4681396484375,
+        958.6593627929688,
+        1282.6624755859375
+      ],
+      "conf": 0.6444342732429504
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "BALAJI TRACTORS",
+    "model_name": "DI-745 III P.P. OIB PS",
+    "horse_power": 50.0,
+    "asset_cost": 765000.0
+  },
+  "173686358_1_pg39": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        719.2661743164062,
+        1495.473876953125,
+        854.1883544921875,
+        1621.461181640625
+      ],
+      "conf": 0.781425416469574
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        688.8348999023438,
+        1455.1658935546875,
+        896.7406616210938,
+        1638.105712890625
+      ],
+      "conf": 0.9140198230743408
+    },
+    "dealer_name": "B.G. Shettar & Sons",
+    "model_name": "Swaraj 717/724/834/735/843/742/744/855/960/963/969 TRACTOR XT NCM",
+    "horse_power": 50.0,
+    "asset_cost": 820000.0
+  },
+  "173686375_1_pg40": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        736.9733276367188,
+        1211.2294921875,
+        940.1612548828125,
+        1322.0205078125
+      ],
+      "conf": 0.5716468095779419
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        718.1458129882812,
+        1172.9146728515625,
+        934.6591796875,
+        1385.3935546875
+      ],
+      "conf": 0.9086496233940125
+    },
+    "dealer_name": "Jeevan Tractors",
+    "model_name": "PROMAXX-42",
+    "horse_power": 42.0,
+    "asset_cost": 790000.0
+  },
+  "90018412738_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        3389.851806640625,
+        5304.33984375,
+        3806.015625,
+        5708.4677734375
+      ],
+      "conf": 0.7110052704811096
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3248.529052734375,
+        5238.2685546875,
+        3913.04736328125,
+        5796.0
+      ],
+      "conf": 0.9255353212356567
+    },
+    "dealer_name": "M/s. HIREMATH TRACTORS",
+    "model_name": "EICHER-557",
+    "horse_power": 50.0,
+    "asset_cost": 987000.0
+  },
+  "90018455419_175105661_2_pg25": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        908.7127075195312,
+        1356.9547119140625,
+        1111.8319091796875,
+        1448.4576416015625
+      ],
+      "conf": 0.6811924576759338
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        899.0830688476562,
+        1344.5831298828125,
+        1069.9293212890625,
+        1507.3170166015625
+      ],
+      "conf": 0.9485307931900024
+    },
+    "dealer_name": "AJAY TRACTORS AND MOTORS",
+    "model_name": "3600-2",
+    "horse_power": 50.0,
+    "asset_cost": 750000.0
+  },
+  "90018584435_175639609_pg2": {
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "M/S SINGH FARMTRAC",
+    "model_name": "FT- 47 4WD",
+    "horse_power": null,
+    "asset_cost": 770000.0
+  },
+  "90018645014_175099338_3_pg9": {
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "M/s Shivnath Tractors",
+    "model_name": "585 YUVO DI Tech+ 4WD",
+    "horse_power": 49.0,
+    "asset_cost": 885000.0
+  },
+  "90018694760_175394784_2_pg34": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        825.966064453125,
+        1299.105712890625,
+        1029.0797119140625,
+        1393.1824951171875
+      ],
+      "conf": 0.5189109444618225
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        881.2066650390625,
+        1250.306640625,
+        1057.726806640625,
+        1418.581298828125
+      ],
+      "conf": 0.9464306831359863
+    },
+    "dealer_name": "M/s GAYATRI TRACTORS",
+    "model_name": "368",
+    "horse_power": 38.0,
+    "asset_cost": 650000.0
+  },
+  "90018772380_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        694.6828002929688,
+        1274.925048828125,
+        850.8483276367188,
+        1347.2330322265625
+      ],
+      "conf": 0.62815260887146
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        650.9277954101562,
+        1194.010986328125,
+        862.3965454101562,
+        1391.8927001953125
+      ],
+      "conf": 0.9577543139457703
+    },
+    "dealer_name": "Samarth Tractors",
+    "model_name": "Swaraj Target 630 / 625 OTEPR",
+    "horse_power": 29.0,
+    "asset_cost": 598000.0
+  },
+  "90018824033_175118795_2_pg33": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        797.1797485351562,
+        1139.2802734375,
+        885.991455078125,
+        1187.5911865234375
+      ],
+      "conf": 0.7421621084213257
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        747.0123291015625,
+        1055.292236328125,
+        938.4373779296875,
+        1241.2945556640625
+      ],
+      "conf": 0.9526699781417847
+    },
+    "dealer_name": "Amar Tractors & Farm Implement",
+    "model_name": "Mahindra 275 NBP",
+    "horse_power": 39.0,
+    "asset_cost": 730115.0
+  },
+  "90018866223_175262018_2_pg12": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        321.2552490234375,
+        1272.8590087890625,
+        554.7381591796875,
+        1371.41650390625
+      ],
+      "conf": 0.6196306347846985
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        293.94317626953125,
+        1230.4368896484375,
+        508.3526611328125,
+        1438.725341796875
+      ],
+      "conf": 0.9420971274375916
+    },
+    "dealer_name": "BABA AGRICULTURE & AUTOMOBILES",
+    "model_name": "YUVO TECH + 975 DI",
+    "horse_power": 47.0,
+    "asset_cost": 810000.0
+  },
+  "90018869965_175601032_2_pg33": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        787.7029418945312,
+        1395.025634765625,
+        1011.3720703125,
+        1496.259521484375
+      ],
+      "conf": 0.6881441473960876
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        840.7763671875,
+        1349.7911376953125,
+        1016.32373046875,
+        1522.80126953125
+      ],
+      "conf": 0.9408056735992432
+    },
+    "dealer_name": "Starline Tractors Pvt. Limited",
+    "model_name": "MF 211 DI M3",
+    "horse_power": 16.0,
+    "asset_cost": 690000.0
+  },
+  "90018882696_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        839.7176513671875,
+        1302.4854736328125,
+        959.776611328125,
+        1401.07470703125
+      ],
+      "conf": 0.401734322309494
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        810.8953247070312,
+        1269.8292236328125,
+        964.0928955078125,
+        1410.8521728515625
+      ],
+      "conf": 0.4227183759212494
+    },
+    "dealer_name": "Renuka Motors",
+    "model_name": "Eicher 548",
+    "horse_power": 48.0,
+    "asset_cost": 860000.0
+  },
+  "90018907907_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        773.146484375,
+        1507.6531982421875,
+        1006.6795043945312,
+        1635.27783203125
+      ],
+      "conf": 0.5799222588539124
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        746.8050537109375,
+        1448.67431640625,
+        965.8430786132812,
+        1684.0
+      ],
+      "conf": 0.9360995292663574
+    },
+    "dealer_name": "SRI MAHALAKSHMI INTERNATIONAL TRACTORS",
+    "model_name": "SONALIKA DI 730",
+    "horse_power": 30.0,
+    "asset_cost": 580000.0
+  },
+  "90018912857_175257879_3_pg7": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        325.9171447753906,
+        1375.155517578125,
+        516.4788818359375,
+        1500.42919921875
+      ],
+      "conf": 0.6970779299736023
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        844.8162231445312,
+        1373.1361083984375,
+        1030.771484375,
+        1540.0
+      ],
+      "conf": 0.9339963793754578
+    },
+    "dealer_name": "SANDEEP EICHER",
+    "model_name": "V25 24 HP/242 Extra Premium",
+    "horse_power": 24.0,
+    "asset_cost": 550000.0
+  },
+  "90018914372_175263381_1_pg18": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        806.8770751953125,
+        1171.327880859375,
+        968.2515258789062,
+        1303.283203125
+      ],
+      "conf": 0.7292091846466064
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        773.053955078125,
+        1159.3555908203125,
+        956.3746337890625,
+        1334.0467529296875
+      ],
+      "conf": 0.9406640529632568
+    },
+    "dealer_name": "SHREE SAI AUTOMOBILES",
+    "model_name": "Farmtrac PowerMaxx 55HP",
+    "horse_power": 55.0,
+    "asset_cost": 830000.0
+  },
+  "90018926292_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        799.2063598632812,
+        1252.7039794921875,
+        899.6809692382812,
+        1305.5203857421875
+      ],
+      "conf": 0.7331483960151672
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        767.5466918945312,
+        1219.6302490234375,
+        887.8990478515625,
+        1329.904541015625
+      ],
+      "conf": 0.9183074235916138
+    },
+    "dealer_name": "M.Bancker Patil Tractors",
+    "model_name": "PowerTrac PT6004T",
+    "horse_power": 47.0,
+    "asset_cost": 761000.0
+  },
+  "90018926292_OTHERS_v2_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        888.4703979492188,
+        1383.379150390625,
+        1044.043212890625,
+        1470.2734375
+      ],
+      "conf": 0.5792137384414673
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        848.7041625976562,
+        1339.420654296875,
+        1026.9896240234375,
+        1500.77734375
+      ],
+      "conf": 0.9342473745346069
+    },
+    "dealer_name": "M.Bancker Patil Tractors",
+    "model_name": "POWERTRAC TRACTOR PT61004T",
+    "horse_power": 47.0,
+    "asset_cost": 761000.0
+  },
+  "90018953627_1_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        879.157470703125,
+        1473.407958984375,
+        1004.1968383789062,
+        1513.1439208984375
+      ],
+      "conf": 0.7021055817604065
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        830.3389892578125,
+        1441.4315185546875,
+        1022.472900390625,
+        1538.169189453125
+      ],
+      "conf": 0.6505373120307922
+    },
+    "dealer_name": "SAI OM TRACTORS",
+    "model_name": "Escorts 60 Power Plus",
+    "horse_power": 55.0,
+    "asset_cost": 750000.0
+  },
+  "90018984759_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        969.334228515625,
+        1388.144287109375,
+        1115.8577880859375,
+        1434.097412109375
+      ],
+      "conf": 0.333680659532547
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        968.5302124023438,
+        1376.27783203125,
+        1174.5023193359375,
+        1459.218017578125
+      ],
+      "conf": 0.7489867210388184
+    },
+    "dealer_name": "SRI GAYATHRI AUTOMOTIVES",
+    "model_name": "551 4WD",
+    "horse_power": 49.0,
+    "asset_cost": 1030000.0
+  },
+  "90019025553_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        829.2233276367188,
+        1444.1910400390625,
+        1051.510009765625,
+        1552.9945068359375
+      ],
+      "conf": 0.5754002332687378
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        806.8777465820312,
+        1445.568603515625,
+        1082.0404052734375,
+        1579.9805908203125
+      ],
+      "conf": 0.7592223286628723
+    },
+    "dealer_name": "PARVEZ TRACTORS",
+    "model_name": "Mahindra 275 DI OX",
+    "horse_power": 37.0,
+    "asset_cost": 720000.0
+  },
+  "90019031024_1_v2_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        1648.6324462890625,
+        2049.868408203125,
+        1880.72607421875,
+        2152.258056640625
+      ],
+      "conf": 0.2982231378555298
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null
+  },
+  "90019070619_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        3545.32763671875,
+        5010.42431640625,
+        4363.298828125,
+        5523.505859375
+      ],
+      "conf": 0.47187569737434387
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3433.833251953125,
+        4985.28759765625,
+        4179.16259765625,
+        5753.7978515625
+      ],
+      "conf": 0.9656962156295776
+    },
+    "dealer_name": "MAURYA TRACTORS",
+    "model_name": "Excor PT 60 RS Soft T",
+    "horse_power": 37.0,
+    "asset_cost": 810000.0
+  },
+  "90019071645_Android_417_T_2_1_90019071645_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        1409.79150390625,
+        2169.281982421875,
+        1737.14208984375,
+        2276.95703125
+      ],
+      "conf": 0.7654048800468445
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1339.713134765625,
+        2084.960693359375,
+        1609.6884765625,
+        2352.2099609375
+      ],
+      "conf": 0.9475508332252502
+    },
+    "dealer_name": "MADHU PAVAN AUTOMOBILES",
+    "model_name": "New Holland - (37 hp) NH3032 SC+PS+TXDrive+36x28",
+    "horse_power": 37.0,
+    "asset_cost": 680000.0
+  },
+  "90019104930_Quotation_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        743.3473510742188,
+        1141.7955322265625,
+        887.1829223632812,
+        1211.1622314453125
+      ],
+      "conf": 0.3873783051967621
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        737.4558715820312,
+        1127.8717041015625,
+        843.4942016601562,
+        1233.5208740234375
+      ],
+      "conf": 0.9371967315673828
+    },
+    "dealer_name": "M.S. Sushant Tractor",
+    "model_name": "VST ZOTER MODEL 4511",
+    "horse_power": 45.0,
+    "asset_cost": 890000.0
+  },
+  "90019133518_OTHERS_v2_pg1": {
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "",
+    "model_name": "",
+    "horse_power": null,
+    "asset_cost": null
+  },
+  "90019206687_OTHERS_v1_pg1": {
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        533.0250244140625,
+        146.86082458496094,
+        640.0426025390625,
+        251.49838256835938
+      ],
+      "conf": 0.695942759513855
+    },
+    "dealer_name": "DM,OAIC,Mayurbhanj",
+    "model_name": "MF 246 4WD",
+    "horse_power": 45.0,
+    "asset_cost": 980792.0
+  },
+  "90019232302_1_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        926.0157470703125,
+        1512.2703857421875,
+        1036.7216796875,
+        1604.565673828125
+      ],
+      "conf": 0.5081562995910645
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        884.5894165039062,
+        1454.42333984375,
+        1086.4666748046875,
+        1650.5465087890625
+      ],
+      "conf": 0.9164479374885559
+    },
+    "dealer_name": "Sri Rajalakshmi Agency",
+    "model_name": "RA-75C",
+    "horse_power": 50.0,
+    "asset_cost": 840000.0
+  },
+  "90019261328_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        3141.4169921875,
+        4476.73046875,
+        3952.496337890625,
+        4915.94921875
+      ],
+      "conf": 0.6149121522903442
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3035.0009765625,
+        4403.09912109375,
+        3771.483642578125,
+        5111.037109375
+      ],
+      "conf": 0.9724646210670471
+    },
+    "dealer_name": "VIPIN MOTORS",
+    "model_name": "DIGITRAC-PP43I",
+    "horse_power": 50.0,
+    "asset_cost": 950000.0
+  },
+  "90019265192_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        915.1138916015625,
+        1255.4356689453125,
+        1055.0447998046875,
+        1373.705810546875
+      ],
+      "conf": 0.4932612478733063
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        896.9640502929688,
+        1255.8795166015625,
+        1075.1077880859375,
+        1429.7509765625
+      ],
+      "conf": 0.9381853342056274
+    },
+    "dealer_name": "SHRI MURALIDHAR MOTORS",
+    "model_name": "M.F.7250 POWER UP",
+    "horse_power": 50.0,
+    "asset_cost": 700000.0
+  },
+  "90019268802_OTHERS_v1_pg1": {
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "Sri Raghavendra Tractors",
+    "model_name": "ESCORTS PT-485",
+    "horse_power": 25.0,
+    "asset_cost": 630000.0
+  },
+  "90019288399_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        981.8759155273438,
+        1406.8321533203125,
+        1113.70556640625,
+        1488.572509765625
+      ],
+      "conf": 0.6953359842300415
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        944.4691772460938,
+        1361.349609375,
+        1144.740234375,
+        1568.3385009765625
+      ],
+      "conf": 0.9403796792030334
+    },
+    "dealer_name": "Suryanarayana Tractors",
+    "model_name": "Aashir 485 Silver",
+    "horse_power": 49.0,
+    "asset_cost": 715000.0
+  },
+  "90019297167_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        883.9375610351562,
+        1530.90966796875,
+        1097.686279296875,
+        1648.4219970703125
+      ],
+      "conf": 0.7102196216583252
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        863.6240844726562,
+        1481.631103515625,
+        1060.624267578125,
+        1676.5052490234375
+      ],
+      "conf": 0.9147617816925049
+    },
+    "dealer_name": "SANDEEP EICHER",
+    "model_name": "4035-HP/380-3 Cylinder Super DI",
+    "horse_power": 40.0,
+    "asset_cost": 775000.0
+  },
+  "90019306445_1_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        893.732177734375,
+        1490.679931640625,
+        1036.119873046875,
+        1564.3433837890625
+      ],
+      "conf": 0.7534695267677307
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        874.8754272460938,
+        1465.28271484375,
+        1017.5111694335938,
+        1609.1776123046875
+      ],
+      "conf": 0.9246616363525391
+    },
+    "dealer_name": "M/s. SHREE MOTORS",
+    "model_name": "SWARAJ 735FE",
+    "horse_power": 40.0,
+    "asset_cost": 806456.0
+  },
+  "90019317135_OTHERS_v1_pg1": {
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        925.1873779296875,
+        1076.7552490234375,
+        1089.6785888671875,
+        1243.593505859375
+      ],
+      "conf": 0.8772070407867432
+    },
+    "dealer_name": "Nagaur Motors & Tractors",
+    "model_name": "MF 1035 DI RS",
+    "horse_power": 35.0,
+    "asset_cost": 531900.0
+  },
+  "90019347483_1_v2_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        995.2825927734375,
+        1448.8389892578125,
+        1101.1400146484375,
+        1524.2003173828125
+      ],
+      "conf": 0.4980499744415283
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1031.8409423828125,
+        1447.32568359375,
+        1143.5308837890625,
+        1541.1197509765625
+      ],
+      "conf": 0.4159921407699585
+    },
+    "dealer_name": "JAI KISSAN TRACTORS",
+    "model_name": "DI-35",
+    "horse_power": 39.0,
+    "asset_cost": 535000.0
+  },
+  "90019353834_OTHERS_v2_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        791.780029296875,
+        1329.6937255859375,
+        936.67041015625,
+        1451.7725830078125
+      ],
+      "conf": 0.6808385848999023
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        751.2418823242188,
+        1286.5767822265625,
+        975.5306396484375,
+        1510.3990478515625
+      ],
+      "conf": 0.9538019299507141
+    },
+    "dealer_name": "Guru Kirpa Automobiles",
+    "model_name": "SWARAJ 855",
+    "horse_power": 49.0,
+    "asset_cost": 950000.0
+  },
+  "90019370158_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        849.573974609375,
+        1318.7071533203125,
+        1014.5317993164062,
+        1444.2701416015625
+      ],
+      "conf": 0.6345154643058777
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        876.5422973632812,
+        1317.3172607421875,
+        1036.25634765625,
+        1470.136962890625
+      ],
+      "conf": 0.9245502352714539
+    },
+    "dealer_name": "SHREE TRADERS",
+    "model_name": "SONALIKA TRACTOR T-642",
+    "horse_power": 42.0,
+    "asset_cost": 670000.0
+  },
+  "90019463369_OTHERS_v1_pg1": {
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        926.1785888671875,
+        1392.057861328125,
+        1071.313720703125,
+        1540.526611328125
+      ],
+      "conf": 0.916901171207428
+    },
+    "dealer_name": "Bhavya Motors",
+    "model_name": "NEW HOLLAND 3630 TX SUPER PLUS 4WD",
+    "horse_power": 49.5,
+    "asset_cost": 1030000.0
+  },
+  "90019480454_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        915.499755859375,
+        1480.9739990234375,
+        1148.001220703125,
+        1570.5760498046875
+      ],
+      "conf": 0.5393434166908264
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        797.7738037109375,
+        1458.1197509765625,
+        1190.0,
+        1608.355224609375
+      ],
+      "conf": 0.6926196217536926
+    },
+    "dealer_name": "VISOK TRADERS",
+    "model_name": "251 II P 24",
+    "horse_power": 24.0,
+    "asset_cost": 450000.0
+  },
+  "90019481745_OTHERS_v2_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        836.68896484375,
+        1404.4775390625,
+        1027.59326171875,
+        1547.7725830078125
+      ],
+      "conf": 0.6468155980110168
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        802.0924072265625,
+        1373.1209716796875,
+        989.0505981445312,
+        1558.5499267578125
+      ],
+      "conf": 0.9385932683944702
+    },
+    "dealer_name": "M/s. SHREE BASAVA TRACTORS",
+    "model_name": "575 DI XP PLUS",
+    "horse_power": 47.0,
+    "asset_cost": 830000.0
+  },
+  "90019497482_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        955.8096313476562,
+        1413.6947021484375,
+        1068.818603515625,
+        1494.5762939453125
+      ],
+      "conf": 0.43032804131507874
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        0.0,
+        78.49215698242188,
+        204.17886352539062,
+        318.7845764160156
+      ],
+      "conf": 0.8361283540725708
+    },
+    "dealer_name": "Shree Mahakuteshwar Traders",
+    "model_name": "Solis 7415 2WD",
+    "horse_power": 30.0,
+    "asset_cost": 700000.0
+  },
+  "90019537586_OTHERS_v2_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        944.9395141601562,
+        1357.145263671875,
+        1179.2598876953125,
+        1433.39111328125
+      ],
+      "conf": 0.3756672143936157
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        927.4619750976562,
+        1317.424560546875,
+        1111.9361572265625,
+        1501.3333740234375
+      ],
+      "conf": 0.9503028392791748
+    },
+    "dealer_name": "M/s. Shree Amba Motors",
+    "model_name": "MF245 DI",
+    "horse_power": 46.0,
+    "asset_cost": 670000.0
+  },
+  "90019540351_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        1032.312255859375,
+        1299.9937744140625,
+        1134.9334716796875,
+        1372.5374755859375
+      ],
+      "conf": 0.43615347146987915
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "NEW GANAA BEEJ BHANDAR",
+    "model_name": "DIGITRAC PP 3i",
+    "horse_power": 50.0,
+    "asset_cost": 850000.0
+  },
+  "90019553222_1_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        647.8818969726562,
+        1495.2698974609375,
+        799.5667114257812,
+        1608.5850830078125
+      ],
+      "conf": 0.6133983135223389
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "dealer_name": "Goyat Tractors",
+    "model_name": "FT50 Powermax",
+    "horse_power": 50.0,
+    "asset_cost": 730000.0
+  },
+  "90019564591_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        939.3091430664062,
+        1363.7769775390625,
+        1108.13037109375,
+        1501.4285888671875
+      ],
+      "conf": 0.8476598262786865
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        920.7977905273438,
+        1367.446533203125,
+        1106.7113037109375,
+        1552.8822021484375
+      ],
+      "conf": 0.944976270198822
+    },
+    "dealer_name": "KRISHNA TRACTORS",
+    "model_name": "FT 50 POWER MAXX",
+    "horse_power": 50.0,
+    "asset_cost": 725000.0
+  },
+  "90019571048_2_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        833.6659545898438,
+        1322.0849609375,
+        1057.4073486328125,
+        1450.3580322265625
+      ],
+      "conf": 0.646752655506134
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        835.5077514648438,
+        1303.169677734375,
+        1036.963623046875,
+        1482.3853759765625
+      ],
+      "conf": 0.9220781922340393
+    },
+    "dealer_name": "Manorama Tractors",
+    "model_name": "DI 35 RX 39",
+    "horse_power": 39.0,
+    "asset_cost": 690000.0
+  },
+  "90019597614_1_v2_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        999.7341918945312,
+        1368.1435546875,
+        1168.76318359375,
+        1467.518310546875
+      ],
+      "conf": 0.7831032276153564
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        965.4427490234375,
+        1337.279052734375,
+        1134.0057373046875,
+        1502.6304931640625
+      ],
+      "conf": 0.9376641511917114
+    },
+    "dealer_name": "Sharma Tractors",
+    "model_name": "8630 TX",
+    "horse_power": 55.0,
+    "asset_cost": 870000.0
+  },
+  "90019603825_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        930.2944946289062,
+        1442.3016357421875,
+        1094.6456298828125,
+        1576.774169921875
+      ],
+      "conf": 0.6450626850128174
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        902.8841552734375,
+        1453.658935546875,
+        1096.5421142578125,
+        1631.0374755859375
+      ],
+      "conf": 0.7534419298171997
+    },
+    "dealer_name": "Jain Tractors",
+    "model_name": "MF 246 Dyna",
+    "horse_power": 46.0,
+    "asset_cost": 790000.0
+  },
+  "90019622433_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        858.61083984375,
+        1383.4029541015625,
+        1058.6590576171875,
+        1514.5947265625
+      ],
+      "conf": 0.46808263659477234
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        855.0929565429688,
+        1392.5057373046875,
+        1044.500732421875,
+        1576.41015625
+      ],
+      "conf": 0.9486940503120422
+    },
+    "dealer_name": "M/s. DASHMESH AUTOMOBILES",
+    "model_name": "SWARAJ 744 FE",
+    "horse_power": 48.0,
+    "asset_cost": 653000.0
+  },
+  "90019665101_OTHERS_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        885.058837890625,
+        1264.3568115234375,
+        979.1802978515625,
+        1318.284912109375
+      ],
+      "conf": 0.4930691421031952
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        834.5377807617188,
+        1202.1728515625,
+        982.620849609375,
+        1351.053955078125
+      ],
+      "conf": 0.9387375712394714
+    },
+    "dealer_name": "USHA MOTORS",
+    "model_name": "39 PROMAXX DCPS",
+    "horse_power": 38.0,
+    "asset_cost": 630000.0
+  },
+  "90019675571_OTHERS_v2_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        924.0167236328125,
+        1500.061279296875,
+        1025.0513916015625,
+        1547.051025390625
+      ],
+      "conf": 0.848201334476471
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        831.8260498046875,
+        1481.53466796875,
+        1047.09375,
+        1592.9259033203125
+      ],
+      "conf": 0.791982114315033
+    },
+    "dealer_name": "M/s. SHRI RAM TRACTORS",
+    "model_name": "POWERTRAC 434",
+    "horse_power": 39.0,
+    "asset_cost": 500000.0
+  },
+  "90019705325_1_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        863.9801025390625,
+        1382.9410400390625,
+        990.8218383789062,
+        1492.5625
+      ],
+      "conf": 0.6967733502388
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        755.0901489257812,
+        1381.164306640625,
+        1063.4443359375,
+        1525.525146484375
+      ],
+      "conf": 0.3390999436378479
+    },
+    "dealer_name": "M/s. SUKHWAH FARM SERVICES",
+    "model_name": "NANO 605 PS",
+    "horse_power": 45.0,
+    "asset_cost": 875000.0
+  },
+  "90019714854_6_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        786.8574829101562,
+        1368.39599609375,
+        1017.9571533203125,
+        1477.769287109375
+      ],
+      "conf": 0.5374674201011658
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        784.6773071289062,
+        1338.04833984375,
+        977.248291015625,
+        1494.2891845703125
+      ],
+      "conf": 0.9078561663627625
+    },
+    "dealer_name": "SAPNA TRACTOR",
+    "model_name": "Solis 4415 2WD",
+    "horse_power": 48.0,
+    "asset_cost": 700000.0
+  },
+  "90019735954_OTHERS_v1_pg1": {
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        1006.4650268554688,
+        1033.8916015625,
+        1331.44580078125,
+        1162.52587890625
+      ],
+      "conf": 0.8110294938087463
+    },
+    "dealer_name": "Mundel Trade Private Limited",
+    "model_name": "MF-241 DI",
+    "horse_power": 42.0,
+    "asset_cost": 580000.0
+  },
+  "90019780900_1_v1_pg1": {
+    "signature": {
+      "present": true,
+      "bbox": [
+        838.69873046875,
+        1406.4935302734375,
+        1006.449951171875,
+        1466.6566162109375
+      ],
+      "conf": 0.764134407043457
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        789.3470458984375,
+        1374.7601318359375,
+        1044.3359375,
+        1524.99267578125
+      ],
+      "conf": 0.8031837940216064
+    },
+    "dealer_name": "SHRI RAM TRACTOR",
+    "model_name": "SONALIKA TIGER-55",
+    "horse_power": 55.0,
+    "asset_cost": 1030000.0
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "173441333_1_pg28",
+  "fields": {
+    "dealer_name": "CHAMUNDESURI AGENCIES",
+    "model_name": "SWARAJ 843 XM",
+    "horse_power": 42,
+    "asset_cost": 550000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        848.871826171875,
+        1374.127197265625,
+        963.8175048828125,
+        1468.601318359375
+      ],
+      "conf": 0.7627245187759399
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        804.1814575195312,
+        1348.875,
+        981.3923950195312,
+        1519.5059814453125
+      ],
+      "conf": 0.9604243040084839
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.723; VLM logprob=-0.075; please verify",
+  "vlm_conf_logprob": -0.07535171330542105
+}

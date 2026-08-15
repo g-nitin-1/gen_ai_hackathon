@@ -1,0 +1,13 @@
+torch>=2.0.0
+transformers>=4.40.0
+peft>=0.10.0
+bitsandbytes>=0.43.0
+accelerate>=0.28.0
+ultralytics>=8.0.0
+Pillow>=10.0.0
+pdf2image>=1.16.0
+PyMuPDF>=1.23.0
+tqdm>=4.65.0
+numpy>=1.24.0
+gradio>=4.0.0
+matplotlib>=3.7.0

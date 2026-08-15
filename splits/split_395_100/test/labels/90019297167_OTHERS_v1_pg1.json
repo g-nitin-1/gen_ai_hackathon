@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019297167_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Sandeep Eicher",
+    "model_name": "380-3 Cylinder Super DI",
+    "horse_power": 40,
+    "asset_cost": 775000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        878.0755615234375,
+        1530.2540283203125,
+        1109.1142578125,
+        1650.1051025390625
+      ],
+      "conf": 0.9465819001197815
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        861.9846801757812,
+        1477.7232666015625,
+        1058.899658203125,
+        1676.2532958984375
+      ],
+      "conf": 0.9572944045066833
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.904; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.05574002364101208
+}

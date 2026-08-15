@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019070619_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "MAURYA TRACTORS",
+    "model_name": "Tractor Escort PT Euro 50",
+    "horse_power": 52,
+    "asset_cost": 810000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        3196.149169921875,
+        5169.59912109375,
+        4347.7705078125,
+        5536.60546875
+      ],
+      "conf": 0.7810987234115601
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3445.895751953125,
+        4967.23193359375,
+        4194.87548828125,
+        5759.7314453125
+      ],
+      "conf": 0.9494796395301819
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.731; VLM logprob=-0.200; please verify",
+  "vlm_conf_logprob": -0.200096076593656
+}

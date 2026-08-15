@@ -1,0 +1,29 @@
+{
+  "doc_id": "172858047_3_pg3",
+  "fields": {
+    "dealer_name": "Manpreet Tractors",
+    "model_name": "SONALIKA DI42 PS",
+    "horse_power": 42,
+    "asset_cost": 755000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        771.09375,
+        1003.21875,
+        992.96875,
+        1061.03125
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        783.59375,
+        936.03125,
+        967.96875,
+        1118.84375
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.655; VLM logprob=-0.028; please verify"
+}

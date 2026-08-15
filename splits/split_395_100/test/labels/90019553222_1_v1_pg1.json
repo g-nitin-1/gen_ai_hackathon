@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019553222_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Goyat Tractors",
+    "model_name": "FT 50 Powermaxx",
+    "horse_power": 50,
+    "asset_cost": 730000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        657.9708862304688,
+        1491.8134765625,
+        794.28564453125,
+        1606.7144775390625
+      ],
+      "conf": 0.7645063400268555
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        595.5342407226562,
+        1454.358642578125,
+        772.5385131835938,
+        1605.1126708984375
+      ],
+      "conf": 0.7444236874580383
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.509; VLM logprob=-0.070; please verify",
+  "vlm_conf_logprob": -0.07009212724024867
+}

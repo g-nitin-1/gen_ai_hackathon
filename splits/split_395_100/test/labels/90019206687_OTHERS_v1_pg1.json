@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019206687_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "MAY/89820",
+    "model_name": "MF 246 4WD",
+    "horse_power": 45,
+    "asset_cost": 980792,
+    "signature": {
+      "present": true,
+      "bbox": [
+        548.86767578125,
+        176.7876434326172,
+        621.5639038085938,
+        223.11154174804688
+      ],
+      "conf": 0.8164077997207642
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        532.7979736328125,
+        147.45684814453125,
+        638.7460327148438,
+        252.41905212402344
+      ],
+      "conf": 0.8740068674087524
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.690; VLM logprob=-0.099; please verify",
+  "vlm_conf_logprob": -0.09854408857419386
+}

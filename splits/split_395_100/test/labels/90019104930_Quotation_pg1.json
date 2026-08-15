@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019104930_Quotation_pg1",
+  "fields": {
+    "dealer_name": "M/S SUSHANT TRACTOR",
+    "model_name": "VST ZOTER MODEL 4511",
+    "horse_power": 45,
+    "asset_cost": 890000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        774.5428466796875,
+        1131.5465087890625,
+        860.9010620117188,
+        1206.7161865234375
+      ],
+      "conf": 0.645227313041687
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        736.8126220703125,
+        1125.693603515625,
+        856.425537109375,
+        1236.494873046875
+      ],
+      "conf": 0.9029354453086853
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.548; VLM logprob=-0.047; please verify",
+  "vlm_conf_logprob": -0.047350410874033654
+}

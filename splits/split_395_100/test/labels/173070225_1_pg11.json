@@ -1,0 +1,32 @@
+{
+  "doc_id": "173070225_1_pg11",
+  "fields": {
+    "dealer_name": "Shri BASAV MOTORS",
+    "model_name": "DI-720 II POWERPLUS OIB PS-2WD",
+    "horse_power": 55,
+    "asset_cost": 930000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        878.7931518554688,
+        1237.6092529296875,
+        1027.791748046875,
+        1337.3555908203125
+      ],
+      "conf": 0.8531838655471802
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        873.60400390625,
+        1236.055419921875,
+        1029.416015625,
+        1380.2183837890625
+      ],
+      "conf": 0.938485324382782
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.792; VLM logprob=-0.101; please verify",
+  "vlm_conf_logprob": -0.10130774157606935
+}

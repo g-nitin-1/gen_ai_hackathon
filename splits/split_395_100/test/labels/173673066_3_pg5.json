@@ -1,0 +1,32 @@
+{
+  "doc_id": "173673066_3_pg5",
+  "fields": {
+    "dealer_name": "Raj Auto Traders Pvt. Ltd.",
+    "model_name": "Mahindra 275 MBD",
+    "horse_power": 39,
+    "asset_cost": 730000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        917.8060302734375,
+        1290.1522216796875,
+        1116.80126953125,
+        1404.6009521484375
+      ],
+      "conf": 0.7965079545974731
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        911.0027465820312,
+        1286.3475341796875,
+        1081.873291015625,
+        1454.2064208984375
+      ],
+      "conf": 0.9514116644859314
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.748; VLM logprob=-0.099; please verify",
+  "vlm_conf_logprob": -0.0985641908392218
+}

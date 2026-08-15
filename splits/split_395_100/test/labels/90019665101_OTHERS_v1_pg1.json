@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019665101_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "USHA MOTORS",
+    "model_name": "39 PROMAXX DCPS",
+    "horse_power": 38,
+    "asset_cost": 630000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        873.3233032226562,
+        1255.912841796875,
+        1015.4058227539062,
+        1322.3206787109375
+      ],
+      "conf": 0.7343160510063171
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        838.6651000976562,
+        1200.9892578125,
+        994.878173828125,
+        1348.843017578125
+      ],
+      "conf": 0.9174467325210571
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.652; VLM logprob=-0.024; please verify",
+  "vlm_conf_logprob": -0.02435517437186263
+}

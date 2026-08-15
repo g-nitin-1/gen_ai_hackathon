@@ -1,0 +1,29 @@
+{
+  "doc_id": "172823551_2_pg21",
+  "fields": {
+    "dealer_name": "KASHISH AUTOMOBILES",
+    "model_name": "YANMAR 5015",
+    "horse_power": 50,
+    "asset_cost": 865000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        885.0,
+        1355.5714285714284,
+        1017.1428571428571,
+        1480.5714285714284
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        856.4285714285713,
+        1327.0,
+        1031.4285714285713,
+        1505.5714285714284
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.864; VLM logprob=0.000; please verify"
+}

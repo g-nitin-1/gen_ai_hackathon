@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019705325_1_v1_pg1",
+  "fields": {
+    "dealer_name": "M/s. SUKHWAH FARM SERVICES",
+    "model_name": "NANO 605 PS",
+    "horse_power": 45,
+    "asset_cost": 875000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        858.5308837890625,
+        1387.0106201171875,
+        985.24755859375,
+        1495.83447265625
+      ],
+      "conf": 0.6033378839492798
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        738.1194458007812,
+        1426.98583984375,
+        1101.78515625,
+        1547.955078125
+      ],
+      "conf": 0.7766710519790649
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.380; VLM logprob=-0.092; please verify",
+  "vlm_conf_logprob": -0.09212513188469529
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "90018584435_175639609_pg2",
+  "fields": {
+    "dealer_name": "M/s SINGH FARMTRAC",
+    "model_name": "FT-47 4WD",
+    "horse_power": 47,
+    "asset_cost": 770000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        846.6339721679688,
+        996.700927734375,
+        1016.913818359375,
+        1115.732666015625
+      ],
+      "conf": 0.5291144251823425
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.529; VLM logprob=-0.031; please verify",
+  "vlm_conf_logprob": -0.0312911582423669
+}

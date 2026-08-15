@@ -1,0 +1,31 @@
+{
+  "doc_id": "172656573_1_pg4",
+  "fields": {
+    "dealer_name": "Madav Motore Pachore",
+    "model_name": "485, SC, FL",
+    "horse_power": 45,
+    "asset_cost": 760000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        955.3766479492188,
+        1086.2451171875,
+        1125.7513427734375,
+        1229.3580322265625
+      ],
+      "conf": 0.9188278317451477
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        941.0423583984375,
+        1091.4578857421875,
+        1113.2327880859375,
+        1253.9222412109375
+      ],
+      "conf": 0.9396953582763672
+    }
+  },
+  "source": "vlm+yolo_workflow",
+  "notes": "YOLO score=1.859; VLM logprob=-0.028; please verify"
+}

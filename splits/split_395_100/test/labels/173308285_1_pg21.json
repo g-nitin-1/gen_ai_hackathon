@@ -1,0 +1,32 @@
+{
+  "doc_id": "173308285_1_pg21",
+  "fields": {
+    "dealer_name": "KALER & GILL TRACTORS",
+    "model_name": "Swaraj 799 XT",
+    "horse_power": 50,
+    "asset_cost": 788000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        895.0463256835938,
+        1343.311767578125,
+        1028.82861328125,
+        1438.0556640625
+      ],
+      "conf": 0.4994395077228546
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        894.36669921875,
+        1332.3218994140625,
+        1092.9073486328125,
+        1472.5928955078125
+      ],
+      "conf": 0.6181713938713074
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.118; VLM logprob=-0.064; please verify",
+  "vlm_conf_logprob": -0.06449463512016874
+}

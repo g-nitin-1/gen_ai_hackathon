@@ -1,35 +1,91 @@
-# IDFC GenAI Workflow Commands - Batch (185 -> 200 images)
-# FOCUS: STRONGER models for BOTH text AND segmentation
-# TOP 30 images per batch
-# Run these commands one by one in order
+# IDFC GenAI - TRAIN/TEST EXPERIMENTS
+# Two splits: 395/100 and 412/83
+# Final system: Accepts PDF or Image input
 # ============================================================
 
-# STEP 1: Move completed 15 annotations to done
-python3 move_to_done.py --clear-in-progress
+# ============================================================
+# SPLIT 1: 395 train, 100 test (80/20)
+# ============================================================
 
-# STEP 2: Rebuild VLM training data
-python3 prepare_vlm_jsonl.py
+# Step 1.1: Create split
+python3 split_dataset.py --train-size 395
 
-# STEP 3: Train STRONGER VLM with 200 images (more epochs, higher LoRA rank)
-python3 vlm_lora_train_v2.py --model-path models/qwen2.5-vl-7b-instruct --train-file data/vlm_gold.jsonl --output-dir vlm_lora_out --batch-size 1 --accum 8 --epochs 7 --lr 1e-4 --lora-r 64 --lora-alpha 128 --device 0 --load-4bit
+# Step 1.2: Build YOLO dataset from split
+python3 build_yolo_from_split.py --split-dir splits/split_395_100
 
-# STEP 4: Rebuild YOLO dataset
+# Step 1.3: Train YOLO on split 1
+yolo detect train data=splits/split_395_100/yolo_data/data.yaml model=yolo11m.pt epochs=200 imgsz=1024 batch=2 device=0 project=splits/split_395_100 name=yolo patience=30
+
+# Step 1.4: Build VLM training data from split
+python3 build_vlm_from_split.py --split-dir splits/split_395_100
+
+# Step 1.5: Train VLM on split 1
+python3 vlm_lora_train_v2.py --model-path models/qwen2.5-vl-7b-instruct --train-file splits/split_395_100/vlm_train.jsonl --output-dir splits/split_395_100/vlm_lora --batch-size 1 --accum 8 --epochs 10 --lr 5e-5 --lora-r 64 --lora-alpha 128 --device 0 --load-4bit
+
+# Step 1.6: Evaluate on test set (100 images)
+python3 evaluate.py --split-dir splits/split_395_100 --yolo-model splits/split_395_100/yolo/weights/best.pt --use-lora --device 0
+
+
+# ============================================================
+# SPLIT 2: 412 train, 83 test (~83/17)
+# ============================================================
+
+# Step 2.1: Create split
+python3 split_dataset.py --train-size 412
+
+# Step 2.2: Build YOLO dataset from split
+python3 build_yolo_from_split.py --split-dir splits/split_412_83
+
+# Step 2.3: Train YOLO on split 2
+yolo detect train data=splits/split_412_83/yolo_data/data.yaml model=yolo11m.pt epochs=200 imgsz=1024 batch=2 device=0 project=splits/split_412_83 name=yolo patience=30
+
+# Step 2.4: Build VLM training data from split
+python3 build_vlm_from_split.py --split-dir splits/split_412_83
+
+# Step 2.5: Train VLM on split 2
+python3 vlm_lora_train_v2.py --model-path models/qwen2.5-vl-7b-instruct --train-file splits/split_412_83/vlm_train.jsonl --output-dir splits/split_412_83/vlm_lora --batch-size 1 --accum 8 --epochs 10 --lr 5e-5 --lora-r 64 --lora-alpha 128 --device 0 --load-4bit
+
+# Step 2.6: Evaluate on test set (83 images)
+python3 evaluate.py --split-dir splits/split_412_83 --yolo-model splits/split_412_83/yolo/weights/best.pt --use-lora --device 0
+
+
+# ============================================================
+# AFTER EXPERIMENTS: Train final model on ALL 495 images
+# ============================================================
+
+# Final YOLO (all 495)
 python3 build_yolo_dataset.py
+yolo detect train data=yolo_data/data.yaml model=yolo11m.pt epochs=200 imgsz=1024 batch=2 device=0 project=runs/detect name=stamp_sig_final patience=30
 
-# STEP 5: Train STRONGER YOLO v7 with 200 images (medium model + higher resolution)
-yolo detect train data=yolo_data/data.yaml model=yolo11m.pt epochs=200 imgsz=1024 batch=2 device=0 project=runs/detect name=stamp_sig_v7 patience=25
+# Final VLM (all 495)
+python3 prepare_vlm_jsonl.py
+python3 vlm_lora_train_v2.py --model-path models/qwen2.5-vl-7b-instruct --train-file data/vlm_gold.jsonl --output-dir vlm_lora_out --batch-size 1 --accum 8 --epochs 10 --lr 5e-5 --lora-r 64 --lora-alpha 128 --device 0 --load-4bit
 
-# STEP 6: Re-run YOLO inference on all remaining images
-python3 workflow_stage_top15.py --device 0 --det-weights runs/detect/stamp_sig_v7/weights/best.pt
 
-# STEP 7: Stage next TOP 30 with NEW VLM LoRA
-python3 stage_next_top15_v2.py --device 0 --use-lora --top-n 30
+# ============================================================
+# SUBMISSION TESTING
+# ============================================================
 
-# STEP 8: Backup labels before annotation
-python3 snapshot_labels.py
+# Test executable with a sample image
+python3 executable.py train/172566189_1_pg10.png --output sample_output/test_result.json
 
-# STEP 9: Annotate with labelme
-labelme annotations/seed/in_progress/images/ --labels signature,stamp --output annotations/seed/in_progress/labels/
+# Test with a PDF (if available)
+# python3 executable.py sample.pdf --output sample_output/pdf_result.json
 
-# STEP 10: Merge labelme annotations back
-python3 convert_labelme_merge.py --overlays
+
+# ============================================================
+# SUBMISSION PACKAGE
+# ============================================================
+# Required files:
+# - executable.py (main script - accepts PDF or Image)
+# - requirements.txt (dependencies)
+# - README.md (documentation)
+# - models/qwen2.5-vl-7b-instruct/ (base VLM)
+# - vlm_lora_out/ (fine-tuned LoRA adapter)
+# - runs/detect/stamp_sig_v62/weights/best.pt (YOLO model)
+# - sample_output/result.json (example output)
+
+# Usage:
+#   python executable.py <input_pdf_or_image> [--output result.json]
+#   python executable.py invoice.pdf --output result.json
+#   python executable.py document.png --output result.json

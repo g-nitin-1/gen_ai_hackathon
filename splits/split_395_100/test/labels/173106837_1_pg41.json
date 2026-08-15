@@ -1,0 +1,22 @@
+{
+  "doc_id": "173106837_1_pg41",
+  "fields": {
+    "dealer_name": "PATHAN MOTORS AND TRACTORS",
+    "model_name": "DI-745 III POWER PLUS OIB PS",
+    "horse_power": 47,
+    "asset_cost": 750000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.000; VLM logprob=-0.020; please verify",
+  "vlm_conf_logprob": -0.020094716172664562
+}

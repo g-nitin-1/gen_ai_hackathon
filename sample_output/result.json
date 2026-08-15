@@ -1,0 +1,27 @@
+{
+  "doc_id": "172566189_1_pg10",
+  "fields": {
+    "dealer_name": "SRI AMUTHAM TRACTORS",
+    "model_name": "SONALIKA TIGER 55-4WD",
+    "horse_power": 55,
+    "asset_cost": 1200000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        939.8440551757812,
+        1307.826416015625,
+        1147.105712890625,
+        1496.0
+      ],
+      "conf": 0.6585653424263
+    }
+  },
+  "confidence": 0.6586,
+  "processing_time_sec": 11.31,
+  "cost_estimate_usd": 0.002
+}

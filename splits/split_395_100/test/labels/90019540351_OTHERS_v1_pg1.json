@@ -1,0 +1,22 @@
+{
+  "doc_id": "90019540351_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "NEW GANAA BEEJ BHANDAR",
+    "model_name": "DIGITRAC PP 3i",
+    "horse_power": 50,
+    "asset_cost": 850000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.000; VLM logprob=-0.084; please verify",
+  "vlm_conf_logprob": -0.08405431821425094
+}

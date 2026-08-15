@@ -1,0 +1,29 @@
+{
+  "doc_id": "172752186_1_pg9",
+  "fields": {
+    "dealer_name": "MAA TRACTOR WHEELS",
+    "model_name": "655 DI 4WD CRDI",
+    "horse_power": 65,
+    "asset_cost": 1325000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        871.6470588235294,
+        1181.627450980392,
+        1018.7058823529411,
+        1313.0
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        855.9607843137255,
+        1163.9803921568628,
+        1034.3921568627452,
+        1342.4117647058824
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "YOLO score=1.834; VLM logprob=-0.031; please verify"
+}

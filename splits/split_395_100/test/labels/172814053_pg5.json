@@ -1,0 +1,32 @@
+{
+  "doc_id": "172814053_pg5",
+  "fields": {
+    "dealer_name": "M. MADHVLAKSHMI AUTOMOBILS",
+    "model_name": "SONALIKA INTERNATIONAL TRACTOR GT 22 GARDENTRAC 4WD",
+    "horse_power": 22,
+    "asset_cost": 450000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        943.6954956054688,
+        1254.23828125,
+        1063.4342041015625,
+        1335.1336669921875
+      ],
+      "conf": 0.7946820259094238
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        906.8734741210938,
+        1196.133056640625,
+        1085.304443359375,
+        1367.5404052734375
+      ],
+      "conf": 0.9562193155288696
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.751; VLM logprob=-0.133; please verify",
+  "vlm_conf_logprob": -0.13315497814017768
+}

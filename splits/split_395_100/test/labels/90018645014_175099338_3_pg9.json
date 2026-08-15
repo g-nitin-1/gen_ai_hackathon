@@ -1,0 +1,22 @@
+{
+  "doc_id": "90018645014_175099338_3_pg9",
+  "fields": {
+    "dealer_name": "Mahindra M/s Shivnath Tractors",
+    "model_name": "585 YUVO DI Tech+ 4WD",
+    "horse_power": 49,
+    "asset_cost": 885000,
+    "signature": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.000; VLM logprob=-0.056; please verify",
+  "vlm_conf_logprob": -0.0556389653363319
+}

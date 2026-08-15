@@ -1,0 +1,32 @@
+{
+  "doc_id": "172679320_3_pg18",
+  "fields": {
+    "dealer_name": "JAY BHAGWATI TRACTORS",
+    "model_name": "STEELTRAC 18",
+    "horse_power": 18,
+    "asset_cost": 373400,
+    "signature": {
+      "present": true,
+      "bbox": [
+        928.2325439453125,
+        1144.7847900390625,
+        1110.577392578125,
+        1210.9443359375
+      ],
+      "conf": 0.7441222667694092
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        866.4049072265625,
+        1089.61181640625,
+        1122.8519287109375,
+        1255.8214111328125
+      ],
+      "conf": 0.7160537242889404
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.460; VLM logprob=-0.011; please verify",
+  "vlm_conf_logprob": -0.010837844504922032
+}

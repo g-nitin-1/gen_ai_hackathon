@@ -1,0 +1,29 @@
+{
+  "doc_id": "90019480454_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "VISOK TRADERS",
+    "model_name": "EICHER 251",
+    "horse_power": 24,
+    "asset_cost": 450000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        925.5555555555557,
+        1487.8333333333335,
+        1117.2222222222222,
+        1554.5000000000002
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        789.4444444444445,
+        1476.7222222222224,
+        1175.5555555555557,
+        1579.5000000000002
+      ]
+    }
+  },
+  "source": "labelme_manual",
+  "notes": "auto-filled; please verify | signature/stamp via CV heuristic"
+}

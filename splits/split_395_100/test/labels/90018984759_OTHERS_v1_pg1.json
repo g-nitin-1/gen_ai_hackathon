@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018984759_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "SRI GAYATHRI AUTOMOTIVES",
+    "model_name": "551 4WD",
+    "horse_power": 49,
+    "asset_cost": 1030000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        1002.4744873046875,
+        1387.697998046875,
+        1182.9859619140625,
+        1436.3411865234375
+      ],
+      "conf": 0.8156494498252869
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        976.0462646484375,
+        1370.5538330078125,
+        1181.5655517578125,
+        1457.896240234375
+      ],
+      "conf": 0.8472424149513245
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.663; VLM logprob=-0.006; please verify",
+  "vlm_conf_logprob": -0.0059958447225147895
+}

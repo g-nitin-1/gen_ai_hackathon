@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019232302_1_v1_pg1",
+  "fields": {
+    "dealer_name": "Sri Rajalakshmi Agency",
+    "model_name": "PA 47 SC",
+    "horse_power": 50,
+    "asset_cost": 840000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        912.5777587890625,
+        1514.5302734375,
+        1038.4849853515625,
+        1601.7039794921875
+      ],
+      "conf": 0.5876579284667969
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        885.9595947265625,
+        1450.811279296875,
+        1094.8096923828125,
+        1655.6087646484375
+      ],
+      "conf": 0.9072503447532654
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.495; VLM logprob=-0.056; please verify",
+  "vlm_conf_logprob": -0.055510503130315796
+}

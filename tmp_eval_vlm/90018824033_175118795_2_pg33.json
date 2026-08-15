@@ -1,0 +1,12 @@
+{
+  "doc_id": "90018824033_175118795_2_pg33",
+  "vlm_model": "models/qwen2.5-vl-7b-instruct",
+  "raw_text": "system\nYou are a document extraction model. Read the tractor invoice/quotation image and return JSON with:\ndealer_name (string), model_name (string), horse_power (ONLY the numeric value, e.g. 45 not '45 HP'), asset_cost (ONLY the numeric value, no commas or currency symbols). If a field is missing, use empty string or null. Do not include units or text in numeric fields.\nuser\nReturn JSON only.\nassistant\n\"{\\\"dealer_name\\\": \\\"Amar Tractors & Farm Implement\\\", \\\"model_name\\\": \\\"Mahindra 275 NBP\\\", \\\"horse_power\\\": 39, \\\"asset_cost\\\": 730115}\"",
+  "parsed": {
+    "dealer_name": "Amar Tractors & Farm Implement",
+    "model_name": "Mahindra 275 NBP",
+    "horse_power": 39,
+    "asset_cost": 730115
+  },
+  "conf_logprob": -0.03948731831056648
+}

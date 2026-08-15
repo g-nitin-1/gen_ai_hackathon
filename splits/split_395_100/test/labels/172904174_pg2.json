@@ -1,0 +1,32 @@
+{
+  "doc_id": "172904174_pg2",
+  "fields": {
+    "dealer_name": "Swaraj",
+    "model_name": "SWARAJ 724 XM ORCHARD",
+    "horse_power": 24,
+    "asset_cost": 630000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        742.3916625976562,
+        1425.5423583984375,
+        893.700439453125,
+        1501.964111328125
+      ],
+      "conf": 0.8868982195854187
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        719.2208862304688,
+        1362.7227783203125,
+        910.0109252929688,
+        1543.80859375
+      ],
+      "conf": 0.9535425901412964
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.840; VLM logprob=-0.048; please verify",
+  "vlm_conf_logprob": -0.04832259185965157
+}

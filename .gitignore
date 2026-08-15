@@ -57,3 +57,7 @@ __pycache__/
 
 # Misc
 =9.0
+
+# Generated submissions and embedded-image training exports
+submission.zip
+splits/split_395_100/vlm_train.jsonl

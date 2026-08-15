@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018412738_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "M/s. HIREMATH TRACTORS",
+    "model_name": "EICHER-557",
+    "horse_power": 50,
+    "asset_cost": 987000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        3405.169677734375,
+        5377.1826171875,
+        3779.28955078125,
+        5746.17138671875
+      ],
+      "conf": 0.7678297758102417
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        3275.06005859375,
+        5243.25048828125,
+        3927.991455078125,
+        5796.0
+      ],
+      "conf": 0.9264419674873352
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.694; VLM logprob=-0.039; please verify",
+  "vlm_conf_logprob": -0.03857927230945265
+}

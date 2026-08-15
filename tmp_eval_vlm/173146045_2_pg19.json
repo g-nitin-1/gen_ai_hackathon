@@ -1,0 +1,12 @@
+{
+  "doc_id": "173146045_2_pg19",
+  "vlm_model": "models/qwen2.5-vl-7b-instruct",
+  "raw_text": "system\nYou are a document extraction model. Read the tractor invoice/quotation image and return JSON with:\ndealer_name (string), model_name (string), horse_power (ONLY the numeric value, e.g. 45 not '45 HP'), asset_cost (ONLY the numeric value, no commas or currency symbols). If a field is missing, use empty string or null. Do not include units or text in numeric fields.\nuser\nReturn JSON only.\nassistant\n\"{\\\"dealer_name\\\": \\\"SWASTIK AGRO SOLUTIONS\\\", \\\"model_name\\\": \\\"MAHINDRA NOVO-605-4WD\\\", \\\"horse_power\\\": 49.3, \\\"asset_cost\\\": 910000}\"",
+  "parsed": {
+    "dealer_name": "SWASTIK AGRO SOLUTIONS",
+    "model_name": "MAHINDRA NOVO-605-4WD",
+    "horse_power": 49.3,
+    "asset_cost": 910000
+  },
+  "conf_logprob": -0.017339284479211643
+}

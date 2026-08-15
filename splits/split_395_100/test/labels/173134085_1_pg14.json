@@ -1,0 +1,32 @@
+{
+  "doc_id": "173134085_1_pg14",
+  "fields": {
+    "dealer_name": "M/s. SHRI RAM TRACTORS",
+    "model_name": "POWERTRAC DIGITRAC PP 461",
+    "horse_power": 50,
+    "asset_cost": 890000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        717.0589599609375,
+        1354.0030517578125,
+        863.1298828125,
+        1413.8060302734375
+      ],
+      "conf": 0.6405723690986633
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        772.1107788085938,
+        1326.6748046875,
+        960.1895141601562,
+        1443.1937255859375
+      ],
+      "conf": 0.7991940975189209
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.440; VLM logprob=-0.052; please verify",
+  "vlm_conf_logprob": -0.0517985653381406
+}

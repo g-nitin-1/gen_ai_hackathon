@@ -1,0 +1,32 @@
+{
+  "doc_id": "173615098_2_pg29",
+  "fields": {
+    "dealer_name": "S. L. AGARWAL & CO.",
+    "model_name": "FARMTRAC CHAMPION XP41",
+    "horse_power": 42,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        868.09619140625,
+        1272.5526123046875,
+        984.5233154296875,
+        1357.4775390625
+      ],
+      "conf": 0.7479544281959534
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        858.384765625,
+        1217.1734619140625,
+        1000.1138305664062,
+        1369.6282958984375
+      ],
+      "conf": 0.8740699291229248
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.622; VLM logprob=-0.014; please verify",
+  "vlm_conf_logprob": -0.013585146745378793
+}

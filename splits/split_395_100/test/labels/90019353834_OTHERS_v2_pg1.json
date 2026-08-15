@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019353834_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "Guru Kirpa Automobiles",
+    "model_name": "SWARAJ 855 4WD",
+    "horse_power": 52,
+    "asset_cost": 950000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        786.5859985351562,
+        1338.5439453125,
+        961.802978515625,
+        1452.1220703125
+      ],
+      "conf": 0.775763988494873
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        749.5676879882812,
+        1278.725341796875,
+        982.0086669921875,
+        1515.77734375
+      ],
+      "conf": 0.9460225701332092
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.722; VLM logprob=-0.073; please verify",
+  "vlm_conf_logprob": -0.07300412164654077
+}

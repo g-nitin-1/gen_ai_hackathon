@@ -1,0 +1,27 @@
+{
+  "doc_id": "172812976_1_pg17",
+  "fields": {
+    "dealer_name": "JAI TRACTORS",
+    "model_name": "856",
+    "horse_power": 42,
+    "asset_cost": 630000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        80.01614379882812,
+        562.592041015625,
+        252.83924865722656,
+        666.3358154296875
+      ],
+      "conf": 0.5256885290145874
+    },
+    "stamp": {
+      "present": false,
+      "bbox": null,
+      "conf": 0.0
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=0.526; VLM logprob=-0.048; please verify",
+  "vlm_conf_logprob": -0.04820103350412288
+}

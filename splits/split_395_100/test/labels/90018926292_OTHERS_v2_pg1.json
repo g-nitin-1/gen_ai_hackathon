@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018926292_OTHERS_v2_pg1",
+  "fields": {
+    "dealer_name": "M.Bancker Patil Tractors",
+    "model_name": "PowerTrac PT EURO 47",
+    "horse_power": 47,
+    "asset_cost": 761000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        883.5585327148438,
+        1383.3521728515625,
+        1046.351318359375,
+        1468.9749755859375
+      ],
+      "conf": 0.8693740963935852
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        850.96728515625,
+        1338.41845703125,
+        1049.33837890625,
+        1502.5499267578125
+      ],
+      "conf": 0.9569162130355835
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.826; VLM logprob=-0.179; please verify",
+  "vlm_conf_logprob": -0.17947847881637594
+}

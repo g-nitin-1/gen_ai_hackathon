@@ -1,0 +1,32 @@
+{
+  "doc_id": "173074584_3_pg12",
+  "fields": {
+    "dealer_name": "Nayak Auto Care",
+    "model_name": "Eicher 380",
+    "horse_power": 40,
+    "asset_cost": 610000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        935.3505859375,
+        1245.9267578125,
+        1083.7855224609375,
+        1326.093994140625
+      ],
+      "conf": 0.8933534622192383
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        884.4952392578125,
+        1169.007080078125,
+        1091.623779296875,
+        1371.5679931640625
+      ],
+      "conf": 0.9516053795814514
+    }
+  },
+  "source": "vlm+yolo_v5",
+  "notes": "YOLO score=1.845; VLM logprob=0.000; please verify",
+  "vlm_conf_logprob": -0.07541908134473103
+}

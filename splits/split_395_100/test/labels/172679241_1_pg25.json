@@ -1,0 +1,32 @@
+{
+  "doc_id": "172679241_1_pg25",
+  "fields": {
+    "dealer_name": "CHAMUNDESWARI AGENCIES",
+    "model_name": "735 FE",
+    "horse_power": 40,
+    "asset_cost": 720000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        826.8201293945312,
+        1354.427978515625,
+        964.2704467773438,
+        1413.3331298828125
+      ],
+      "conf": 0.6574458479881287
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        788.4633178710938,
+        1303.6541748046875,
+        963.6599731445312,
+        1473.192626953125
+      ],
+      "conf": 0.946841835975647
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.604; VLM logprob=-0.029; please verify",
+  "vlm_conf_logprob": -0.029107850158006744
+}

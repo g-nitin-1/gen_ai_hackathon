@@ -1,0 +1,32 @@
+{
+  "doc_id": "90018953627_1_v1_pg1",
+  "fields": {
+    "dealer_name": "SAI OM TRACTORS",
+    "model_name": "Escorts Farmtrac Super Delux",
+    "horse_power": 55,
+    "asset_cost": 750000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        877.9274291992188,
+        1471.1246337890625,
+        1007.5447998046875,
+        1519.9881591796875
+      ],
+      "conf": 0.7538167238235474
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        771.9642944335938,
+        1433.0584716796875,
+        1037.735595703125,
+        1542.803955078125
+      ],
+      "conf": 0.6937175989151001
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.448; VLM logprob=-0.045; please verify",
+  "vlm_conf_logprob": -0.044963130029392485
+}

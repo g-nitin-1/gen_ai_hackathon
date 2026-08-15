@@ -1,0 +1,32 @@
+{
+  "doc_id": "90019603825_OTHERS_v1_pg1",
+  "fields": {
+    "dealer_name": "Jain Tractors",
+    "model_name": "MF 216 DYNA",
+    "horse_power": 46,
+    "asset_cost": 790000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        929.7114868164062,
+        1447.61865234375,
+        1090.8974609375,
+        1565.07080078125
+      ],
+      "conf": 0.7278720736503601
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        904.81396484375,
+        1422.885498046875,
+        1100.379150390625,
+        1653.105712890625
+      ],
+      "conf": 0.7961318492889404
+    }
+  },
+  "source": "vlm_lora+yolo_v5",
+  "notes": "YOLO score=1.524; VLM logprob=-0.104; please verify",
+  "vlm_conf_logprob": -0.10367501059363349
+}
